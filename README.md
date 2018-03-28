@@ -16,6 +16,10 @@
 > 「八戒」「悟空」的规则数据共享。
 
 
+#### 寻找组织
+- [Telegram(打开404的话 你懂的)](https://t.me/joinchat/BLuH808gFtJ03aqPlzXEaQ)
+- [QQ群：559898993](https://jq.qq.com/?_wv=1027&k=5aLvUhf)
+
 #### 目录
 - [八戒助手](https://github.com/jdlingyu/ad-wars/wiki/01-八戒助手)
 - [八戒坐标](https://github.com/jdlingyu/ad-wars/wiki/02-八戒坐标)
