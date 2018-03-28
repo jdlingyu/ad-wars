@@ -17,10 +17,10 @@
 
 
 #### 目录
-- [八戒助手](01-八戒助手.md)
-- [八戒坐标](02-八戒坐标.md)
-- [八戒FAQ](03-八戒FAQ.md)
-- [悬浮窗解码](08-悬浮窗解码.md)
-- [保持应用后台设置](09-保持应用后台设置.md)
-- [悟空加速](11-悟空加速.md)
-- [替换规则](21-广告文件替换.md)
+- [八戒助手](https://github.com/jdlingyu/ad-wars/wiki/01-八戒助手.md)
+- [八戒坐标](https://github.com/jdlingyu/ad-wars/wiki/02-八戒坐标.md)
+- [八戒FAQ](https://github.com/jdlingyu/ad-wars/wiki/03-八戒FAQ.md)
+- [悬浮窗解码](https://github.com/jdlingyu/ad-wars/wiki/08-悬浮窗解码.md)
+- [保持应用后台设置](https://github.com/jdlingyu/ad-wars/wiki/09-保持应用后台设置.md)
+- [悟空加速](https://github.com/jdlingyu/ad-wars/wiki/11-悟空加速.md)
+- [替换规则](https://github.com/jdlingyu/ad-wars/wiki/21-广告文件替换.md)
