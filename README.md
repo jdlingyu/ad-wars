@@ -21,10 +21,11 @@
 - [QQ群：559898993](https://jq.qq.com/?_wv=1027&k=5aLvUhf)
 
 #### 目录
-- [八戒助手](https://github.com/jdlingyu/ad-wars/wiki/01-八戒助手)
-- [八戒坐标](https://github.com/jdlingyu/ad-wars/wiki/02-八戒坐标)
-- [八戒FAQ](https://github.com/jdlingyu/ad-wars/wiki/03-八戒FAQ)
-- [悬浮窗解码](https://github.com/jdlingyu/ad-wars/wiki/08-悬浮窗解码)
-- [保持应用后台设置](https://github.com/jdlingyu/ad-wars/wiki/09-保持应用后台设置)
-- [悟空加速](https://github.com/jdlingyu/ad-wars/wiki/11-悟空加速)
-- [替换规则](https://github.com/jdlingyu/ad-wars/wiki/21-广告文件替换)
+- [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/ad-wars.md)
+- [八戒助手](https://github.com/jdlingyu/ad-wars/wiki/01-八戒助手.md)
+- [八戒坐标](https://github.com/jdlingyu/ad-wars/wiki/02-八戒坐标.md)
+- [八戒FAQ](https://github.com/jdlingyu/ad-wars/wiki/03-大圣FAQ.md)
+- [悬浮窗解码](https://github.com/jdlingyu/ad-wars/wiki/08-悬浮窗解码.md)
+- [保持应用后台设置](https://github.com/jdlingyu/ad-wars/wiki/09-保持应用后台设置.md)
+- [悟空加速](https://github.com/jdlingyu/ad-wars/wiki/11-悟空加速.md)
+- [替换规则](https://github.com/jdlingyu/ad-wars/wiki/21-广告文件替换.md)
