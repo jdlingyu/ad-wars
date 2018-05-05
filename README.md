@@ -21,7 +21,7 @@
 - [QQ群：559898993](https://jq.qq.com/?_wv=1027&k=5aLvUhf)
 
 #### 目录
-- [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/ad-wars)
+- [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/00-悟空净化)
 - [八戒助手](https://github.com/jdlingyu/ad-wars/wiki/01-八戒助手)
 - [八戒坐标](https://github.com/jdlingyu/ad-wars/wiki/02-八戒坐标)
 - [大圣FAQ](https://github.com/jdlingyu/ad-wars/wiki/03-大圣FAQ)
