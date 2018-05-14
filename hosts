@@ -279,6 +279,11 @@
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
+127.0.0.1 adsp.xunlei.com
+127.0.0.1 astat.bugly.qq.com
+127.0.0.1 api.map.baidu.com
+127.0.0.1 lbs.map.qq.com
+127.0.0.1 android.bugly.qq.com
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 google-analytics.com
 127.0.0.1 googlesyndication.com
@@ -1005,7 +1010,6 @@
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 127.0.0.1 xunlei.adx.admaster.com.cn
-127.0.0.1 adsp.xunlei.com
 127.0.0.1 www.admaster.com.cn
 127.0.0.1 js.admin6.com
 127.0.0.1 conversion.adpro.cn
