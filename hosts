@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器提示误伤(那么不勾选)
+#pkg=white.ad.web.com;浏览器提示误伤(不勾选下面两条)
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 livew.l.qq.com
 
@@ -273,8 +273,16 @@
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 s.youmi.net
+127.0.0.1 r.youmi.net
+127.0.0.1 stat.gw.youmi.net
+127.0.0.1 track.dmp.youmi.net
+127.0.0.1 bid.adview.cn
 127.0.0.1 shuttle.bayescom.com
 127.0.0.1 ad.bayescom.com
+127.0.0.1 sf1-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
+127.0.0.1 adsdk.dmzj.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 s.qtad.qingting.fm
 127.0.0.1 ad.ximalaya.com
@@ -294,10 +302,50 @@
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 adsp.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
+127.0.0.1 biz.live.xunlei.com
+127.0.0.1 ct.niu.xunlei.com
+127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 sdksitter.m.sjzhushou.com
+127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 astat.bugly.qq.com
-127.0.0.1 api.map.baidu.com
-127.0.0.1 lbs.map.qq.com
 127.0.0.1 android.bugly.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 dp3.qq.com
+127.0.0.1 yun-hl.3g.qq.com
+127.0.0.1 adsin.zhangyoubao.com
+127.0.0.1 sdk.cferw.com
+127.0.0.1 anquan.luomi.com
+127.0.0.1 sdk.zsdfm.com
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 adtrack.ucweb.com
+127.0.0.1 hk.napi.ucweb.com
+127.0.0.1 kwurl.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 rescn.u3.ucweb.com
+127.0.0.1 sea.napi.ucweb.com
+127.0.0.1 uc9.ucweb.com
+127.0.0.1 ucus.ucweb.com
+127.0.0.1 up1.tj.u2.ucweb.com
+127.0.0.1 up4.ucweb.com
+127.0.0.1 vs2.gzcu.u3.ucweb.com
+127.0.0.1 wap3.ucweb.com
+127.0.0.1 m.uczzd.cn
+127.0.0.1 m.uc123.com
+127.0.0.1 alissl.ucdl.pp.uc.cn
+127.0.0.1 api.mp.uc.cn
+127.0.0.1 applog.uc.cn
+127.0.0.1 hao.uc.cn
+127.0.0.1 puds.test.uae.uc.cn
+127.0.0.1 track.uc.cn
+127.0.0.1 woodpecker.uc.cn
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 patriot.cs.pp.cn
+127.0.0.1 server.m.pp.cn
+127.0.0.1 huichuan.sm.cn
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com
+127.0.0.1 ad.gtbrowser.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 google-analytics.com
