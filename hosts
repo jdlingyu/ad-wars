@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器提示误伤(不勾选下面两条)
+#pkg=white.ad.web.com;浏览器提示误伤(不勾选以下两条)
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 livew.l.qq.com
 
@@ -262,7 +262,20 @@
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 api.adv.ott.cibntv.net
 
-#pkg=app.ad.clouddn.com;（山寨云）Village
+#（魔力视频）Molitv
+127.0.0.1 ad.molitv.cn
+127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 ems.cp12.wasu.tv
+127.0.0.1 pl.cp12.wasu.tv
+127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 valatm.cp12.wasu.tv
+127.0.0.1 adlog.molitv.cn
+127.0.0.1 ipmatm.cp12.wasu.tv
+127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 topapi.cp12.wasu.tv
+127.0.0.1 countatm.cp12.wasu.tv
+
+#（大圣规则补充）
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
 127.0.0.1 config.adview.cn
 127.0.0.1 alog.umeng.com
@@ -317,35 +330,8 @@
 127.0.0.1 sdk.cferw.com
 127.0.0.1 anquan.luomi.com
 127.0.0.1 sdk.zsdfm.com
-127.0.0.1 adn.insight.ucweb.com
-127.0.0.1 adtrack.ucweb.com
-127.0.0.1 hk.napi.ucweb.com
-127.0.0.1 kwurl.ucweb.com
-127.0.0.1 puds.ucweb.com
-127.0.0.1 rescn.u3.ucweb.com
-127.0.0.1 sea.napi.ucweb.com
-127.0.0.1 uc9.ucweb.com
-127.0.0.1 ucus.ucweb.com
-127.0.0.1 up1.tj.u2.ucweb.com
-127.0.0.1 up4.ucweb.com
-127.0.0.1 vs2.gzcu.u3.ucweb.com
-127.0.0.1 wap3.ucweb.com
-127.0.0.1 m.uczzd.cn
-127.0.0.1 m.uc123.com
-127.0.0.1 alissl.ucdl.pp.uc.cn
-127.0.0.1 api.mp.uc.cn
-127.0.0.1 applog.uc.cn
-127.0.0.1 hao.uc.cn
-127.0.0.1 puds.test.uae.uc.cn
-127.0.0.1 track.uc.cn
-127.0.0.1 woodpecker.uc.cn
-127.0.0.1 log.cs.pp.cn
-127.0.0.1 patriot.cs.pp.cn
-127.0.0.1 server.m.pp.cn
-127.0.0.1 huichuan.sm.cn
-127.0.0.1 u.uc123.com
-127.0.0.1 u.ucfly.com
 127.0.0.1 ad.gtbrowser.com
+127.0.0.1 adnew.wifi8.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 google-analytics.com
