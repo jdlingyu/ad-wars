@@ -33,6 +33,13 @@
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 vt.ipinyou.com
+127.0.0.1 sdk2.youguoquan.com
+127.0.0.1 si1.go2yd.com
+127.0.0.1 ts.market.mi-img.com
+127.0.0.1 m.track.ad.xiaomi.com
+127.0.0.1 dl.url.cn
+127.0.0.1 msg.71.am
 
 #pkg=iqiyi.com;（爱奇艺）iqiyi
 127.0.0.1 api.cupid.iqiyi.com
@@ -69,6 +76,9 @@
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 rlog-video.conn.aiseet.atianqi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+127.0.0.1 g.dtv.cn.miaozhen.com
 
 #pkg=tv.qq.com;（腾讯视频）Tencent
 127.0.0.1 aiseet.aa.atianqi.com
@@ -252,17 +262,7 @@
 127.0.0.1 xray.jebe.renren.com
 127.0.0.1 pat.farvd.com
 
-#pkg=ad.cache.dopool.com;（手机电视）Dopool
-127.0.0.1 ad-cache.dopool.com
-127.0.0.1 analytics3.dopool.com
-127.0.0.1 adapi.starschina.com
-127.0.0.1 analytics3.starschina.com
-127.0.0.1 app.starschina.com
-127.0.0.1 ssp.cibn.starschina.com
-127.0.0.1 ssp.tadseeker.com
-127.0.0.1 api.adv.ott.cibntv.net
-
-#（魔力视频）Molitv
+#pkg=ad.molitv.cn;（魔力视频）Molitv
 127.0.0.1 ad.molitv.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ems.cp12.wasu.tv
@@ -305,24 +305,6 @@
 127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 r.inad.com
-127.0.0.1 cloudservice13.kingsoft-office-service.com
-127.0.0.1 cloudservice22.kingsoft-office-service.com
-127.0.0.1 mo.res.wpscdn.cn
-127.0.0.1 mostat.wps.cn
-127.0.0.1 counter.kingsoft.com
-127.0.0.1 event.ksosoft.com
-127.0.0.1 uid.ksosoft.com
-127.0.0.1 ups.ksmobile.net
-127.0.0.1 ws.ksmobile.net
-127.0.0.1 adsp.xunlei.com
-127.0.0.1 api-shoulei-ssl.xunlei.com
-127.0.0.1 biz.live.xunlei.com
-127.0.0.1 ct.niu.xunlei.com
-127.0.0.1 mou.niu.xunlei.com
-127.0.0.1 sdksitter.m.sjzhushou.com
-127.0.0.1 static.m.sjzhushou.com
-127.0.0.1 astat.bugly.qq.com
-127.0.0.1 android.bugly.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 dp3.qq.com
 127.0.0.1 yun-hl.3g.qq.com
@@ -332,6 +314,16 @@
 127.0.0.1 sdk.zsdfm.com
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 adnew.wifi8.com
+
+#pkg=ad.dopool.com;（手机电视）Dopool
+127.0.0.1 ad-cache.dopool.com
+127.0.0.1 analytics3.dopool.com
+127.0.0.1 adapi.starschina.com
+127.0.0.1 analytics3.starschina.com
+127.0.0.1 app.starschina.com
+127.0.0.1 ssp.cibn.starschina.com
+127.0.0.1 ssp.tadseeker.com
+127.0.0.1 api.adv.ott.cibntv.net
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 google-analytics.com
@@ -617,33 +609,12 @@
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 openrcv.baidu.com
-127.0.0.1 adx.xiaodutv.com
-127.0.0.1 uat1.bfsspadserver.8le8le.com
-127.0.0.1 adscdn.baidu.com
-127.0.0.1 api.cpu.baidu.com
-127.0.0.1 baichuan.baidu.com
-127.0.0.1 bce.baidu.com
-127.0.0.1 click.bes.baidu.com
-127.0.0.1 click.hm.baidu.com
-127.0.0.1 cm.baichuan.baidu.com
-127.0.0.1 ers.baidu.com
-127.0.0.1 fclick.baidu.com
-127.0.0.1 fexclick.baidu.com
-127.0.0.1 g.baidu.com
-127.0.0.1 release.baidu.com
-127.0.0.1 rplog.baidu.com
-127.0.0.1 sclick.baidu.com
-127.0.0.1 share.baidu.com
-127.0.0.1 tuijian.baidu.com
-127.0.0.1 unionimage.baidu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
 127.0.0.1 ad.player.baidu.com
-127.0.0.1 dd713.bj.bcebos.com
-127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
 127.0.0.1 sestat.baidu.com
@@ -653,19 +624,6 @@
 127.0.0.1 hmma.baidu.com
 
 #pkg=qq.com;腾讯广告服务
-127.0.0.1 aeventlog.beacon.qq.com
-127.0.0.1 android.rqd.qq.com
-127.0.0.1 astrategy.beacon.qq.com
-127.0.0.1 eventlog.beacon.qq.com
-127.0.0.1 monitor.uu.qq.com
-127.0.0.1 omgmta.qq.com
-127.0.0.1 omgmta1.qq.com
-127.0.0.1 oth.eve.mdt.qq.com
-127.0.0.1 oth.str.mdt.qq.com
-127.0.0.1 oth.update.mdt.qq.com
-127.0.0.1 pingma.qq.com
-127.0.0.1 sngmta.qq.com
-127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adping.qq.com
@@ -713,22 +671,8 @@
 127.0.0.1 t.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
-127.0.0.1 scdown.qq.com
-127.0.0.1 download.sj.qq.com
-127.0.0.1 c.gj.qq.com
-127.0.0.1 t.sj.qq.com
-127.0.0.1 ws.sj.qq.com
 
 #pkg=alibaba.com;阿里广告服务
-127.0.0.1 afp.alicdn.com
-127.0.0.1 afpmm.alicdn.com
-127.0.0.1 asearch.alicdn.com
-127.0.0.1 atanx.alicdn.com
-127.0.0.1 atanx2.alicdn.com
-127.0.0.1 nbsdk-baichuan.alicdn.com
-127.0.0.1 a.alimama.cn
-127.0.0.1 afpeng.alimama.com
-127.0.0.1 afpssp.alimama.com
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
@@ -739,10 +683,6 @@
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
-127.0.0.1 aecpm.alicdn.com
-127.0.0.1 alimama.alicdn.com
-127.0.0.1 gen.alicdn.com
-127.0.0.1 strip.alicdn.com
 127.0.0.1 file.ipinyou.com.cn
 127.0.0.1 i.ipinyou.com
 127.0.0.1 ipinyou.com
@@ -751,25 +691,6 @@
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 www.ipinyou.com
 127.0.0.1 www.ipinyou.com.cn
-127.0.0.1 bm.alimama.cn
-127.0.0.1 bmvip.alimama.cn
-127.0.0.1 cb.alimama.cn
-127.0.0.1 img.alimama.cn
-127.0.0.1 tw.alimama.cn
-127.0.0.1 acookie.alimama.com
-127.0.0.1 afptrack.alimama.com
-127.0.0.1 banner.alimama.com
-127.0.0.1 c.alimama.com
-127.0.0.1 cpc.click.alimama.com
-127.0.0.1 p.alimama.com
-127.0.0.1 static.alimama.com
-127.0.0.1 t.alimama.com
-127.0.0.1 i.mmcdn.cn
-127.0.0.1 go.mmstat.com
-127.0.0.1 gxb.mmstat.com
-127.0.0.1 hz.mmstat.com
-127.0.0.1 p3p.mmstat.com
-127.0.0.1 res.mmstat.com
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com
 127.0.0.1 s.phpwind.com
@@ -803,6 +724,8 @@
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 tunion-api.m.taobao.com
+127.0.0.1 unidesk.alicdn.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 127.0.0.1 ad.doubleclick.net
@@ -1350,3 +1273,4 @@
 127.0.0.1 ad.googleanalysis.mobi
 127.0.0.1 stat.googleanalysis.mobi
 127.0.0.1 www.admarket.mobi
+127.0.0.1 uop.umeng.com
