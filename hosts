@@ -285,7 +285,6 @@
 
 #pkg=ad.cmvideo.cn;（咪咕视频）Cmvideo
 127.0.0.1 ggx.cmvideo.cn
-127.0.0.1 api.zhihu.com
 
 #pkg=ad.adwars.com;大圣净化规则
 127.0.0.1 config.adview.cn
