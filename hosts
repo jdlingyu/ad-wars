@@ -369,7 +369,7 @@
 127.0.0.1 mydisplay.ctfile.com
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 m.360buyimg.com
+#127.0.0.1 m.360buyimg.com
 127.0.0.1 mobds.pthejzb.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
