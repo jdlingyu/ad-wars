@@ -38,9 +38,6 @@
 127.0.0.1 msg.71.am
 127.0.0.1 msg.qy.net
 127.0.0.1 o2o.api.xiaomi.com
-127.0.0.1 v14-2163824100.z.irs01.com
-127.0.0.1 v14-2264658400.z.irs01.com
-127.0.0.1 v14-2264817600.z.irs01.com
 
 #pkg=iqiyi.com;（ 爱奇艺 ）Qiyi
 127.0.0.1 api.cupid.iqiyi.com
@@ -328,19 +325,14 @@
 127.0.0.1 adx.hupu.com
 127.0.0.1 ad.toutiao.com
 127.0.0.1 adshare.toutiao.com
+127.0.0.1 mon.snssdk.com
 127.0.0.1 davinci.snssdk.com
-127.0.0.1 dm.toutiao.com
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 temai.snssdk.com
-127.0.0.1 dsp.toutiao.com
-127.0.0.1 dg.k.jd.com
-127.0.0.1 kepler.jd.com
-127.0.0.1 api.m.jd.com
-127.0.0.1 mapi.m.jd.com
 127.0.0.1 tunion-api.m.taobao.com
-127.0.0.1 rsstoutiao.oeeee.com
-127.0.0.1 toutiao-frontier.snssdk.com
-127.0.0.1 awake-stats.jpush.cn
+127.0.0.1 wgo.mmstat.com
+127.0.0.1 bdsp.x.jd.com
+127.0.0.1 dg.k.jd.com
 127.0.0.1 sf1-ttcdn-tos.pstatp.com
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
@@ -350,11 +342,24 @@
 127.0.0.1 nex.163.com
 127.0.0.1 adt.xdrig.com
 127.0.0.1 me.xdrig.com
+127.0.0.1 cloud.xdrig.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
-127.0.0.1 bla.gtimg.com
-127.0.0.1 qzpb.qq.com
-127.0.0.1 mazu.3g.qq.com
+127.0.0.1 ad.us.sinaimg.cn
+127.0.0.1 vs.biz.weibo.com
+127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 saxn.sina.com.cn
+127.0.0.1 beacon.sina.com.cn
+127.0.0.1 s3.pfp.sina.net
+127.0.0.1 d0.sina.com.cn
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 d2.sina.com.cn
+127.0.0.1 d5.sina.com.cn
+127.0.0.1 d7.sina.com.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 d9.sina.com.cn
 127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 pg-ad-b2.ws.126.net
 127.0.0.1 yt-adp.ws.126.net
@@ -367,9 +372,7 @@
 127.0.0.1 log.m.sm.cn
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 m.360buyimg.com
 127.0.0.1 mobds.pthejzb.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
@@ -698,7 +701,6 @@
 127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 wap.mpush.qq.com
-127.0.0.1 android.rqd.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
@@ -780,16 +782,6 @@
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.google-analytics.com
-127.0.0.1 bdsp.x.jd.com
-127.0.0.1 ccc-x.jd.com
-127.0.0.1 cm.jd.com
-127.0.0.1 d.jd.com
-127.0.0.1 gia.jd.com
-127.0.0.1 im-x.jd.com
-127.0.0.1 img-x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
@@ -1469,3 +1461,6 @@
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 www.admarket.mobi
 127.0.0.1 uop.umeng.com
+127.0.0.1 ulogs.umeng.com
+127.0.0.1 plbslog.umeng.com
+127.0.0.1 ulogs.umengcloud.com
