@@ -331,8 +331,10 @@
 127.0.0.1 temai.snssdk.com
 127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 wgo.mmstat.com
-127.0.0.1 bdsp.x.jd.com
-127.0.0.1 dg.k.jd.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 whoami.akamai.net
+127.0.0.1 awake-stats.jpush.cn
+127.0.0.1 dup.baidustatic.com
 127.0.0.1 sf1-ttcdn-tos.pstatp.com
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
@@ -340,6 +342,11 @@
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 g1.163.com
 127.0.0.1 nex.163.com
+127.0.0.1 ali-stats.jpush.cn
+127.0.0.1 stats.jpush.cn
+127.0.0.1 gd-stats.jpush.cn
+127.0.0.1 tsis.jpush.cn
+127.0.0.1 bjuser.jpush.cn
 127.0.0.1 adt.xdrig.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 cloud.xdrig.com
@@ -349,6 +356,7 @@
 127.0.0.1 vs.biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 login.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 saxn.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
@@ -693,7 +701,6 @@
 127.0.0.1 adv.app.qq.com
 127.0.0.1 adver.qq.com
 127.0.0.1 d3g.qq.com
-127.0.0.1 j.wit.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 qqshow2-item.qq.com
