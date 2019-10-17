@@ -39,7 +39,7 @@
 127.0.0.1 msg.qy.net
 127.0.0.1 o2o.api.xiaomi.com
 
-#pkg=iqiyi.com;（ 爱奇艺 ）Qiyi
+#pkg=iqiyi.com;（  爱奇艺 ）Qiyi
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 api.yuedu.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
@@ -290,10 +290,6 @@
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 log.umsns.com
 127.0.0.1 stats.umsns.com
-127.0.0.1 log.tbs.qq.com
-127.0.0.1 pms.mb.qq.com
-127.0.0.1 cfg.imtt.qq.com
-127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 s.youmi.net
 127.0.0.1 r.youmi.net
 127.0.0.1 stat.gw.youmi.net
@@ -326,9 +322,6 @@
 127.0.0.1 ad.toutiao.com
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 mon.snssdk.com
-127.0.0.1 davinci.snssdk.com
-127.0.0.1 analytics.snssdk.com
-127.0.0.1 temai.snssdk.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 is.snssdk.com
 127.0.0.1 whoami.akamai.net
@@ -358,7 +351,6 @@
 127.0.0.1 vs.biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
-127.0.0.1 login.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 saxn.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
@@ -710,6 +702,7 @@
 127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 wap.mpush.qq.com
+127.0.0.1 vr.gdt.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
@@ -1455,7 +1448,6 @@
 127.0.0.1 adv.app.qq.com
 127.0.0.1 adver.qq.com
 127.0.0.1 adview.cn
-127.0.0.1 adv.sec.miui.com
 127.0.0.1 ad.wang502.com
 127.0.0.1 ad.winrar.com.cn
 127.0.0.1 ad.wretch.cc
@@ -1465,7 +1457,6 @@
 127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 ad.xxguan.cn
 127.0.0.1 adx.xiaodutv.com
-127.0.0.1 adzjvnet.allyes.com
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 www.admarket.mobi
