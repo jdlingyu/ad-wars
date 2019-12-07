@@ -326,6 +326,14 @@
 127.0.0.1 adx.hupu.com
 127.0.0.1 ad.toutiao.com
 127.0.0.1 adshare.toutiao.com
+127.0.0.1 davinci.snssdk.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 analytics.snssdk.com
+127.0.0.1 temai.snssdk.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 tunion-api.m.taobao.com
+127.0.0.1 rsstoutiao.oeeee.com
+127.0.0.1 toutiao-frontier.snssdk.com
 127.0.0.1 mon.snssdk.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 is.snssdk.com
@@ -834,6 +842,7 @@
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.google-analytics.com
+127.0.0.1 bdsp.x.jd.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
