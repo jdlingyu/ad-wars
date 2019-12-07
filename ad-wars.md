@@ -36,7 +36,7 @@
 ### `更多指南`
 > [大圣净化 使用帮助](https://github.com/jdlingyu/ad-wars/wiki)
 
-### 应用下载地址(捐赠9.9 获得激活码)
+### 应用下载地址(需要激活码)
 > [大圣净化 https://fir.im/adwars](https://fir.im/adwars)
 1. 永久有效，可循环激活 
 2. 可在线购买激活码 
