@@ -31,4 +31,4 @@
 - [保持应用后台设置](https://github.com/jdlingyu/ad-wars/wiki/09-保持应用后台设置)
 - [悟空加速](https://github.com/jdlingyu/ad-wars/wiki/11-悟空加速)
 - [替换规则](https://github.com/jdlingyu/ad-wars/wiki/21-广告文件替换)
-- [沙僧规则](https://github.com/jdlingyu/ad-wars/wiki/31-沙僧规则)
+- [沙僧规则](https://github.com/jdlingyu/ad-wars/wiki/31-沙僧代理)
