@@ -12,11 +12,16 @@ m.irs01.com
 clickc.admaster.com.cn
 v.admaster.com.cn
 video.market.xiaomi.com
-t1.a.market.xiaomi.com
-t2.a.market.xiaomi.com
-t3.a.market.xiaomi.com
-t4.a.market.xiaomi.com
-t5.a.market.xiaomi.com
+
+#t1.a.market.xiaomi.com
+
+#t2.a.market.xiaomi.com
+
+#t3.a.market.xiaomi.com
+
+#t4.a.market.xiaomi.com
+
+#t5.a.market.xiaomi.com
 puma.api.iqiyi.com
 ppvabs.pplive.com
 cdn.ad.xiaomi.com
@@ -339,10 +344,7 @@ tsis.jpush.cn
 bjuser.jpush.cn
 h5.analytics.126.net
 adt.xdrig.com
-me.xdrig.com
-cloud.xdrig.com
-sugar.zhihu.com
-zhihu-web-analytics.zhihu.com
+iadmusicmat.music.126.net
 ad.us.sinaimg.cn
 vs.biz.weibo.com
 sdkapp.mobile.sina.cn
@@ -804,6 +806,8 @@ amdc.m.taobao.com
 amdcopen.m.taobao.com
 adashx4yt.m.taobao.com
 *.simba.taobao.com
+pss.alicdn.com
+eco.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 ad.doubleclick.net
