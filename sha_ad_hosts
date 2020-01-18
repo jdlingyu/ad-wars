@@ -313,7 +313,6 @@ adx.hupu.com
 goblin.hupu.com
 ad.toutiao.com
 adshare.toutiao.com
-mon.snssdk.com
 wgo.mmstat.com
 is.snssdk.com
 whoami.akamai.net
@@ -367,6 +366,10 @@ ad.quwin.cn
 ubmcmm.baidustatic.com
 adserviceretry.kugou.com
 adserviceretry.kglink.cn
+adservice.sigmob.cn
+stadig.ifeng.com
+3.iscrv.com
+www.wjxcdn.com
 z2.cnzz.com
 ei.cnzz.com
 z9.cnzz.com
@@ -375,6 +378,7 @@ s13.cnzz.com
 w.cnzz.com
 v1.cnzz.com
 s95.cnzz.com
+s96.cnzz.com
 s6.cnzz.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
@@ -397,7 +401,6 @@ ad.51wnl-cq.com
 lianmengapi.snssdk.com
 norma-external-collect.meizu.com
 api.adxpand.com
-android.bugly.qq.com
 android.rqd.qq.com
 www.qchannel01.cn
 www.qchannel02.cn
@@ -415,6 +418,35 @@ ef-dongfeng.tanx.com
 applog.uc.cn
 fbapi.guguread.com
 jrad.jd.com
+x.ojgoy.cn
+img.xuwnz.cn
+m.shilian168.cn
+img.wusnz.cn
+img.srxjz.cn
+m.zdjgj.cn
+i.luyongkang.top
+m.szwjzl.cn
+ee.j5s9b.cn
+m.j5s9b.cn
+uo.jstaogu.com
+po.jiangchangbo.com
+ee.x8r9m.cn
+v.37uta.cn
+rz.w8r4q.cn
+m.89kvh.cn
+ok.4qn9c.cn
+ee.89kvh.cn
+xn--mtso8sj6menhyil.online
+wx.sifakaoshi360.com
+pv.vipwm.cc
+xn--xhq9mt12cf5v.website
+r2.tschewang.com
+80vn.cn
+www.hxcav77.com
+assets.ckjr001.com
+kpstaticbj.wx.ckjr001.com
+www.meipian7.cn
+wxa79ef55c1a84e284.wx.ckjr001.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 google-analytics.com
@@ -760,6 +792,16 @@ api.poll.aiseet.atianqi.com
 btrace.qq.com
 otheve.beacon.qq.com
 log.tbs.qq.com
+m.gdt.qq.com
+ii.gdt.qq.com
+adsmind.gdtimg.com
+c.gdt.qq.com
+t.gdt.qq.com
+nc.gdt.qq.com
+pgdt.gtimg.cn
+v.gdt.qq.com
+rpt.gdt.qq.com
+x.adnet.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -883,8 +925,6 @@ api.iapps.ifeng.com
 api.newad.ifeng.com
 exp.3g.ifeng.com
 ifengad.3g.ifeng.com
-adservice.sigmob.cn
-stadig.ifeng.com
 stadig0.ifeng.com
 dmpclick.deliver.ifeng.com
 dol.deliver.ifeng.com
