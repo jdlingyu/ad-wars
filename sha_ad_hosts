@@ -26,16 +26,12 @@ zeus.ad.xiaomi.com
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 test.zeus.ad.xiaomi.com
-api.tw06.xlmc.sec.miui.com
 vt.ipinyou.com
 sdk2.youguoquan.com
-i1.go2yd.com
-si1.go2yd.com
 m.track.ad.xiaomi.com
 msg.71.am
 api.ts.feedback.71.am
 msg.qy.net
-o2o.api.xiaomi.com
 
 #pkg=iqiyi.com;（  爱奇艺 ）Qiyi
 api.cupid.iqiyi.com
@@ -159,7 +155,6 @@ mobile2.da.mgtv.com
 as.mgtv.com
 cdn.cmop.mgtv.com
 cmop.mgtv.com
-imgaliyun.res.mgtv.com
 mobaliyun.res.mgtv.com
 mobile.da.mgtv.com
 pc.da.mgtv.com
@@ -175,7 +170,6 @@ v2.log.mgtv.com
 web.da.mgtv.com
 x.da.mgtv.com
 y.da.mgtv.com
-imgaliyun.da.mgtv.com
 
 #pkg=tv.cntv.cn;（央视影音）CNTV
 mdrecv.app.cntvwb.cn
@@ -325,7 +319,6 @@ us.l.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 canvas.gdt.qq.com
-pgdt.gtimg.cn
 wxa.wxs.qq.com
 ad.wx.com
 report.huatuo.qq.com
@@ -447,6 +440,8 @@ assets.ckjr001.com
 kpstaticbj.wx.ckjr001.com
 www.meipian7.cn
 wxa79ef55c1a84e284.wx.ckjr001.com
+uvu.nojmlxq.cn
+veim.lrswl.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 google-analytics.com
@@ -700,8 +695,6 @@ t.medialytics.com
 #pkg=baidu.com;百度广告服务
 afd.baidu.com
 als.baidu.com
-api.share.baidu.com
-api.tuisong.baidu.com
 cbjs.baidu.com
 cm.baidu.com
 cm.pos.baidu.com
@@ -736,8 +729,6 @@ hdj.baidu.com
 mssp.baidu.com
 nlog.baidu.com
 ad.player.baidu.com
-img.taotaosou.cn
-img01.taotaosou.cn
 sestat.baidu.com
 stat.v.baidu.com
 videopush.baidu.com
@@ -787,7 +778,6 @@ rm.gdt.qq.com
 t.gdt.qq.com
 v.gdt.qq.com
 win.gdt.qq.com
-tools.3g.qq.com
 api.poll.aiseet.atianqi.com
 btrace.qq.com
 otheve.beacon.qq.com
@@ -798,7 +788,6 @@ adsmind.gdtimg.com
 c.gdt.qq.com
 t.gdt.qq.com
 nc.gdt.qq.com
-pgdt.gtimg.cn
 v.gdt.qq.com
 rpt.gdt.qq.com
 x.adnet.qq.com
