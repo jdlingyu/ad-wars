@@ -1,23 +1,28 @@
+localhost
+::1 localhost
 
-#pkg=white.ad.web.com;浏览器提示误伤（不勾选以下两条）
+#pkg=white.ad.web.com;浏览器播放视频提示误伤（不勾选这两条）
 t7z.cupid.iqiyi.com
 livew.l.qq.com
 
 #pkg=ad.xiaomi.com;（小米视频）MIUI
-api.ad.xiaomi.com
-sdkconfig.ad.xiaomi.com
-irs01.com
-m.irs01.com
-397c0.admaster.com.cn
-clickc.admaster.com.cn
-v.admaster.com.cn
-video.market.xiaomi.com
+{推广APP的图标被杀不勾选下面5条t1~t5}
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
 t3.a.market.xiaomi.com
 t4.a.market.xiaomi.com
 t5.a.market.xiaomi.com
-puma.api.iqiyi.com
+video.market.xiaomi.com
+api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+m.track.ad.xiaomi.com
+irs01.com
+m.irs01.com
+z.irs01.com
+s.irs03.com
+397c0.admaster.com.cn
+clickc.admaster.com.cn
+v.admaster.com.cn
 ppvabs.pplive.com
 cdn.ad.xiaomi.com
 e.ad.xiaomi.com
@@ -26,12 +31,14 @@ zeus.ad.xiaomi.com
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 test.zeus.ad.xiaomi.com
+api.tw06.xlmc.sec.miui.com
 vt.ipinyou.com
 sdk2.youguoquan.com
-m.track.ad.xiaomi.com
 msg.71.am
-api.ts.feedback.71.am
 msg.qy.net
+api.ts.feedback.71.am
+bj.imp.voiceads.cn
+o2o.api.xiaomi.com
 
 #pkg=iqiyi.com;（  爱奇艺 ）Qiyi
 api.cupid.iqiyi.com
@@ -74,6 +81,8 @@ g.dtv.cn.miaozhen.com
 baiducdncmn.inter.iqiyi.com
 msgv6.qy.net
 api.ts.feedback.qy.net
+puma.api.iqiyi.com
+puma-api.iqiyi.com
 
 #pkg=tv.qq.com;（腾讯视频）Tencent （v6.4.0及以下）
 aiseet.aa.atianqi.com
@@ -119,8 +128,6 @@ pm.aty.sohu.com
 v.aty.sohu.com
 vg.aty.sohu.com
 vm.aty.sohu.com
-api.danmu.tv.sohu.com
-download.wan.sohu.com
 da.mmarket.com
 sohu.irs01.com
 
@@ -294,6 +301,7 @@ list.z.qingting.fm
 ad.ximalaya.com
 adse.ximalaya.com
 ad.12306.cn
+logs.amap.com
 ad.thsi.cn
 adm.10jqka.com.cn
 ads.voiceads.cn
@@ -308,17 +316,15 @@ goblin.hupu.com
 ad.toutiao.com
 adshare.toutiao.com
 wgo.mmstat.com
-is.snssdk.com
 whoami.akamai.net
 awake-stats.jpush.cn
-dup.baidustatic.com
-toutiao-frontier.snssdk.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 canvas.gdt.qq.com
+pgdt.gtimg.cn
 wxa.wxs.qq.com
 ad.wx.com
 report.huatuo.qq.com
@@ -330,8 +336,8 @@ gd-stats.jpush.cn
 tsis.jpush.cn
 bjuser.jpush.cn
 h5.analytics.126.net
-adt.xdrig.com
 iadmusicmat.music.126.net
+adt.xdrig.com
 ad.us.sinaimg.cn
 vs.biz.weibo.com
 sdkapp.mobile.sina.cn
@@ -373,6 +379,10 @@ v1.cnzz.com
 s95.cnzz.com
 s96.cnzz.com
 s6.cnzz.com
+gxbr.cnzz.com
+dig.bdurl.net
+cloudservice22.kingsoft-office-service.com
+api.touchxd.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -385,7 +395,7 @@ dns.m.sm.cn
 log.m.sm.cn
 doubleclick.ctfile.com
 mydisplay.ctfile.com
-*.g.doubleclick.net
+stats.g.doubleclick.net
 mobds.pthejzb.com
 pms.mb.qq.com
 adsmind.apdcdn.tc.qq.com
@@ -442,6 +452,15 @@ www.meipian7.cn
 wxa79ef55c1a84e284.wx.ckjr001.com
 uvu.nojmlxq.cn
 veim.lrswl.com
+edgecast-vod.yimg.com
+edgecast-vod.yahoo.net
+cdn.yimg.com
+adeng.hpplay.cn
+ad.hpplay.cn
+rp.hpplay.cn
+logrp.hpplay.cn
+widgets.outbrain.com
+mp.nextmedia.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 google-analytics.com
@@ -453,6 +472,7 @@ ad-g.doubleclick.net
 ad.doubleclick.net
 ad.mo.doubleclick.net
 doubleclick.net
+googleads.g.doubleclick.net
 lb.usemaxserver.de
 tracking.klickthru.com
 gsmtop.net
@@ -734,6 +754,7 @@ stat.v.baidu.com
 videopush.baidu.com
 wisepush.video.baidu.com
 hmma.baidu.com
+dup.baidustatic.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -756,11 +777,6 @@ adver.qq.com
 d3g.qq.com
 jqmt.qq.com
 jsqmt.qq.com
-qqshow2-item.qq.com
-tj.video.qq.com
-video.ureport.push.qq.com
-video.wap.mpush.qq.com
-wap.mpush.qq.com
 vr.gdt.qq.com
 ta.qq.com
 tajs.qq.com
@@ -782,6 +798,7 @@ api.poll.aiseet.atianqi.com
 btrace.qq.com
 otheve.beacon.qq.com
 log.tbs.qq.com
+tools.3g.qq.com
 m.gdt.qq.com
 ii.gdt.qq.com
 adsmind.gdtimg.com
@@ -822,6 +839,7 @@ c-adash.m.taobao.com
 m-adash.m.taobao.com
 unidesk.alicdn.com
 adashbc.m.taobao.com
+adashbc.ut.taobao.com
 adash.m.taobao.com
 nbsdk-baichuan.alicdn.com
 h-adashx.ut.taobao.com
@@ -830,13 +848,16 @@ baichuan-sdk.alicdn.com
 acs4baichuan.m.taobao.com
 amdc.m.taobao.com
 amdcopen.m.taobao.com
-adashx4yt.m.taobao.com
-*.simba.taobao.com
 pss.alicdn.com
 eco.taobao.com
+umengacs.m.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 ad.doubleclick.net
+cm.g.doubleclick.net
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
 static.doubleclick.net
 pagead2.googlesyndication.com
 tpc.googlesyndication.com
@@ -914,6 +935,7 @@ api.iapps.ifeng.com
 api.newad.ifeng.com
 exp.3g.ifeng.com
 ifengad.3g.ifeng.com
+stadig.ifeng.com
 stadig0.ifeng.com
 dmpclick.deliver.ifeng.com
 dol.deliver.ifeng.com
@@ -1330,7 +1352,10 @@ m.admedia.com
 ad-apac.doubleclick.net
 ad.jp.doubleclick.net
 adclick.g.doublecklick.net
+adclick.g.doubleclick.net
+bid.g.doubleclick.net
 pagead46.l.doubleclick.net
+stats.g.doubleclick.net
 afs.googlesyndication.com
 video-ad-stats.googlesyndication.com
 s0.2mdn.net
@@ -1454,6 +1479,7 @@ adserver.xpanama.net
 adserver.yahoo.com
 adservice.google.com
 ads.eu.msn.com
+adsfile.qq.com
 ads.flurry.com
 adsfs.oppomobile.com
 ads.gionee.com
@@ -1504,6 +1530,7 @@ ad.wang502.com
 ad.winrar.com.cn
 ad.wretch.cc
 adx.ads.oppomobile.com
+adx.g.doubleclick.net
 adx.pro.cn
 adx-static.ksosoft.com
 ad.xxguan.cn
