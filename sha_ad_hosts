@@ -357,6 +357,7 @@ www.wjxcdn.com
 
 #pkg=ad.adwars.com;大圣净化规则
 bds.snssdk.com
+mon.snssdk.com
 toblog.ctobsnssdk.com
 lianmengapi.snssdk.com
 wxsnsdy.wxs.qq.com
@@ -371,6 +372,8 @@ adshare.toutiao.com
 wgo.mmstat.com
 whoami.akamai.net
 awake-stats.jpush.cn
+miniapp.qiluyidian.mobi
+js.jrjimg.cn
 config.adview.cn
 p2sdmkj6t.bkt.clouddn.com
 log.umsns.com
@@ -447,6 +450,11 @@ api.touchxd.com
 t.appsflyer.com
 api-luckycoinsdk.doglobal.net
 durdcn.doglobal.net
+api-es.doglobal.net
+crab.baidu.com
+cmta.yangkeduo.com
+id6.me
+v3-ad.ixigua.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -858,11 +866,6 @@ rm.gdt.qq.com
 t.gdt.qq.com
 v.gdt.qq.com
 win.gdt.qq.com
-api.poll.aiseet.atianqi.com
-btrace.qq.com
-otheve.beacon.qq.com
-log.tbs.qq.com
-tools.3g.qq.com
 m.gdt.qq.com
 ii.gdt.qq.com
 adsmind.gdtimg.com
@@ -872,6 +875,12 @@ nc.gdt.qq.com
 v.gdt.qq.com
 rpt.gdt.qq.com
 x.adnet.qq.com
+android.bugly.qq.com
+api.poll.aiseet.atianqi.com
+btrace.qq.com
+otheve.beacon.qq.com
+log.tbs.qq.com
+tools.3g.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -915,6 +924,7 @@ amdcopen.m.taobao.com
 pss.alicdn.com
 eco.taobao.com
 umengacs.m.taobao.com
+ilce.alicdn.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 ad.doubleclick.net
@@ -1607,9 +1617,11 @@ c.cnzz.com
 s13.cnzz.com
 w.cnzz.com
 v1.cnzz.com
+s5.cnzz.com
+s6.cnzz.com
+s11.cnzz.com
 s95.cnzz.com
 s96.cnzz.com
-s6.cnzz.com
 gxbr.cnzz.com
 z11.cnzz.com
 z13.cnzz.com
@@ -1661,6 +1673,8 @@ zc.adpush.cn
 z.domob.cn
 z.sora.yoyi.com.cn
 zt.adsage.com
+
+# 沙僧追加
 is.snssdk.com
 *.irs01.com
 *.cnzz.com
