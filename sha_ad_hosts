@@ -355,12 +355,12 @@ adcontrol.tudou.com
 stat.tudou.com
 3.iscrv.com
 www.wjxcdn.com
+adsmis.duxiaoman.com
 
 #pkg=ad.adwars.com;大圣净化规则
 bds.snssdk.com
 mon.snssdk.com
 toblog.ctobsnssdk.com
-lianmengapi.snssdk.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 canvas.gdt.qq.com
@@ -466,6 +466,15 @@ api.aiclk.com
 update0.aiclk.com
 sdk-ab-config.aiclk.com
 sdk-globalconfig.aiclk.com
+adx.maplehaze.cn
+pv.sohu.com
+log.kajicam.com
+conf.xdrig.com
+api-ad.kajicam.com
+me.xdrig.com
+api.ad.yipinread.com
+dpush-api.domob.cn
+engine.lvehaisen.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -1676,8 +1685,7 @@ zc.adpush.cn
 z.domob.cn
 z.sora.yoyi.com.cn
 zt.adsage.com
-
-# 沙僧追加
 is.snssdk.com
 *.irs01.com
 *.cnzz.com
+*.xdrig.com
