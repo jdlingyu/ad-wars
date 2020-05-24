@@ -4,6 +4,8 @@ localhost
 #pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下两条）
 t7z.cupid.iqiyi.com
 livew.l.qq.com
+is.snssdk.com
+gw.365you.com
 
 #pkg=ad.xiaomi.com;（小米视频）MIUI
 nav.browser.miui.com
@@ -40,6 +42,7 @@ msg.qy.net
 api.ts.feedback.71.am
 bj.imp.voiceads.cn
 o2o.api.xiaomi.com
+xiaomi.m.cn.miaozhen.com
 
 #pkg=iqiyi.com;（  爱奇艺 ）Qiyi
 api.cupid.iqiyi.com
@@ -60,8 +63,9 @@ store.iqiyi.com
 nl.rcd.iqiyi.com
 emoticon.sns.iqiyi.com
 hotchat-im.iqiyi.com
-paopao.iqiyi.com
 tracker.sns.iqiyi.com
+paopao.iqiyi.com
+paopao-monitor.iqiyi.com
 paopao0.qiyipic.com
 paopao1.qiyipic.com
 paopao2.qiyipic.com
@@ -86,8 +90,9 @@ puma.api.iqiyi.com
 puma-api.iqiyi.com
 afp.qiyi.com
 focusbaiduafp.allyes.com
+rd596n.jomodns.com
 
-#pkg=tv.qq.com;（腾讯视频）Tencent「v6.4.0或以下」
+#pkg=tv.qq.com;（腾讯视频）Tencent［V6.4.0或以下］
 aiseet.aa.atianqi.com
 dp3.play.aiseet.atianqi.com
 livep.l.aiseet.atianqi.com
@@ -345,7 +350,6 @@ adash.man.aliyuncs.com
 valatm.cp12.wasu.tv
 adlog.molitv.cn
 ipmatm.cp12.wasu.tv
-adashxgc.ut.taobao.com
 topapi.cp12.wasu.tv
 countatm.cp12.wasu.tv
 
@@ -385,6 +389,10 @@ s.qtad.qingting.fm
 list.z.qingting.fm
 ad.ximalaya.com
 adse.ximalaya.com
+adse.wsa.ximalaya.com
+adsebs.ximalaya.com
+events.appsflyer.com
+adbehavior.ximalaya.com
 ad.12306.cn
 logs.amap.com
 ad.thsi.cn
@@ -489,6 +497,7 @@ www.qchannel01.cn
 www.qchannel02.cn
 log.qchannel03.cn
 www.qchannel04.cn
+b.qchannel03.cn
 df.mic.mob.com
 dfe.mic.mob.com
 l.gm.mob.com
@@ -503,6 +512,15 @@ fbapi.guguread.com
 jrad.jd.com
 api.adnet.mob.com
 puds.ucweb.com
+tracking.ad-survey.com
+api1.888zy.cn
+i8.i8ggwm.com
+dig.zjurl.cn
+open.e.kuaishou.com
+dm.toutiao.com
+sdk.api.oaid.wocloud.cn
+i.w.inmobi.cn
+sdktm.w.inmobi.cn
 x.ojgoy.cn
 img.xuwnz.cn
 m.shilian168.cn
@@ -535,6 +553,7 @@ wxa79ef55c1a84e284.wx.ckjr001.com
 uvu.nojmlxq.cn
 veim.lrswl.com
 adsdk.yandex.ru
+hybird.rayjump.com
 edgecast-vod.yimg.com
 edgecast-vod.yahoo.net
 cdn.yimg.com
@@ -558,6 +577,11 @@ cloud.zyiis.net
 ads.weilitoutiao.net
 ssp-api.domob.cn
 ssp-event.domob.cn
+dsa-mfp.fengshows.cn
+du.163.com
+yaolu.mh.163.com
+yaolu.yuedu.163.com
+newswifiapi.dftoutiao.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 google-analytics.com
@@ -854,6 +878,8 @@ hmma.baidu.com
 dup.baidustatic.com
 sp0.baidu.com
 qapm.baidu.com
+mbd.baidu.com
+fclog.baidu.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -893,6 +919,7 @@ rm.gdt.qq.com
 t.gdt.qq.com
 v.gdt.qq.com
 win.gdt.qq.com
+v2.gdt.qq.com
 android.bugly.qq.com
 api.poll.aiseet.atianqi.com
 btrace.qq.com
@@ -901,6 +928,15 @@ log.tbs.qq.com
 tools.3g.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.video.qq.com
+mazu.3g.qq.com
+oth.str.mdt.qq.com
+oth.eve.mdt.qq.com
+rpt.gdt.qq.com
+mtrace.qq.com
+ipv4.gdt.qq.com
+misc.wcd.qq.com
+lbs.map.qq.com
+raddus.bayescom.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -927,8 +963,8 @@ log.umsns.com
 www.uyunad.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
-adashx.m.taobao.com
 adashxgc.ut.taobao.com
+adashx.m.taobao.com
 c-adash.m.taobao.com
 m-adash.m.taobao.com
 unidesk.alicdn.com
@@ -946,6 +982,8 @@ pss.alicdn.com
 eco.taobao.com
 umengacs.m.taobao.com
 ilce.alicdn.com
+ae01.alicdn.com
+umengjmacs.m.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 ad.doubleclick.net
@@ -1638,7 +1676,7 @@ z.domob.cn
 z.sora.yoyi.com.cn
 zt.adsage.com
 
-#（通配符*缩略）
+#pkg=adx.regex.com;通配符拦截
 *.irs01.com
 *.irs01.net
 *.irs09.com
@@ -2072,3 +2110,4 @@ zt.adsage.com
 *.ysdhe.com
 *.yunpifu.cn
 *.zxwdw.com
+*.inmobi.cn
