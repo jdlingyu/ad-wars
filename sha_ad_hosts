@@ -935,7 +935,6 @@ rpt.gdt.qq.com
 mtrace.qq.com
 ipv4.gdt.qq.com
 misc.wcd.qq.com
-lbs.map.qq.com
 raddus.bayescom.com
 
 #pkg=alibaba.com;阿里广告服务
@@ -982,7 +981,6 @@ pss.alicdn.com
 eco.taobao.com
 umengacs.m.taobao.com
 ilce.alicdn.com
-ae01.alicdn.com
 umengjmacs.m.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
