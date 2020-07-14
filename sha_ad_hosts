@@ -359,6 +359,7 @@ mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
+sdfp.snssdk.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 canvas.gdt.qq.com
@@ -499,6 +500,7 @@ www.qchannel01.cn
 www.qchannel02.cn
 log.qchannel03.cn
 www.qchannel04.cn
+d.qchannel03.cn
 b.qchannel03.cn
 df.mic.mob.com
 dfe.mic.mob.com
@@ -523,6 +525,13 @@ dm.toutiao.com
 sdk.api.oaid.wocloud.cn
 i.w.inmobi.cn
 sdktm.w.inmobi.cn
+dm.bytedance.com
+dm.pstatp.com
+sf3-ttcdn-tos.pstatp.com
+dm.bytedance.com
+sdkauth.hpplay.cn
+imdns.hpplay.cn
+sdk.guard.mob.com
 x.ojgoy.cn
 img.xuwnz.cn
 m.shilian168.cn
@@ -979,10 +988,8 @@ baichuan-sdk.alicdn.com
 acs4baichuan.m.taobao.com
 amdc.m.taobao.com
 amdcopen.m.taobao.com
-pss.alicdn.com
 eco.taobao.com
 umengacs.m.taobao.com
-ilce.alicdn.com
 umengjmacs.m.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
