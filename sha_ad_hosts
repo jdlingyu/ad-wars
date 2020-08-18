@@ -4,7 +4,6 @@ localhost
 #pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下两条）
 t7z.cupid.iqiyi.com
 livew.l.qq.com
-is.snssdk.com
 gw.365you.com
 
 #pkg=ad.xiaomi.com;（小米视频）MIUI
@@ -354,12 +353,10 @@ topapi.cp12.wasu.tv
 countatm.cp12.wasu.tv
 
 #pkg=ad.adwars.com;大圣净化规则
-bds.snssdk.com
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
-sdfp.snssdk.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 canvas.gdt.qq.com
@@ -412,6 +409,7 @@ goblin.hupu.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
+ad.tencentmusic.com
 g1.163.com
 nex.163.com
 ali-stats.jpush.cn
@@ -527,7 +525,6 @@ i.w.inmobi.cn
 sdktm.w.inmobi.cn
 dm.bytedance.com
 dm.pstatp.com
-sf3-ttcdn-tos.pstatp.com
 dm.bytedance.com
 sdkauth.hpplay.cn
 imdns.hpplay.cn
