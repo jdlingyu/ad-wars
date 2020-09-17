@@ -22,6 +22,7 @@ irs01.com
 m.irs01.com
 z.irs01.com
 s.irs03.com
+s1.irs03.com
 397c0.admaster.com.cn
 clickc.admaster.com.cn
 v.admaster.com.cn
@@ -92,6 +93,8 @@ puma-api.iqiyi.com
 afp.qiyi.com
 focusbaiduafp.allyes.com
 rd596n.jomodns.com
+baiducdncmn-gd.inter.iqiyi.com
+bdcdncmn-gd.inter.71edge.com
 
 #pkg=tv.qq.com;（腾讯视频）Tencent［V6.4.0或以下］
 aiseet.aa.atianqi.com
@@ -187,6 +190,8 @@ x.da.mgtv.com
 y.da.mgtv.com
 zx.da.mgtv.com
 apperr.log.mgtv.com
+m2.da.mgtv.com
+m.da.mgtv.com
 
 #pkg=tv.cntv.cn;（央视影音）CNTV
 mdrecv.app.cntvwb.cn
@@ -355,11 +360,6 @@ topapi.cp12.wasu.tv
 countatm.cp12.wasu.tv
 
 #pkg=ad.adwars.com;大圣净化规则
-mon.snssdk.com
-extlog.snssdk.com
-toblog.ctobsnssdk.com
-tobapplog.ctobsnssdk.com
-gecko-hl.snssdk.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 canvas.gdt.qq.com
@@ -368,6 +368,15 @@ pgdt.ugdtimg.com
 wxa.wxs.qq.com
 ad.wx.com
 report.huatuo.qq.com
+minorshort.weixin.qq.com
+mon.snssdk.com
+extlog.snssdk.com
+toblog.ctobsnssdk.com
+tobapplog.ctobsnssdk.com
+gecko-hl.snssdk.com
+bds.snssdk.com
+sdfp.snssdk.com
+mcs.snssdk.com
 ad.toutiao.com
 adshare.toutiao.com
 whoami.akamai.net
@@ -376,6 +385,12 @@ miniapp.qiluyidian.mobi
 js.jrjimg.cn
 static.bshare.cn
 launches.appsflyer.com
+test.adsp.xunlei.com
+api-mcp.adsp.xunlei.com
+xladapi.izuiyou.com
+advertpay-vip-ssl.xunlei.com
+watch.advertising.speed.cdn.vip.xunlei.com
+xunlei.adx.admaster.com.cn
 config.adview.cn
 p2sdmkj6t.bkt.clouddn.com
 log.umsns.com
@@ -411,11 +426,16 @@ adnew.wifi8.com
 ad.ikonke.com
 adx.hupu.com
 goblin.hupu.com
+shence.hupu.com
+ccdace.hupu.com
+hd.hupu.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
 ad.tencentmusic.com
 adstats.tencentmusic.com
+adcdn.tencentmusic.com
+adexpo.tencentmusic.com
 g1.163.com
 nex.163.com
 ali-stats.jpush.cn
@@ -425,8 +445,11 @@ tsis.jpush.cn
 bjuser.jpush.cn
 admusicpic.music.126.net
 iadmusicmat.music.126.net
-adt.xdrig.com
 zhihu-web-analytics.zhihu.com
+sdkapp.mobile.sina.cn
+wbapp.mobile.sina.cn
+vs.biz.weibo.com
+dp.im.weibo.cn
 sax.sina.com.cn
 saxn.sina.com.cn
 beacon.sina.com.cn
@@ -454,6 +477,9 @@ adservice.sigmob.cn
 stadig.ifeng.com
 cloudservice22.kingsoft-office-service.com
 api.touchxd.com
+b-gi.getui.com
+kepler.jd.com
+orbit.jd.com
 t.appsflyer.com
 api-luckycoinsdk.doglobal.net
 durdcn.doglobal.net
@@ -479,6 +505,7 @@ me.xdrig.com
 api.ad.yipinread.com
 dpush-api.domob.cn
 engine.lvehaisen.com
+smartad.10010.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -538,6 +565,8 @@ imdns.hpplay.cn
 sdk.guard.mob.com
 stg-data.ads.heytapmobi.com
 dolphin-center.adsame.com
+keybut.com
+api.df.mob.com
 x.ojgoy.cn
 img.xuwnz.cn
 m.shilian168.cn
@@ -571,6 +600,7 @@ uvu.nojmlxq.cn
 veim.lrswl.com
 adsdk.yandex.ru
 hybird.rayjump.com
+c.kuaiduizuoye.com
 edgecast-vod.yimg.com
 edgecast-vod.yahoo.net
 cdn.yimg.com
@@ -905,6 +935,9 @@ fclog.baidu.com
 sofire.baidu.com
 tcbox.baidu.com
 browserkernel.baidu.com
+hijack.baidu.com
+aod-image.baidu.com
+feed-image.baidu.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -961,6 +994,10 @@ mtrace.qq.com
 ipv4.gdt.qq.com
 misc.wcd.qq.com
 raddus.bayescom.com
+mazu.m.qq.com
+mtt.eve.mdt.qq.com
+push.pgl.qq.com
+rmpad.imtt.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1005,6 +1042,7 @@ amdcopen.m.taobao.com
 eco.taobao.com
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
+ilce.alicdn.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 ad.doubleclick.net
@@ -1251,7 +1289,6 @@ vletv.admaster.com.cn
 vqq.admaster.com.cn
 vsohu.admaster.com.cn
 wisemedia.cm.admaster.com.cn
-xunlei.adx.admaster.com.cn
 www.admaster.com.cn
 js.admin6.com
 conversion.adpro.cn
