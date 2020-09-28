@@ -1,7 +1,7 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下两条）
+#pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下面两条）
 t7z.cupid.iqiyi.com
 livew.l.qq.com
 gw.365you.com
@@ -368,7 +368,7 @@ pgdt.ugdtimg.com
 wxa.wxs.qq.com
 ad.wx.com
 report.huatuo.qq.com
-minorshort.weixin.qq.com
+ic.snssdk.com
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
@@ -377,6 +377,7 @@ gecko-hl.snssdk.com
 bds.snssdk.com
 sdfp.snssdk.com
 mcs.snssdk.com
+gecko-lq.snssdk.com
 ad.toutiao.com
 adshare.toutiao.com
 whoami.akamai.net
@@ -385,6 +386,8 @@ miniapp.qiluyidian.mobi
 js.jrjimg.cn
 static.bshare.cn
 launches.appsflyer.com
+api-access.pangolin-sdk-toutiao.com
+log-api.pangolin-sdk-toutiao.com
 test.adsp.xunlei.com
 api-mcp.adsp.xunlei.com
 xladapi.izuiyou.com
@@ -401,20 +404,17 @@ stat.gw.youmi.net
 track.dmp.youmi.net
 bid.adview.cn
 ad.bayescom.com
-shuttle.bayescom.com
 ad.qingting.fm
 s.qtad.qingting.fm
 list.z.qingting.fm
 adlaunch.qingting.fm
-api-access.pangolin-sdk-toutiao.com
+ad-cdn.qingting.fm
 ad.ximalaya.com
 adse.ximalaya.com
 adse.wsa.ximalaya.com
 adsebs.ximalaya.com
 events.appsflyer.com
 adbehavior.ximalaya.com
-ad.12306.cn
-logs.amap.com
 ad.thsi.cn
 adm.10jqka.com.cn
 ads.voiceads.cn
@@ -505,7 +505,14 @@ me.xdrig.com
 api.ad.yipinread.com
 dpush-api.domob.cn
 engine.lvehaisen.com
-smartad.10010.com
+t.cr-nielsen.com
+sdk.tf.360.cn
+sdkrec.tf.360.cn
+sdk.s.360.cn
+me.cpatrk.net
+ap.cpatrk.net
+umdc.aliapp.org
+certify-js.alexametrics.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -567,6 +574,9 @@ stg-data.ads.heytapmobi.com
 dolphin-center.adsame.com
 keybut.com
 api.df.mob.com
+api-analytics-cn.huami.com
+wgo.mmstat.com
+api.applink.mob.com
 x.ojgoy.cn
 img.xuwnz.cn
 m.shilian168.cn
@@ -936,8 +946,6 @@ sofire.baidu.com
 tcbox.baidu.com
 browserkernel.baidu.com
 hijack.baidu.com
-aod-image.baidu.com
-feed-image.baidu.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
