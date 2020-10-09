@@ -5,12 +5,13 @@ values-zh 中文内容
 values-en 翻译英文  
 
 ### 示例
-中文内容  
-<string name="app_loading_more">加载更多…</string>   
-翻译英文  
-<string name="app_loading_more">loading more…</string>
 ```
-其中 translatable="false" 的行无需翻译
+//中文内容  
+<string name="app_loading_more">加载更多…</string>   
+//翻译英文  
+<string name="app_loading_more">loading more…</string>
+
+//其中 translatable="false" 的行无需翻译
 ```
 
 
