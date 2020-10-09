@@ -1,0 +1,20 @@
+<resources>
+    <string name="forest_energy_enable_hint" formatted="false">需要先进入蚂蚁森林界面(手动)，然后才开始自动收集能量</string>
+    <string name="forest_energy_filter_hint" formatted="false">设置不收集能量的关键字(用户名1;用户名2;英文分号分隔)</string>
+    <string name="forest_energy_filter" formatted="false">不收集的能量 -> %s</string>
+    <string name="forest_energy_enable" formatted="false">自动收集能量</string>
+
+    <string name="app_loading_more">加载更多…</string>
+    <string name="app_no_more_data">没有更多数据…</string>
+
+    <string name="cube_ptr_pull_down">下拉</string>
+    <string name="cube_ptr_pull_down_to_refresh">下拉刷新</string>
+    <string name="cube_ptr_release_to_refresh">释放刷新</string>
+    <string name="cube_ptr_refreshing">加载中…</string>
+    <string name="cube_ptr_refresh_complete">更新完成.</string>
+
+    <string name="cube_ptr_last_update">上次更新:&#160;</string>
+    <string name="cube_ptr_seconds_ago">&#160;秒之前</string>
+    <string name="cube_ptr_minutes_ago">&#160;分钟之前</string>
+    <string name="cube_ptr_hours_ago">&#160;小时之前</string>
+</resources>

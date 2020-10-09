@@ -1,4 +1,11 @@
+# 翻译计划
+### res 目录是文案
+values-zh 中文内容
+values-en 翻译英文
 
+```
+其中 translatable="false" 的行无需翻译
+```
 
 # 大圣净化 使用帮助
 
@@ -20,7 +27,7 @@
 
 #### 寻找组织
 - [Telegram(打开404的话 你懂的)](https://t.me/joinchat/BLuH808gFtJ03aqPlzXEaQ)
-- [QQ群：559898993](https://jq.qq.com/?_wv=1027&k=5aLvUhf)
+- [QQ群：1019664897](https://jq.qq.com/?_wv=1027&k=kFPDuMvX)
 
 #### 目录
 - [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/00-悟空净化)
