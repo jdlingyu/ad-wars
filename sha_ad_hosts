@@ -6,7 +6,7 @@ t7z.cupid.iqiyi.com
 livew.l.qq.com
 gw.365you.com
 
-#pkg=ad.xiaomi.com;（小米视频&TV）MIUI
+#pkg=ad.xiaomi.com;[ 小米视频&TV ] MIUI
 nav.browser.miui.com
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
@@ -50,7 +50,7 @@ resolver.msg.xiaomi.net
 cnbj1.fds.api.xiaomi.com
 wtradv.market.xiaomi.com
 
-#pkg=iqiyi.com;（爱奇艺 &TV）Qiyi
+#pkg=iqiyi.com;[ 爱奇艺 & TV ] Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
 c.uaa.iqiyi.com
@@ -100,10 +100,11 @@ rd596n.jomodns.com
 baiducdncmn-gd.inter.iqiyi.com
 bdcdncmn-gd.inter.71edge.com
 
-#pkg=tv.qq.com;（腾讯视频&TV）Tencent［V6.4.0］
+#pkg=tv.qq.com;[ 腾讯视频&TV ] Tencent（V6.4.0）
 aiseet.aa.atianqi.com
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
+lives.l.ott.video.qq.com
 dp3.play.aiseet.atianqi.com
 p-l.play.aiseet.atianqi.com
 t-l.play.aiseet.atianqi.com
@@ -145,7 +146,7 @@ mcgi.v.qq.com
 soup.v.qq.com
 bksoup.v.qq.com
 
-#pkg=tv.sohu.com;（搜狐视频&TV）Sohu
+#pkg=tv.sohu.com;[ 搜狐视频&TV ] Sohu
 sohu-dtv.m.cn.miaozhen.com
 agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
@@ -173,7 +174,7 @@ wl.hd.sohu.com
 download.wan.sohu.com
 g.jssdk.net
 
-#pkg=le.com;（乐视视频&TV）Letv
+#pkg=le.com;[ 乐视视频&TV ] Letv
 api.game.letvstore.com
 dev.dc.letv.com
 msg.m.letv.com
@@ -181,13 +182,14 @@ n.mark.letv.com
 static.app.m.letv.com
 test.ark.letv.com
 
-#pkg=pptv.com;（PP视频 &TV）PPTV
+#pkg=pptv.com;[ PP视频 & TV ] PPTV
 de.as.cp61.ott.cibntv.net
 lives.l.cp81.ott.cibntv.net
 ad.advst.cp33.ott.cibntv.net
 sltint.adv.ott.cibntv.net
-ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 api.adv.ott.cibntv.net
+topapi.cp12.ott.cibntv.net
+ad.video.51togic.com
 ssp.cibn.starschina.com
 clickc.admaster.com.cn
 vpptv.admaster.com.cn
@@ -206,7 +208,7 @@ gas.data.pplive.com
 plt.data.pplive.com
 web.data.pplive.com
 
-#pkg=mgtv.com;（芒果TV &TV）Mgtv
+#pkg=mgtv.com;[ 芒果TV & TV ] Mgtv
 mobile.da.mgtv.com
 mobile2.da.mgtv.com
 ott.da.mgtv.com
@@ -230,7 +232,7 @@ apperr.log.mgtv.com
 m2.da.mgtv.com
 m.da.mgtv.com
 
-#pkg=tv.cntv.cn;（央视影音&TV）CNTV
+#pkg=tv.cntv.cn;[ 央视影音&TV ] CNTV
 mdrecv.app.cntvwb.cn
 sdapprecv.app.cntvwb.cn
 vdapprecv.app.cntvwb.cn
@@ -244,7 +246,7 @@ d.cntv.cn
 adguanggao.eee114.com
 cctv.adsunion.com
 
-#pkg=fun.tv;（风行&酷喵TV）Funshion
+#pkg=fun.tv;[ 风行&酷喵TV ] FunShion
 aa0.pub.funshion.com
 aa1.pub.funshion.com
 adm.funshion.com
@@ -254,15 +256,9 @@ vs.funshion.com
 rt.funshion.net
 stat.funshion.net
 fun.adx.admaster.com.cn
-ipm.atm.cp31.ott.cibntv.net
-val.atm.cp31.ott.cibntv.net
-valf.atm.cp31.ott.cibntv.net
-vali.cp31.ott.cibntv.net
-vali.cp31.ott.cibntv.net.302.myalicdn.com
-vali-dns.cp31.ott.cibntv.net
-heyi-acs.cp31.ott.cibntv.net
-ems.cp31.ott.cibntv.net
 ykugc.cp31.ott.cibntv.net
+ykugc.cp31.ott.cibntv.net.302.myalicdn.com
+vali.cp31.ott.cibntv.net.302.myalicdn.com
 youku-dtv.m.cn.miaozhen.com
 nbsdk-baichuan.alicdn.com
 ipm.atm.youku.com
@@ -273,7 +269,7 @@ rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
 
-#pkg=ad.cmvideo.cn;（咪咕¦土豆¦酷6¦人人¦等……）
+#pkg=ad.cmvideo.cn;[ 咪咕┆土豆┆人人┆酷6┆等… ]
 ggx.cmvideo.cn
 adextensioncontrol.tudou.com
 iwstat.tudou.com
@@ -327,16 +323,6 @@ biz5.sandai.net
 server1.adpolestar.net
 advstat.xunlei.com
 mpv.sandai.net
-adextensioncontrol.tudou.com
-iwstat.tudou.com
-nstat.tudou.com
-stats.tudou.com
-at-img1.tdimg.com
-at-img2.tdimg.com
-at-img3.tdimg.com
-adplay.tudou.com
-adcontrol.tudou.com
-stat.tudou.com
 3.iscrv.com
 www.wjxcdn.com
 adsmis.duxiaoman.com
@@ -425,7 +411,6 @@ pgdt.gtimg.cn
 pgdt.ugdtimg.com
 pingfore.qq.com
 splashqqlive.gtimg.com
-ic.snssdk.com
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
@@ -436,6 +421,7 @@ sdfp.snssdk.com
 mcs.snssdk.com
 gecko-lq.snssdk.com
 toutiao-frontier.snssdk.com
+abtest-ch.snssdk.com
 ad.toutiao.com
 adshare.toutiao.com
 whoami.akamai.net
@@ -477,6 +463,8 @@ adbehavior.ximalaya.com
 adwbs.ximalaya.com
 adbs.ximalaya.com
 mobwsa.ximalaya.com
+ad.12306.cn
+logs.amap.com
 ad.thsi.cn
 adm.10jqka.com.cn
 ads.voiceads.cn
@@ -491,9 +479,6 @@ goblin.hupu.com
 shence.hupu.com
 ccdace.hupu.com
 hd.hupu.com
-p.l.qq.com
-dp3.qq.com
-us.l.qq.com
 ad.tencentmusic.com
 adstats.tencentmusic.com
 adcdn.tencentmusic.com
@@ -509,7 +494,6 @@ bjuser.jpush.cn
 admusicpic.music.126.net
 iadmusicmat.music.126.net
 clientlog3.music.163.com
-zhihu-web-analytics.zhihu.com
 sdkapp.mobile.sina.cn
 wbapp.mobile.sina.cn
 vs.biz.weibo.com
@@ -545,7 +529,6 @@ t.appsflyer.com
 api-luckycoinsdk.doglobal.net
 durdcn.doglobal.net
 api-es.doglobal.net
-crab.baidu.com
 cmta.yangkeduo.com
 id6.me
 adproxy.autohome.com.cn
@@ -567,21 +550,34 @@ me.xdrig.com
 api.ad.yipinread.com
 dpush-api.domob.cn
 engine.lvehaisen.com
-t.cr-nielsen.com
 sdk.tf.360.cn
 sdkrec.tf.360.cn
 sdk.s.360.cn
 me.cpatrk.net
 ap.cpatrk.net
-umdc.aliapp.org
-certify-js.alexametrics.com
+adt.cpatrk.net
 edgecast-vod.yimg.com
 edgecast-vod.yahoo.net
 cdn.yimg.com
-adeng.hpplay.cn
 ad.hpplay.cn
-rp.hpplay.cn
-logrp.hpplay.cn
+adc.hpplay.cn
+adcdn.hpplay.cn
+adeng.hpplay.cn
+ad.lflucky.com
+ad.flurry.com
+adlog.flurry.com
+ads.flurry.com
+ads.icloseli.cn
+tanx.com
+etl.xlmc.sandai.net
+uapi.ads.heytapmobi.com
+b1-data.ads.heytapmobi.com
+adx.ads.heytapmobi.com
+b2-data.ads.heytapmobi.com
+stg-data.ads.heytapmobi.com
+hw.zuimeitianqi.com
+adsfs-sdkconfig.heytapimage.com
+optimus-ads.amap.com
 widgets.outbrain.com
 mp.nextmedia.com
 pv.dakawm.cc
@@ -677,19 +673,17 @@ ort.stsdk.vivo.com.cn
 pnrt.stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
 vcardsdkservice.vivo.com.cn
+dig.zjurl.cn
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
 yt-adv.bn.netease.com
 m.xsm98e.cn
 e.xsm98e.cn
-doubleclick.ctfile.com
 mydisplay.ctfile.com
 dns.m.sm.cn
 log.m.sm.cn
-doubleclick.ctfile.com
 mydisplay.ctfile.com
-stats.g.doubleclick.net
 mobds.pthejzb.com
 pms.mb.qq.com
 adsmind.apdcdn.tc.qq.com
@@ -697,11 +691,11 @@ sdk.mobad.ijinshan.com
 ad.51wnl-cq.com
 norma-external-collect.meizu.com
 api.adxpand.com
-android.rqd.qq.com
 www.qchannel01.cn
 www.qchannel02.cn
-log.qchannel03.cn
+www.qchannel03.cn
 www.qchannel04.cn
+log.qchannel03.cn
 d.qchannel03.cn
 b.qchannel03.cn
 a.qchannel03.cn
@@ -722,7 +716,6 @@ puds.ucweb.com
 tracking.ad-survey.com
 api1.888zy.cn
 i8.i8ggwm.com
-dig.zjurl.cn
 open.e.kuaishou.com
 dm.toutiao.com
 sdk.api.oaid.wocloud.cn
@@ -730,9 +723,6 @@ i.w.inmobi.cn
 sdktm.w.inmobi.cn
 dm.bytedance.com
 dm.pstatp.com
-dm.bytedance.com
-sdkauth.hpplay.cn
-imdns.hpplay.cn
 sdk.guard.mob.com
 stg-data.ads.heytapmobi.com
 dolphin-center.adsame.com
@@ -742,22 +732,25 @@ api-analytics-cn.huami.com
 wgo.mmstat.com
 api.applink.mob.com
 statics.woozooo.com
+cloud.xdrig.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
-google-analytics.com
+ads.google.com
+www.googleadservices.com
 googlesyndication.com
 pagead.googlesyndication.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
-ad-g.doubleclick.net
-ad.doubleclick.net
-ad.mo.doubleclick.net
 ad.googleanalysis.mobi
+ade.googlesyndication.com
+adservice.google.com
 stat.googleanalysis.mobi
 ads.traffichunt.com
-doubleclick.net
 googleads.g.doubleclick.net
 static.googeadsserving.cn
+tpc.googlesyndication.com
+partner.googleadservices.com
+static.googleadsserving.cn
 lb.usemaxserver.de
 tracking.klickthru.com
 gsmtop.net
@@ -996,8 +989,40 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 t.medialytics.com
+ad.cn.doubleclick.net
+ad.doubleclick.net
+ad.jp.doubleclick.net
+adx.g.doubleclick.net
+cm.g.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+doubleclick.ctfile.com
+ad-g.doubleclick.net
+ad.doubleclick.net
+ad.mo.doubleclick.net
+doubleclick.net
+ad-apac.doubleclick.net
+4171764.fls.doubleclick.net
+ad-apac.doubleclick.net
+ad.jp.doubleclick.net
+adclick.g.doublecklick.net
+adclick.g.doubleclick.net
+bid.g.doubleclick.net
+pagead46.l.doubleclick.net
+stats.g.doubleclick.net
+afs.googlesyndication.com
+video-ad-stats.googlesyndication.com
+s0.2mdn.net
+s1.2mdn.net
+media.admob.com
+adfarm.mediaplex.com
+ssl.google-analytics.com
 
 #pkg=baidu.com;百度广告服务
+adm.baidu.com
+ad.player.baidu.com
+adscdn.baidu.com
 afd.baidu.com
 als.baidu.com
 cbjs.baidu.com
@@ -1058,6 +1083,7 @@ ucstat.baidu.com
 udpolimenew.baidu.com
 union.baidu.com
 unionimage.baidu.com
+crab.baidu.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -1098,6 +1124,10 @@ t.gdt.qq.com
 v.gdt.qq.com
 win.gdt.qq.com
 v2.gdt.qq.com
+p.l.qq.com
+dp3.qq.com
+us.l.qq.com
+android.rqd.qq.com
 android.bugly.qq.com
 api.poll.aiseet.atianqi.com
 btrace.qq.com
@@ -1106,7 +1136,6 @@ log.tbs.qq.com
 tools.3g.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.video.qq.com
-mazu.3g.qq.com
 oth.str.mdt.qq.com
 oth.eve.mdt.qq.com
 rpt.gdt.qq.com
@@ -1114,7 +1143,6 @@ mtrace.qq.com
 ipv4.gdt.qq.com
 misc.wcd.qq.com
 raddus.bayescom.com
-mazu.m.qq.com
 mtt.eve.mdt.qq.com
 push.pgl.qq.com
 rmpad.imtt.qq.com
@@ -1178,19 +1206,6 @@ sjarvis.taobao.com
 audid-api.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
-ad.doubleclick.net
-cm.g.doubleclick.net
-googleads.g.doubleclick.net
-pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
-static.doubleclick.net
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
-partner.googleadservices.com
-www.googleadservices.com
-static.googleadsserving.cn
-www.googletagmanager.com
-www.google-analytics.com
 3m.mediav.com
 ckmap.mediav.com
 click.mediav.com
@@ -1224,18 +1239,25 @@ t.dsp.mediav.com
 track.mediav.com
 tran.mediav.com
 view.mediav.com
-www.mediav.com
 xd.mediav.com
 c.bing.com
 c.msn.com
 otf.msn.com
+umeng.com
+alog.umeng.com
+alog.umengcloud.com
+alog.umeng.co
+alog.umeng.com
+alog.umengcloud.com
+ulogs.umeng.com
+ulogs.umengcloud.com
+plbslog.umeng.com
 uop.umeng.com
 oc.umeng.co
 api.wsq.umeng.com
 at.umeng.com
 au.umeng.com
 dev.umeng.com
-umeng.com
 ex.umengcloud.com
 msg.umengcloud.com
 udash.umengcloud.com
@@ -1246,6 +1268,8 @@ s.lianmeng.360.cn
 s1.stat.lianmeng.360.cn
 stat.lianmeng.360.cn
 cm.lianmeng.360.cn
+img1.360buyimg.com
+wq.360buyimg.com
 service.jiagu.360.cn
 cpull.360.cn
 s.360.cn
@@ -1684,21 +1708,6 @@ b.admedia.com
 g.admedia.com
 inline.admedia.com
 m.admedia.com
-4171764.fls.doubleclick.net
-ad-apac.doubleclick.net
-ad.jp.doubleclick.net
-adclick.g.doublecklick.net
-adclick.g.doubleclick.net
-bid.g.doubleclick.net
-pagead46.l.doubleclick.net
-stats.g.doubleclick.net
-afs.googlesyndication.com
-video-ad-stats.googlesyndication.com
-s0.2mdn.net
-s1.2mdn.net
-media.admob.com
-adfarm.mediaplex.com
-ssl.google-analytics.com
 i.l.inmobicdn.net
 au.w.inmobi.cn
 sdkm.w.inmobi.cn
@@ -1732,7 +1741,6 @@ ad5.sina.com.cn
 ad.adhouyi.cn
 adadvisor.net
 ad.adwo.com
-ad-apac.doubleclick.net
 adapi.lenovogame.com
 ad.api.moji.com
 adapi.shouji.360.cn
@@ -1742,15 +1750,12 @@ ad-bg.adwo.com
 ad.caiyunapp.com
 adcast.deviantart.com
 ad.cdn.sex
-ad.cn.doubleclick.net
 adcore.lenovomm.com
 ad-count.adwo.com
 ad-delivery.net
 ad.dev.360.cn
-ad.doubleclick.net
 ad.dqwjzm.com
 ad.duapps.com
-ade.googlesyndication.com
 adeventtracker.spotify.com
 adfarm.mediaplex.com
 adfill.adview.cn
@@ -1767,12 +1772,10 @@ adimg.mobile.sina.cn
 adimg.qxlsjw.com
 adimg.uve.weibo.com
 adinfo.ra1.xlmc.sec.miui.com
-ad.jp.doubleclick.net
 ad.jsnbrynb.com
 adlaunch.moji.com
 adlog.flurry.com
 ad.mail.sohu.com
-adm.baidu.com
 admd.yam.com
 admeld.adnxs.com
 adm.icast.cn
@@ -1783,7 +1786,6 @@ adn.insight.ucweb.com
 a.domob.cn
 a.dounanhuahui.com
 adping.qq.com
-ad.player.baidu.com
 adpm.app.qq.com
 adpro.pro.cn
 adpublish.ydstatic.com
@@ -1798,7 +1800,6 @@ ads2.msn.com
 ads.adaptv.advertising.com
 ads-a.juicyads.com
 ads.bssdl.kugou.com
-adscdn.baidu.com
 adsclick.qq.com
 adsco.re
 ads.creative-serving.com
@@ -1811,14 +1812,12 @@ adserver.juicyads.com
 adserver-us.adtech.advertising.com
 adserver.xpanama.net
 adserver.yahoo.com
-adservice.google.com
 ads.eu.msn.com
 adsfile.qq.com
 ads.flurry.com
 adsfs.oppomobile.com
 ads.gionee.com
 ads.gmodules.com
-ads.google.com
 adsgroup.qq.com
 adshmct.qq.com
 adshmmsg.qq.com
@@ -1864,7 +1863,6 @@ ad.wang502.com
 ad.winrar.com.cn
 ad.wretch.cc
 adx.ads.oppomobile.com
-adx.g.doubleclick.net
 adx.pro.cn
 adx-static.ksosoft.com
 ad.xxguan.cn
