@@ -1,12 +1,12 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下面两条）
+#pkg=white.ad.web.com;浏览器播放视频提示误伤 [不√下面两条]
 t7z.cupid.iqiyi.com
 livew.l.qq.com
 gw.365you.com
 
-#pkg=ad.xiaomi.com;[ 小米视频&TV ] MIUI
+#pkg=ad.xiaomi.com;( 小米视频&TV ) MIUI
 nav.browser.miui.com
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
@@ -50,7 +50,7 @@ resolver.msg.xiaomi.net
 cnbj1.fds.api.xiaomi.com
 wtradv.market.xiaomi.com
 
-#pkg=iqiyi.com;[ 爱奇艺 & TV ] Qiyi
+#pkg=iqiyi.com;( 爱奇艺  & TV ) Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
 c.uaa.iqiyi.com
@@ -99,8 +99,10 @@ focusbaiduafp.allyes.com
 rd596n.jomodns.com
 baiducdncmn-gd.inter.iqiyi.com
 bdcdncmn-gd.inter.71edge.com
+mixer.cupid.ptqy.gitv.tv
+msg.ptqy.gitv.tv
 
-#pkg=tv.qq.com;[ 腾讯视频&TV ] Tencent（V6.4.0）
+#pkg=tv.qq.com;( 腾讯视频&TV ) Tencent[V6.4.0]
 aiseet.aa.atianqi.com
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
@@ -146,7 +148,7 @@ mcgi.v.qq.com
 soup.v.qq.com
 bksoup.v.qq.com
 
-#pkg=tv.sohu.com;[ 搜狐视频&TV ] Sohu
+#pkg=tv.sohu.com;( 搜狐视频&TV ) Sohu
 sohu-dtv.m.cn.miaozhen.com
 agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
@@ -173,8 +175,9 @@ vstat.v.blog.sohu.com
 wl.hd.sohu.com
 download.wan.sohu.com
 g.jssdk.net
+changyan.sohu.com
 
-#pkg=le.com;[ 乐视视频&TV ] Letv
+#pkg=le.com;( 乐视视频&TV ) Letv
 api.game.letvstore.com
 dev.dc.letv.com
 msg.m.letv.com
@@ -182,9 +185,10 @@ n.mark.letv.com
 static.app.m.letv.com
 test.ark.letv.com
 
-#pkg=pptv.com;[ PP视频 & TV ] PPTV
+#pkg=pptv.com;( PP视频 & TV ) PPTV
 de.as.cp61.ott.cibntv.net
 lives.l.cp81.ott.cibntv.net
+mtrace.play.cp81.ott.cibntv.net
 ad.advst.cp33.ott.cibntv.net
 sltint.adv.ott.cibntv.net
 api.adv.ott.cibntv.net
@@ -208,12 +212,14 @@ gas.data.pplive.com
 plt.data.pplive.com
 web.data.pplive.com
 
-#pkg=mgtv.com;[ 芒果TV & TV ] Mgtv
+#pkg=mgtv.com;( 芒果TV & TV ) Mgtv
 mobile.da.mgtv.com
 mobile2.da.mgtv.com
 ott.da.mgtv.com
 ott2.da.mgtv.com
 ott3.da.mgtv.com
+ott-v0-al.data.mgtv.com
+ott.v1.data.mgtv.com
 ys.da.mgtv.com
 ynet.da.mgtv.com
 pc.da.mgtv.com
@@ -232,7 +238,7 @@ apperr.log.mgtv.com
 m2.da.mgtv.com
 m.da.mgtv.com
 
-#pkg=tv.cntv.cn;[ 央视影音&TV ] CNTV
+#pkg=tv.cntv.cn;( 央视影音&TV ) CNTV
 mdrecv.app.cntvwb.cn
 sdapprecv.app.cntvwb.cn
 vdapprecv.app.cntvwb.cn
@@ -246,7 +252,7 @@ d.cntv.cn
 adguanggao.eee114.com
 cctv.adsunion.com
 
-#pkg=fun.tv;[ 风行&酷喵TV ] FunShion
+#pkg=fun.tv;( 风行&酷喵TV ) FunShion
 aa0.pub.funshion.com
 aa1.pub.funshion.com
 adm.funshion.com
@@ -260,7 +266,6 @@ ykugc.cp31.ott.cibntv.net
 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 vali.cp31.ott.cibntv.net.302.myalicdn.com
 youku-dtv.m.cn.miaozhen.com
-nbsdk-baichuan.alicdn.com
 ipm.atm.youku.com
 orange-dc.youku.com
 youku-acs.m.taobao.com
@@ -269,8 +274,12 @@ rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
 
-#pkg=ad.cmvideo.cn;[ 咪咕┆土豆┆人人┆酷6┆等… ]
+#pkg=ad.cmvideo.cn;( 咪咕┆土豆┆人人┆酷6┆等… )
 ggx.cmvideo.cn
+adxserver.ad.cmvideo.cn
+dspserver.ad.cmvideo.cn
+openstorage.ad.cmvideo.cn
+test.ad.cmvideo.cn
 adextensioncontrol.tudou.com
 iwstat.tudou.com
 nstat.tudou.com
@@ -397,6 +406,16 @@ adlog.molitv.cn
 ipmatm.cp12.wasu.tv
 topapi.cp12.wasu.tv
 countatm.cp12.wasu.tv
+adservice.sigmob.cn
+stadig.ifeng.com
+api.newad.ifeng.com
+ifengad.3g.ifeng.com
+adv.fjtv.net
+adsys.chinacloudapp.cn
+advapi.ahtv.cn
+dsa-mfp.fengshows.cn
+sdk.cferw.com
+anquan.luomi.com
 
 #pkg=ad.adwars.com;大圣净化规则
 ad.wx.com
@@ -409,18 +428,20 @@ wxsnsad.tc.qq.com
 canvas.gdt.qq.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
+adsmind.gdtimg.com
+badjs.weixinbridge.com
 pingfore.qq.com
 splashqqlive.gtimg.com
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
+toutiao-frontier.snssdk.com
 gecko-hl.snssdk.com
 bds.snssdk.com
-sdfp.snssdk.com
 mcs.snssdk.com
+sdfp.snssdk.com
 gecko-lq.snssdk.com
-toutiao-frontier.snssdk.com
 abtest-ch.snssdk.com
 ad.toutiao.com
 adshare.toutiao.com
@@ -428,10 +449,11 @@ whoami.akamai.net
 awake-stats.jpush.cn
 miniapp.qiluyidian.mobi
 static.bshare.cn
-beacon-api.aliyuncs.com
 launches.appsflyer.com
+cl2.webterren.com
 api-access.pangolin-sdk-toutiao.com
 log-api.pangolin-sdk-toutiao.com
+sf3-fe-tos.pglstatp-toutiao.com
 test.adsp.xunlei.com
 api-mcp.adsp.xunlei.com
 xladapi.izuiyou.com
@@ -462,15 +484,16 @@ events.appsflyer.com
 adbehavior.ximalaya.com
 adwbs.ximalaya.com
 adbs.ximalaya.com
+dns.ximalaya.com
 mobwsa.ximalaya.com
+location.ximalaya.com
+xdcs-collector.ximalaya.com
 ad.12306.cn
 logs.amap.com
 ad.thsi.cn
 adm.10jqka.com.cn
 ads.voiceads.cn
 r.inad.com
-sdk.cferw.com
-anquan.luomi.com
 sdk.zsdfm.com
 adnew.wifi8.com
 ad.ikonke.com
@@ -518,8 +541,6 @@ ubmcmm.baidustatic.com
 adserviceretry.kugou.com
 adserviceretry.kglink.cn
 adsfile.bssdlbig.kugou.com
-adservice.sigmob.cn
-stadig.ifeng.com
 cloudservice22.kingsoft-office-service.com
 api.touchxd.com
 b-gi.getui.com
@@ -529,8 +550,6 @@ t.appsflyer.com
 api-luckycoinsdk.doglobal.net
 durdcn.doglobal.net
 api-es.doglobal.net
-cmta.yangkeduo.com
-id6.me
 adproxy.autohome.com.cn
 v3-ad.ixigua.com
 rcv.aiclk.com
@@ -594,7 +613,6 @@ cloud.zyiis.net
 ads.weilitoutiao.net
 ssp-api.domob.cn
 ssp-event.domob.cn
-dsa-mfp.fengshows.cn
 du.163.com
 yaolu.mh.163.com
 yaolu.yuedu.163.com
@@ -733,10 +751,13 @@ wgo.mmstat.com
 api.applink.mob.com
 statics.woozooo.com
 cloud.xdrig.com
+api-ads.tiantianqutao.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
 www.googleadservices.com
+google-analytics.com
+www.google-analytics.com
 googlesyndication.com
 pagead.googlesyndication.com
 pagead1.googlesyndication.com
@@ -1154,24 +1175,12 @@ tangram.e.qq.com
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 ynuf.aliapp.org
-file.ipinyou.com.cn
-i.ipinyou.com
-ipinyou.com
-s.ipinyou.com
-sdsp.ipinyou.com
-stats.ipinyou.com
-www.ipinyou.com
-www.ipinyou.com.cn
-init.phpwind.com
-nt.phpwind.com
-s.phpwind.com
-cdn0.mobmore.com
-ex.mobmore.com
-feedback.whalecloud.com
-www.whalecloud.com
-cdn.puata.info
-ex.puata.info
-log.umsns.com
+unidesk.alicdn.com
+nbsdk-baichuan.alicdn.com
+baichuan-sdk.alicdn.com
+ilce.alicdn.com
+abtest.alibaba.com
+proxy-mob-cld.alicdn.com
 www.uyunad.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
@@ -1179,33 +1188,35 @@ adashxgc.ut.taobao.com
 adashx.m.taobao.com
 c-adash.m.taobao.com
 m-adash.m.taobao.com
-unidesk.alicdn.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
 adash.m.taobao.com
-nbsdk-baichuan.alicdn.com
 h-adashx.ut.taobao.com
 tunion-api.m.taobao.com
-baichuan-sdk.alicdn.com
 acs4baichuan.m.taobao.com
 amdc.m.taobao.com
 amdcopen.m.taobao.com
 eco.taobao.com
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
-api.wsq.umeng.com
-ilce.alicdn.com
-api-ads.tiantianqutao.com
 openjmacs.m.taobao.com
 dsp.simba.taobao.com
-acs.m.taobao.com
-abtest.alibaba.com
-proxy-mob-cld.alicdn.com
 adashx4yt.m.taobao.com
 sjarvis.taobao.com
 audid-api.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
+a.irs01.com
+bitauto.irs01.com
+h.irs01.com
+iqiyi.irs01.com
+letv.irs01.com
+m.irs01.com
+pcauto.irs01.com
+qq.irs01.com
+v.irs01.com
+v12-r0566gbscjw.z.irs01.com
+yyt.irs01.com
 3m.mediav.com
 ckmap.mediav.com
 click.mediav.com
@@ -1263,6 +1274,7 @@ msg.umengcloud.com
 udash.umengcloud.com
 upoll.umengcloud.com
 utop.umengcloud.com
+api.wsq.umeng.com
 api.so.lianmeng.360.cn
 s.lianmeng.360.cn
 s1.stat.lianmeng.360.cn
@@ -1285,118 +1297,12 @@ cm.adkmob.com
 ssdk.adkmob.com
 bigdata.advmob.cn
 folder.advmob.cn
+cdn0.mobmore.com
+ex.mobmore.com
+feedback.whalecloud.com
 bu1.duba.com
 bu2.duba.com
 service.ad.duomi.com
-adxserver.ad.cmvideo.cn
-dspserver.ad.cmvideo.cn
-openstorage.ad.cmvideo.cn
-test.ad.cmvideo.cn
-api.iapps.ifeng.com
-api.newad.ifeng.com
-exp.3g.ifeng.com
-ifengad.3g.ifeng.com
-stadig.ifeng.com
-stadig0.ifeng.com
-dmpclick.deliver.ifeng.com
-dol.deliver.ifeng.com
-dolphin.deliver.ifeng.com
-ids1.deliver.ifeng.com
-iis1.deliver.ifeng.com
-iis3g.deliver.ifeng.com
-mfp.deliver.ifeng.com
-js.51taifu.com
-wl.51taifu.com
-adv.fjtv.net
-adsys.chinacloudapp.cn
-advapi.ahtv.cn
-ad.zuimeitianqi.com
-stat.zuimeitianqi.com
-a.tribalfusion.com
-acuityplatform.com
-ad-delivery.net
-adadvisor.net
-ads.creative-serving.com
-adserver.adtech.de
-api.primecaster.net
-api.tr.blismedia.com
-b1sync.zemanta.com
-bh.contextweb.com
-bttrack.com
-c1.adform.net
-cdn.districtm.io
-cm.adgrx.com
-cm.ctnsnet.com
-cm.eyereturn.com
-cm.netseer.com
-cms.quantserve.com
-cr-p16.ladsp.com
-cti.w55c.net
-d5p.de17a.com
-dpm.demdex.net
-dsp.adfarm1.adition.com
-gload.adhood.com
-green.erne.co
-i.w55c.net
-magnetic.t.domdex.com
-map.media6degrees.com
-match.adsby.bidtheatre.com
-match.prod.bidr.io
-match.rundsp.com
-mpp.vindicosuite.com
-onetag-sys.com
-p.rfihub.com
-pix.impdesk.com
-pixel-a.sitescout.com
-pixel.mathtag.com
-pixel.rubiconproject.com
-pixel.tapad.com
-px.adhigh.net
-px.owneriq.net
-px.powerlinks.com
-pxl.connexity.net
-r.254a.com
-rbp.emea.mxptint.net
-rbp.mxptint.net
-rc2waycm-atl.netmng.com
-rcp.c.appier.net
-rp.gwallet.com
-rub.pxl.ace.advertising.com
-rubicon-match.dotomi.com
-sync-dsp.ad-m.asia
-sync-tm.everesttech.net
-sync.1rx.io
-sync.adaptv.advertising.com
-sync.adotmob.com
-sync.extend.tv
-sync.intentiq.com
-sync.ipredictive.com
-sync.mathtag.com
-sync.tidaltv.com
-tap-t.rubiconproject.com
-tap.rubiconproject.com
-token.rubiconproject.com
-track-east.mobileadtrading.com
-track.eyeviewads.com
-tracking.m6r.eu
-um.simpli.fi
-um2.eqads.com
-usync.aws.rubiconproject.com
-renren2.maoyun.tv
-qp.yunanfuwuqi.com
-a.ecook.cn
-s.hzht666.com
-vip.qqxwf.com
-ad.lqalm.com
-js.feitian001.com
-ss.swagger1.com
-xs.swagger1.com
-hoisin.coocaatv.com
-kovjo.com
-fzz.cloud.1234507.com
-sdk.cferw.com
-hbdt.luomi.com
-trafficfactory.biz
 ad.sinovision.net
 adsys.sinovision.net
 www.admaji.com
@@ -1604,17 +1510,6 @@ pic.guomob.com
 t3.guomob.com
 t4.guomob.com
 www.guomob.com
-a.irs01.com
-bitauto.irs01.com
-h.irs01.com
-iqiyi.irs01.com
-letv.irs01.com
-m.irs01.com
-pcauto.irs01.com
-qq.irs01.com
-v.irs01.com
-v12-r0566gbscjw.z.irs01.com
-yyt.irs01.com
 ad.madserving.com
 ads.static.madserving.com
 adv.madserving.com
@@ -1745,7 +1640,6 @@ adapi.lenovogame.com
 ad.api.moji.com
 adapi.shouji.360.cn
 adasad.myweb.hinet.net
-adash.man.aliyuncs.com
 ad-bg.adwo.com
 ad.caiyunapp.com
 adcast.deviantart.com
@@ -1869,6 +1763,11 @@ ad.xxguan.cn
 adx.xiaodutv.com
 ad.zuimeitianqi.com
 ad.gtbrowser.com
+ad.zuimeitianqi.com
+ad-delivery.net
+adadvisor.net
+ads.creative-serving.com
+adserver.adtech.de
 www.admarket.mobi
 zc.adpush.cn
 z.domob.cn
@@ -2312,3 +2211,4 @@ all.cnzz.com.danuoyi.tbcache.com
 *.yunpifu.cn
 *.zxwdw.com
 *.inmobi.cn
+*.wxs.qq.com
