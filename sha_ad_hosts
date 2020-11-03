@@ -1,20 +1,21 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频提示误伤 [不√下面两条]
+#pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下面两条）
 t7z.cupid.iqiyi.com
 livew.l.qq.com
 gw.365you.com
 
-#pkg=ad.xiaomi.com;( 小米视频&TV ) MIUI
-nav.browser.miui.com
+#pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
+video.market.xiaomi.com
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
 t3.a.market.xiaomi.com
 t4.a.market.xiaomi.com
 t5.a.market.xiaomi.com
 t6.a.market.xiaomi.com
-video.market.xiaomi.com
+nav.browser.miui.com
+security.browser.miui.com
 api.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
 m.track.ad.xiaomi.com
@@ -42,15 +43,13 @@ diagnosis.ad.xiaomi.com
 sdk2.youguoquan.com
 msg.71.am
 msg.qy.net
+resolver.msg.xiaomi.net
 api.ts.feedback.71.am
 bj.imp.voiceads.cn
 o2o.api.xiaomi.com
 xiaomi.m.cn.miaozhen.com
-resolver.msg.xiaomi.net
-cnbj1.fds.api.xiaomi.com
-wtradv.market.xiaomi.com
 
-#pkg=iqiyi.com;( 爱奇艺  & TV ) Qiyi
+#pkg=iqiyi.com;【爱奇艺 .& TV】. Qiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
 c.uaa.iqiyi.com
@@ -102,7 +101,7 @@ bdcdncmn-gd.inter.71edge.com
 mixer.cupid.ptqy.gitv.tv
 msg.ptqy.gitv.tv
 
-#pkg=tv.qq.com;( 腾讯视频&TV ) Tencent[V6.4.0]
+#pkg=tv.qq.com;【腾讯视频&TV】. Tencent﹝V6.4.0﹞
 aiseet.aa.atianqi.com
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
@@ -148,7 +147,7 @@ mcgi.v.qq.com
 soup.v.qq.com
 bksoup.v.qq.com
 
-#pkg=tv.sohu.com;( 搜狐视频&TV ) Sohu
+#pkg=tv.sohu.com;【搜狐视频&TV】. Sohu
 sohu-dtv.m.cn.miaozhen.com
 agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
@@ -177,7 +176,7 @@ download.wan.sohu.com
 g.jssdk.net
 changyan.sohu.com
 
-#pkg=le.com;( 乐视视频&TV ) Letv
+#pkg=le.com;【乐视视频&TV】. Letv
 api.game.letvstore.com
 dev.dc.letv.com
 msg.m.letv.com
@@ -185,7 +184,7 @@ n.mark.letv.com
 static.app.m.letv.com
 test.ark.letv.com
 
-#pkg=pptv.com;( PP视频 & TV ) PPTV
+#pkg=pptv.com;【PP视频 & TV】. PPTV
 de.as.cp61.ott.cibntv.net
 lives.l.cp81.ott.cibntv.net
 mtrace.play.cp81.ott.cibntv.net
@@ -212,7 +211,7 @@ gas.data.pplive.com
 plt.data.pplive.com
 web.data.pplive.com
 
-#pkg=mgtv.com;( 芒果TV & TV ) Mgtv
+#pkg=mgtv.com;【芒果TV & TV】. Mgtv
 mobile.da.mgtv.com
 mobile2.da.mgtv.com
 ott.da.mgtv.com
@@ -238,7 +237,7 @@ apperr.log.mgtv.com
 m2.da.mgtv.com
 m.da.mgtv.com
 
-#pkg=tv.cntv.cn;( 央视影音&TV ) CNTV
+#pkg=tv.cntv.cn;【央视影音&TV】. CNTV
 mdrecv.app.cntvwb.cn
 sdapprecv.app.cntvwb.cn
 vdapprecv.app.cntvwb.cn
@@ -252,7 +251,7 @@ d.cntv.cn
 adguanggao.eee114.com
 cctv.adsunion.com
 
-#pkg=fun.tv;( 风行&酷喵TV ) FunShion
+#pkg=fun.tv;【风行&酷喵TV】. FunShion
 aa0.pub.funshion.com
 aa1.pub.funshion.com
 adm.funshion.com
@@ -273,8 +272,9 @@ video-ad.sm.cn
 rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
+timeserver.cnzz.net
 
-#pkg=ad.cmvideo.cn;( 咪咕┆土豆┆人人┆酷6┆等… )
+#pkg=ad.cmvideo.cn;【咪咕┆土豆┆人人┆酷6┆等……】
 ggx.cmvideo.cn
 adxserver.ad.cmvideo.cn
 dspserver.ad.cmvideo.cn
@@ -391,6 +391,9 @@ bolt.jebe.renren.com
 static.jebe.renren.com
 xray.jebe.renren.com
 pat.farvd.com
+dc.sigmob.cn
+cdn.adm.myhayo.com
+engine.tuia.cn
 ad-cache.dopool.com
 analytics3.dopool.com
 adapi.starschina.com
@@ -429,19 +432,18 @@ canvas.gdt.qq.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
 adsmind.gdtimg.com
-badjs.weixinbridge.com
-pingfore.qq.com
-splashqqlive.gtimg.com
+minorshort.weixin.qq.com
+aegis.qq.com
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
 toutiao-frontier.snssdk.com
 gecko-hl.snssdk.com
+gecko-lq.snssdk.com
 bds.snssdk.com
 mcs.snssdk.com
 sdfp.snssdk.com
-gecko-lq.snssdk.com
 abtest-ch.snssdk.com
 ad.toutiao.com
 adshare.toutiao.com
@@ -490,6 +492,7 @@ location.ximalaya.com
 xdcs-collector.ximalaya.com
 ad.12306.cn
 logs.amap.com
+commercial.shouji.360.cn
 ad.thsi.cn
 adm.10jqka.com.cn
 ads.voiceads.cn
@@ -623,6 +626,12 @@ rtbapi.douyucdn.cn
 msg.douyu.com
 api.e.kuaishou.com
 api2.e.kuaishou.com
+log-dmp.suishenyun.cn
+log1.cmpassport.com
+adlog.tagtic.cn
+adopt-sdk.xg.tagtic.cn
+gs.getui.com
+g1.tagtic.cn
 x.ojgoy.cn
 img.xuwnz.cn
 m.shilian168.cn
@@ -747,17 +756,19 @@ dolphin-center.adsame.com
 keybut.com
 api.df.mob.com
 api-analytics-cn.huami.com
-wgo.mmstat.com
 api.applink.mob.com
 statics.woozooo.com
-cloud.xdrig.com
 api-ads.tiantianqutao.com
+c.adx.2345.com
+cloud.xdrig.com
+push.xdrig.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
 www.googleadservices.com
 google-analytics.com
 www.google-analytics.com
+www.googletagmanager.com
 googlesyndication.com
 pagead.googlesyndication.com
 pagead1.googlesyndication.com
@@ -1170,6 +1181,7 @@ rmpad.imtt.qq.com
 isee.weishi.qq.com
 dp3.qq.comqq
 tangram.e.qq.com
+mig.str.mdt.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1773,8 +1785,8 @@ zc.adpush.cn
 z.domob.cn
 z.sora.yoyi.com.cn
 zt.adsage.com
-cnzz.mmstat.com
 all.cnzz.com.danuoyi.tbcache.com
+cnzz.mmstat.com
 
 #pkg=adx.regex.com;通配符拦截
 *.irs01.com
