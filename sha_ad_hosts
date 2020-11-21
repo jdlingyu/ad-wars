@@ -1,7 +1,7 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频提示误伤（不√下面两条）
+#pkg=white.ad.web.com;浏览器播放视频（提示误伤）不√这两条
 t7z.cupid.iqiyi.com
 livew.l.qq.com
 
@@ -395,7 +395,9 @@ bds.snssdk.com
 mcs.snssdk.com
 sdfp.snssdk.com
 abtest-ch.snssdk.com
+sf3-ttcdn-tos.pstatp.com
 ad.toutiao.com
+dm.toutiao.com
 adshare.toutiao.com
 whoami.akamai.net
 awake-stats.jpush.cn
@@ -443,6 +445,8 @@ xdcs-collector.ximalaya.com
 ad.12306.cn
 logs.amap.com
 commercial.shouji.360.cn
+zhihu-web-analytics.zhihu.com
+post1.voiceads.cn
 ad.thsi.cn
 adm.10jqka.com.cn
 ads.voiceads.cn
@@ -555,6 +559,9 @@ adsfs-sdkconfig.heytapimage.com
 optimus-ads.amap.com
 widgets.outbrain.com
 mp.nextmedia.com
+www.ad5lm.net
+zls.xz6d.com
+spl.ztvx8.com
 pv.dakawm.cc
 m.zhuanzhuzibu.com
 jpg.mengbingyuan.com
@@ -585,6 +592,11 @@ adlog.tagtic.cn
 adopt-sdk.xg.tagtic.cn
 gs.getui.com
 g1.tagtic.cn
+ad.zuimeitianqi.com
+ads.adroi.com.cn
+ads-go.adroi.com.cn
+adx.hzbxm.com
+api.verify.mob.com
 x.ojgoy.cn
 m.shilian168.cn
 m.zdjgj.cn
@@ -662,8 +674,6 @@ dns.m.sm.cn
 log.m.sm.cn
 mydisplay.ctfile.com
 mobds.pthejzb.com
-pms.mb.qq.com
-adsmind.apdcdn.tc.qq.com
 sdk.mobad.ijinshan.com
 ad.51wnl-cq.com
 norma-external-collect.meizu.com
@@ -692,7 +702,6 @@ tracking.ad-survey.com
 api1.888zy.cn
 i8.i8ggwm.com
 open.e.kuaishou.com
-dm.toutiao.com
 sdk.api.oaid.wocloud.cn
 i.w.inmobi.cn
 sdktm.w.inmobi.cn
@@ -710,6 +719,7 @@ api-ads.tiantianqutao.com
 c.adx.2345.com
 cloud.xdrig.com
 push.xdrig.com
+iflyad.bj.openstorage.cn
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -1130,6 +1140,8 @@ isee.weishi.qq.com
 dp3.qq.comqq
 tangram.e.qq.com
 mig.str.mdt.qq.com
+pms.mb.qq.com
+adsmind.apdcdn.tc.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1714,9 +1726,7 @@ adx.pro.cn
 adx-static.ksosoft.com
 ad.xxguan.cn
 adx.xiaodutv.com
-ad.zuimeitianqi.com
 ad.gtbrowser.com
-ad.zuimeitianqi.com
 ad-delivery.net
 adadvisor.net
 ads.creative-serving.com
@@ -1728,6 +1738,74 @@ z.sora.yoyi.com.cn
 zt.adsage.com
 all.cnzz.com.danuoyi.tbcache.com
 cnzz.mmstat.com
+z3.cnzz.com
+s4.cnzz.com
+ei.cnzz.com
+c.cnzz.com
+s13.cnzz.com
+q14.cnzz.com
+w.cnzz.com
+v1.cnzz.com
+s5.cnzz.com
+s6.cnzz.com
+cs6.cnzz.com
+s9.cnzz.com
+s22.cnzz.com
+s23.cnzz.com
+s11.cnzz.com
+s95.cnzz.com
+s96.cnzz.com
+gxbr.cnzz.com
+z11.cnzz.com
+z13.cnzz.com
+z1.cnzz.com
+z2.cnzz.com
+z4.cnzz.com
+z5.cnzz.com
+z6.cnzz.com
+z7.cnzz.com
+z8.cnzz.com
+z9.cnzz.com
+z10.cnzz.com
+z11.cnzz.com
+z12.cnzz.com
+zs10.cnzz.com
+zs11.cnzz.com
+zs12.cnzz.com
+zs13.cnzz.com
+zs14.cnzz.com
+zs15.cnzz.com
+zs16.cnzz.com
+zs1.cnzz.com
+zs25.cnzz.com
+zs2.cnzz.com
+zs3.cnzz.com
+zs4.cnzz.com
+zs5.cnzz.com
+zs6.cnzz.com
+zs7.cnzz.com
+zs8.cnzz.com
+zs9.cnzz.com
+zvs1.cnzz.com
+zvs2.cnzz.com
+hqs1.cnzz.com
+hqs4.cnzz.com
+hqs7.cnzz.com
+hqs9.cnzz.com
+hzs10.cnzz.com
+hzs12.cnzz.com
+hzs13.cnzz.com
+hzs14.cnzz.com
+hzs17.cnzz.com
+hzs23.cnzz.com
+hzs2.cnzz.com
+hzs3.cnzz.com
+hzs5.cnzz.com
+hzs7.cnzz.com
+hzs8.cnzz.com
+hzs9.cnzz.com
+hzvs1.cnzz.com
+pcookie.cnzz.com
 
 #pkg=adx.regex.com;通配符拦截
 *.irs01.com
