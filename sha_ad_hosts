@@ -1,9 +1,13 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频（提示误伤）不√这两条
+#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下面两条
 t7z.cupid.iqiyi.com
 livew.l.qq.com
+#以下与看广告领奖相关#
+gw.365you.com
+mi.gdt.qq.com
+adsmind.gdtimg.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 video.market.xiaomi.com
@@ -379,11 +383,8 @@ wxsnsad.tc.qq.com
 canvas.gdt.qq.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
-adsmind.gdtimg.com
-pingfore.qq.com
 minorshort.weixin.qq.com
 aegis.qq.com
-p.store.qq.com
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
@@ -395,7 +396,6 @@ bds.snssdk.com
 mcs.snssdk.com
 sdfp.snssdk.com
 abtest-ch.snssdk.com
-sf3-ttcdn-tos.pstatp.com
 ad.toutiao.com
 dm.toutiao.com
 adshare.toutiao.com
@@ -591,12 +591,35 @@ log1.cmpassport.com
 adlog.tagtic.cn
 adopt-sdk.xg.tagtic.cn
 gs.getui.com
+lc.getui.com
 g1.tagtic.cn
 ad.zuimeitianqi.com
 ads.adroi.com.cn
 ads-go.adroi.com.cn
 adx.hzbxm.com
 api.verify.mob.com
+pasta.esfile.duapps.com
+nrcapi.ssl2.duapps.com
+logs.chelaile.net.cn
+ss.chelaile.net.cn
+b-gtc.getui.com
+c-gtc.getui.com
+c-hzgt2.getui.com
+atrace.chelaile.net.cn
+api-gi.getui.com
+sdk.open.phone.igexin.com
+sdk-open-phone.getui.com
+sf1-be-pack.pglstatp-toutiao.com
+sf3-be-pack.pglstatp-toutiao.com
+sf6-be-pack.pglstatp-toutiao.com
+sf6-fe-tos.pglstatp-toutiao
+gorgon.youdao.com
+dev.iyuba.cn
+gstat.myzaker.com
+ggs.myzaker.com
+img.xuwnz.cn
+img.wusnz.cn
+img.srxjz.cn
 x.ojgoy.cn
 m.shilian168.cn
 m.zdjgj.cn
@@ -662,7 +685,14 @@ ort.stsdk.vivo.com.cn
 pnrt.stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
 vcardsdkservice.vivo.com.cn
-dig.zjurl.cn
+www.qchannel01.cn
+www.qchannel02.cn
+www.qchannel03.cn
+www.qchannel04.cn
+log.qchannel03.cn
+d.qchannel03.cn
+b.qchannel03.cn
+a.qchannel03.cn
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
 yt-adp.ws.126.net
@@ -678,14 +708,6 @@ sdk.mobad.ijinshan.com
 ad.51wnl-cq.com
 norma-external-collect.meizu.com
 api.adxpand.com
-www.qchannel01.cn
-www.qchannel02.cn
-www.qchannel03.cn
-www.qchannel04.cn
-log.qchannel03.cn
-d.qchannel03.cn
-b.qchannel03.cn
-a.qchannel03.cn
 df.mic.mob.com
 dfe.mic.mob.com
 l.gm.mob.com
@@ -720,6 +742,11 @@ c.adx.2345.com
 cloud.xdrig.com
 push.xdrig.com
 iflyad.bj.openstorage.cn
+adx.rrt365.com
+zz.bdstatic.com
+adx.appsdk.com.cn
+adls.suning.com
+e.crashlytics.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -1074,6 +1101,8 @@ udpolimenew.baidu.com
 union.baidu.com
 unionimage.baidu.com
 crab.baidu.com
+api1.tuisong.baidu.com
+hpd.baidu.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -1107,7 +1136,6 @@ sdk.e.qq.com
 c.gdt.qq.com
 d.gdt.qq.com
 i.gdt.qq.com
-mi.gdt.qq.com
 q.i.gdt.qq.com
 rm.gdt.qq.com
 t.gdt.qq.com
@@ -1142,6 +1170,9 @@ tangram.e.qq.com
 mig.str.mdt.qq.com
 pms.mb.qq.com
 adsmind.apdcdn.tc.qq.com
+p.store.qq.com
+masdk.3g.qq.com
+ten.sngapm.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1177,6 +1208,7 @@ sjarvis.taobao.com
 audid-api.taobao.com
 adashx4yt.m.taobao.com
 h-adashx4yt.ut.taobao.com
+umdc.aliapp.org
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 a.irs01.com
@@ -1249,11 +1281,17 @@ udash.umengcloud.com
 upoll.umengcloud.com
 utop.umengcloud.com
 api.wsq.umeng.com
+ar.umeng.com
+oc.umeng.com
 api.so.lianmeng.360.cn
 s.lianmeng.360.cn
 s1.stat.lianmeng.360.cn
 stat.lianmeng.360.cn
 cm.lianmeng.360.cn
+c.mse.360.cn
+profile.se.360.cn
+profile1.se.360.cn
+profile2.se.360.cn
 service.jiagu.360.cn
 cpull.360.cn
 s.360.cn
@@ -1711,7 +1749,6 @@ ads.yimg.com
 adsyndication.msn.com
 ads.youtube.com
 adtest.adwo.com
-ad.toutiao.com
 adtrack.ucweb.com
 adui.tg.meitu.com
 adv2.downsave.com
@@ -1737,7 +1774,6 @@ z.domob.cn
 z.sora.yoyi.com.cn
 zt.adsage.com
 all.cnzz.com.danuoyi.tbcache.com
-cnzz.mmstat.com
 z3.cnzz.com
 s4.cnzz.com
 ei.cnzz.com
@@ -1807,7 +1843,7 @@ hzs9.cnzz.com
 hzvs1.cnzz.com
 pcookie.cnzz.com
 
-#pkg=adx.regex.com;通配符拦截
+#pkg=adx.regex.com;通配符拦截（强力但难免存在误伤）
 *.irs01.com
 *.irs01.net
 *.irs09.com
@@ -2243,3 +2279,4 @@ pcookie.cnzz.com
 *.zxwdw.com
 *.inmobi.cn
 *.wxs.qq.com
+*.getui.com
