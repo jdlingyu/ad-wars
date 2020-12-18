@@ -1,13 +1,30 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下面两条
+#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下两条
 t7z.cupid.iqiyi.com
 livew.l.qq.com
-#以下与看广告领奖相关#
+#----广告奖励相关----#
 gw.365you.com
-mi.gdt.qq.com
 adsmind.gdtimg.com
+c.gdt.qq.com
+d.gdt.qq.com
+i.gdt.qq.com
+m.gdt.qq.com
+t.gdt.qq.com
+v.gdt.qq.com
+q.i.gdt.qq.com
+v2.gdt.qq.com
+mi.gdt.qq.com
+ii.gdt.qq.com
+rm.gdt.qq.com
+nc.gdt.qq.com
+vr.gdt.qq.com
+rpt.gdt.qq.com
+win.gdt.qq.com
+ipv4.gdt.qq.com
+canvas.gdt.qq.com
+x.adnet.qq.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 video.market.xiaomi.com
@@ -380,9 +397,10 @@ wxsnsdythumb.wxs.qq.com
 wxsnsdy.video.qq.com
 wxsnsdy.tc.qq.com
 wxsnsad.tc.qq.com
-canvas.gdt.qq.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
+badjs.weixinbridge.com
+pingfore.qq.com
 minorshort.weixin.qq.com
 aegis.qq.com
 mon.snssdk.com
@@ -434,7 +452,7 @@ ad.ximalaya.com
 adse.ximalaya.com
 adse.wsa.ximalaya.com
 adsebs.ximalaya.com
-events.appsflyer.com
+adsehera.ximalaya.com
 adbehavior.ximalaya.com
 adwbs.ximalaya.com
 adbs.ximalaya.com
@@ -442,6 +460,7 @@ dns.ximalaya.com
 mobwsa.ximalaya.com
 location.ximalaya.com
 xdcs-collector.ximalaya.com
+events.appsflyer.com
 ad.12306.cn
 logs.amap.com
 commercial.shouji.360.cn
@@ -580,8 +599,6 @@ du.163.com
 yaolu.mh.163.com
 yaolu.yuedu.163.com
 newswifiapi.dftoutiao.com
-miniapp.bilibili.com
-dataflow.biliapi.com
 rtbapi.douyucdn.cn
 msg.douyu.com
 api.e.kuaishou.com
@@ -612,11 +629,14 @@ sdk-open-phone.getui.com
 sf1-be-pack.pglstatp-toutiao.com
 sf3-be-pack.pglstatp-toutiao.com
 sf6-be-pack.pglstatp-toutiao.com
-sf6-fe-tos.pglstatp-toutiao
 gorgon.youdao.com
 dev.iyuba.cn
 gstat.myzaker.com
 ggs.myzaker.com
+m.ads.sohu.com
+s.ads.sohu.com
+t.ads.sohu.com
+a.track.sohu.com
 img.xuwnz.cn
 img.wusnz.cn
 img.srxjz.cn
@@ -685,6 +705,7 @@ ort.stsdk.vivo.com.cn
 pnrt.stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
 vcardsdkservice.vivo.com.cn
+dig.zjurl.cn
 www.qchannel01.cn
 www.qchannel02.cn
 www.qchannel03.cn
@@ -747,6 +768,11 @@ zz.bdstatic.com
 adx.appsdk.com.cn
 adls.suning.com
 e.crashlytics.com
+ssp.1nmob.com
+tl.oneway.mobi
+in.vipliangmei.com
+sdk.open.talk.getui.net
+sdk.open.talk.gepush.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -1125,7 +1151,6 @@ adver.qq.com
 d3g.qq.com
 jqmt.qq.com
 jsqmt.qq.com
-vr.gdt.qq.com
 ta.qq.com
 tajs.qq.com
 tcss.qq.com
@@ -1133,15 +1158,6 @@ p.tencentmind.com
 e.qq.com
 cm.e.qq.com
 sdk.e.qq.com
-c.gdt.qq.com
-d.gdt.qq.com
-i.gdt.qq.com
-q.i.gdt.qq.com
-rm.gdt.qq.com
-t.gdt.qq.com
-v.gdt.qq.com
-win.gdt.qq.com
-v2.gdt.qq.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
@@ -1152,13 +1168,9 @@ btrace.qq.com
 otheve.beacon.qq.com
 log.tbs.qq.com
 tools.3g.qq.com
-wxsnsdy.tc.qq.com
-wxsnsdy.video.qq.com
 oth.str.mdt.qq.com
 oth.eve.mdt.qq.com
-rpt.gdt.qq.com
 mtrace.qq.com
-ipv4.gdt.qq.com
 misc.wcd.qq.com
 raddus.bayescom.com
 mtt.eve.mdt.qq.com
@@ -1289,9 +1301,6 @@ s1.stat.lianmeng.360.cn
 stat.lianmeng.360.cn
 cm.lianmeng.360.cn
 c.mse.360.cn
-profile.se.360.cn
-profile1.se.360.cn
-profile2.se.360.cn
 service.jiagu.360.cn
 cpull.360.cn
 s.360.cn
@@ -1842,6 +1851,7 @@ hzs8.cnzz.com
 hzs9.cnzz.com
 hzvs1.cnzz.com
 pcookie.cnzz.com
+dig.bdurl.net
 
 #pkg=adx.regex.com;通配符拦截（强力但难免存在误伤）
 *.irs01.com
@@ -1851,6 +1861,10 @@ pcookie.cnzz.com
 *.zcnnn.com
 *.xdrig.com
 *.domob.cn
+*.inmobi.cn
+*.wxs.qq.com
+*.getui.com
+*.ads.sohu.com
 *.quanliyouxi.cn
 *.popupad.cn
 *.zhiong.net
@@ -2277,6 +2291,3 @@ pcookie.cnzz.com
 *.ysdhe.com
 *.yunpifu.cn
 *.zxwdw.com
-*.inmobi.cn
-*.wxs.qq.com
-*.getui.com
