@@ -4,9 +4,11 @@ localhost
 #pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下两条
 t7z.cupid.iqiyi.com
 livew.l.qq.com
-#----广告奖励相关----#
-gw.365you.com
+#------看广告获奖相关------#
+wxsnsdy.wxs.qq.com
 adsmind.gdtimg.com
+pv.sohu.com
+x.adnet.qq.com
 c.gdt.qq.com
 d.gdt.qq.com
 i.gdt.qq.com
@@ -23,8 +25,6 @@ vr.gdt.qq.com
 rpt.gdt.qq.com
 win.gdt.qq.com
 ipv4.gdt.qq.com
-canvas.gdt.qq.com
-x.adnet.qq.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 video.market.xiaomi.com
@@ -121,7 +121,7 @@ bdcdncmn-gd.inter.71edge.com
 mixer.cupid.ptqy.gitv.tv
 msg.ptqy.gitv.tv
 
-#pkg=tv.qq.com;【腾讯视频&TV】. Tencent﹝V6.4.0﹞
+#pkg=tv.qq.com;【腾讯视频&TV】. Tencent
 aiseet.aa.atianqi.com
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
@@ -391,18 +391,21 @@ anquan.luomi.com
 
 #pkg=ad.adwars.com;大圣净化规则
 ad.wx.com
+ad.weixin.qq.com
 wxa.wxs.qq.com
-wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 wxsnsdy.video.qq.com
 wxsnsdy.tc.qq.com
 wxsnsad.tc.qq.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
+canvas.gdt.qq.com
+union.gdtimg.com
 badjs.weixinbridge.com
 pingfore.qq.com
 minorshort.weixin.qq.com
 aegis.qq.com
+mj.weimob.net
 mon.snssdk.com
 extlog.snssdk.com
 toblog.ctobsnssdk.com
@@ -424,6 +427,7 @@ static.bshare.cn
 launches.appsflyer.com
 cl2.webterren.com
 api-access.pangolin-sdk-toutiao.com
+api-access.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com
 test.adsp.xunlei.com
@@ -537,7 +541,6 @@ update0.aiclk.com
 sdk-ab-config.aiclk.com
 sdk-globalconfig.aiclk.com
 adx.maplehaze.cn
-pv.sohu.com
 log.kajicam.com
 conf.xdrig.com
 api-ad.kajicam.com
@@ -599,8 +602,6 @@ du.163.com
 yaolu.mh.163.com
 yaolu.yuedu.163.com
 newswifiapi.dftoutiao.com
-rtbapi.douyucdn.cn
-msg.douyu.com
 api.e.kuaishou.com
 api2.e.kuaishou.com
 log-dmp.suishenyun.cn
@@ -637,6 +638,14 @@ m.ads.sohu.com
 s.ads.sohu.com
 t.ads.sohu.com
 a.track.sohu.com
+monitor.ssp.admobile.top
+sdk.ssp.admobile.top
+u.ssp.admobile.top
+api.fc.mob.com
+dspwin.adsame.com
+tr.adsame.com
+dspimg.adsame.com
+app-tj.adinall.com
 img.xuwnz.cn
 img.wusnz.cn
 img.srxjz.cn
@@ -1123,7 +1132,6 @@ adavideo.baidu.com
 ada.baidu.com
 tuijian.baidu.com
 ucstat.baidu.com
-udpolimenew.baidu.com
 union.baidu.com
 unionimage.baidu.com
 crab.baidu.com
@@ -1161,6 +1169,8 @@ sdk.e.qq.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
+commdata6.v.qq.com
+sdksp6.video.qq.com
 android.rqd.qq.com
 android.bugly.qq.com
 api.poll.aiseet.atianqi.com
@@ -1185,6 +1195,8 @@ adsmind.apdcdn.tc.qq.com
 p.store.qq.com
 masdk.3g.qq.com
 ten.sngapm.qq.com
+ads.privacy.qq.com
+tdid.m.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1204,7 +1216,6 @@ adashx.m.taobao.com
 c-adash.m.taobao.com
 m-adash.m.taobao.com
 adashbc.m.taobao.com
-adashbc.ut.taobao.com
 adash.m.taobao.com
 h-adashx.ut.taobao.com
 tunion-api.m.taobao.com
@@ -1235,6 +1246,8 @@ v.irs01.com
 v12-r0566gbscjw.z.irs01.com
 yyt.irs01.com
 s9.irs03.com
+s72f5a8e.irs03.com
+s06aa680.irs03.com
 3m.mediav.com
 ckmap.mediav.com
 click.mediav.com
@@ -1295,6 +1308,7 @@ utop.umengcloud.com
 api.wsq.umeng.com
 ar.umeng.com
 oc.umeng.com
+errlog.umeng.com
 api.so.lianmeng.360.cn
 s.lianmeng.360.cn
 s1.stat.lianmeng.360.cn
@@ -1576,6 +1590,7 @@ youku-dtv.m.cn.miaozhen.com
 api.cmt.mob.com
 api.exc.mob.com
 api.share.mob.com
+api.fd.mob.com
 c.data.mob.com
 cca.mob.com
 devs.data.mob.com
@@ -1856,6 +1871,7 @@ dig.bdurl.net
 #pkg=adx.regex.com;通配符拦截（强力但难免存在误伤）
 *.irs01.com
 *.irs01.net
+*.irs03.com
 *.irs09.com
 *.cnzz.com
 *.zcnnn.com
