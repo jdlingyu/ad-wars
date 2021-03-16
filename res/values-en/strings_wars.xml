@@ -1,0 +1,320 @@
+<resources>
+    <string name="net_error">网络连接丢失</string>
+    <string name="net_error_have_a_try">网络异常请稍后尝试</string>
+
+    <string name="ad_gone_active_0" formatted="false">设备尚未激活…</string>
+    <string name="ad_gone_active" formatted="false">6K6+5aSH5bCa5pyq5r+A5rS74oCm</string>
+    <string name="ad_gone_root" formatted="false">ROOT 权限</string>
+    <string name="ad_gone_x_posed" formatted="false">Xposed 框架</string>
+    <string name="ad_proxy_mode" formatted="false">开启(本地)代理模式</string>
+    <string name="ad_rules_cloud" formatted="false">云端规则</string>
+    <string name="ad_rules_accessibility_mode" formatted="false">运行模式</string>
+    <string name="ad_rules_accessibility_with_gestures" formatted="false">支持坐标点击</string>
+    <string name="ad_rules_accessibility_without_gestures" formatted="false">无坐标点击</string>
+    <string name="ad_rules_accessibility_with_gestures_close" formatted="false">支持坐标点击(禁用)</string>
+    <string name="ad_rules_accessibility_without_gestures_close" formatted="false">无坐标点击(禁用)</string>
+    <string name="ad_rules_accessibility" formatted="false">辅助服务</string>
+    <string name="ad_rules_proxy" formatted="false">代理服务</string>
+
+    <string name="app_version_def">0.0.0</string>
+    <string name="app_home_def">没有设置首页</string>
+    <string name="ba_jie_name">八戒规则</string>
+    <string name="ba_jie_desc">模拟点击跳过启动页的广告</string>
+    <string name="ba_jie_cloud_name">八戒云端</string>
+    <string name="proxy_cloud_name">沙僧云端</string>
+    <string name="ba_jie_cloud_desc">查看最新云端八戒规则</string>
+    <string name="proxy_cloud_desc">查看代理规则说明</string>
+    <string name="wu_kong_tang_name">唐僧藏经</string>
+    <string name="wu_kong_tang_desc">用户共享规则，一键导入即可</string>
+    <string name="wu_kong_cloud_name">悟空云端</string>
+    <string name="wu_kong_cloud_desc">查看最新云端悟空</string>
+    <string name="wu_kong_replace_cloud_name">文件替换云端</string>
+    <string name="wu_kong_replace_cloud_desc">查看最新广告文件替换规则</string>
+    <string name="wu_kong_url_cloud_name">Url 拦截云端</string>
+    <string name="wu_kong_url_cloud_desc">查看最新云端 Url 拦截规则</string>
+    <string name="wu_kong_name">悟空规则</string>
+    <string name="wu_kong_desc">基于 Xposed，跳过启动页的广告</string>
+    <string name="urls_name">Url 拦截规则</string>
+    <string name="urls_name_desc">基于 Xposed，拦截广告 Url</string>
+    <string name="ifw_name">应用组件拦截</string>
+    <string name="ifw_name_desc">基于 Xposed，拦截应用组件(防火墙)</string>
+    <string name="wu_kong_exp_name">悟空实验室</string>
+    <string name="wu_kong_exp_desc">基于 Xposed，实验性功能</string>
+    <string name="ba_jie_exp_name">八戒实验室</string>
+    <string name="ba_jie_exp_desc">基于 辅助服务，实验性功能</string>
+    <string name="ba_jie_statistics_name">跳过统计</string>
+    <string name="ba_jie_statistics_desc">八戒点击跳过的次数</string>
+    <string name="ba_jie_acc_recycle_title">辅助服务内存主动释放</string>
+    <string name="ba_jie_acc_recycle_desc">默认会自动释放(内存吃紧的时候)，主动释放可能会异常导致辅助服务中断。如果你手机中断很少，那么可以开启。</string>
+    <string name="sha_proxy_statistics_name">拦截统计</string>
+    <string name="sha_proxy_statistics_desc">沙僧拦截域名的次数</string>
+    <string name="net_proxy_apps">拦截应用</string>
+    <string name="net_proxy_apps_desc">如果不勾选全局，仅对该应用列表生效</string>
+    <string name="net_proxy_name">过滤规则</string>
+    <string name="proxy_dns_desc_all">是否开启全局(对所有应用生效)</string>
+    <string name="proxy_dns_desc_start">是否自动启动代理</string>
+    <string name="proxy_dns_host_system_label">拦截 dns 内容</string>
+    <string name="proxy_dns_host_domain_hint">*.x.y.z(只支持前缀 *. 通配符)</string>
+    <string name="ad_encrypt_tips" formatted="false">6KeE5YiZ5bey5Yqg5a+G77yM5Y+q5pyJ5Y6f5L2c6ICF5Y+v57yW6L6R772e</string>
+
+    <string name="net_proxy_desc">通过网络代理，拦截广告请求</string>
+    <string name="wu_kong_replace_name">文件替换</string>
+    <string name="wu_kong_replace_desc">找到广告文件，用同名的空文件夹替换</string>
+    <string name="wu_kong_host_name">系统 hosts 替换</string>
+    <string name="wu_kong_host_desc">通过替换 hosts，应用无法下载广告</string>
+    <string name="wu_kong_host_title">系统 hosts</string>
+    <string name="wu_kong_host_apply_label">替换系统 hosts 文件</string>
+    <string name="wu_kong_system_less_label">安装的 Magisk 和 SuperUser，如果替换失败，可以尝试开启 systemless - beta</string>
+    <string name="wu_kong_system_less">systemless</string>
+    <string name="wu_kong_host_apply"><b>替换</b></string>
+    <string name="wu_kong_host_recovery"><b>还原</b></string>
+    <string name="wu_kong_host_recovery_label">还原系统 hosts</string>
+    <string name="wu_kong_host_root">重启</string>
+    <string name="wu_kong_host_root_label">hosts 需要重启生效</string>
+    <string name="wu_kong_host_content_label">查看系统 hosts 前20条</string>
+    <string name="wu_kong_host_content">查看</string>
+    <string name="wu_kong_host_content_source">查看源</string>
+    <string name="wu_kong_host_system">管理</string>
+    <string name="wu_kong_third_party_host_system">管理源</string>
+    <string name="wu_kong_whitelist_host">白名单</string>
+    <string name="wu_kong_host_git_hub">大圣的 hosts 数据源</string>
+    <string name="wu_kong_host_system_label">管理 hosts 内容</string>
+    <string name="wu_kong_third_party_host_system_label">管理第三方 hosts 源</string>
+    <string name="wu_kong_whitelist_host_system_label">hosts 排除的名单</string>
+    <string name="wu_kong_host_record" formatted="false">hosts %d 条/启用 %d 条</string>
+    <string name="wu_kong_host_system_title">系统 hosts 管理</string>
+    <string name="wu_kong_whitelist_host_system_title">系统 hosts 白名单管理</string>
+    <string name="wu_kong_host_source">hosts 源</string>
+    <string name="wu_kong_custom_host_source">域名拦截</string>
+    <string name="wu_kong_host_source_search">搜索 hosts</string>
+    <string name="wu_kong_host_source_import">导入</string>
+    <string name="wu_kong_host_domain_import">添加</string>
+    <string name="wu_kong_host_source_desc">通过 hosts 源地址导入</string>
+    <string name="wu_kong_host_source_hint">hosts 源地址</string>
+    <string name="wu_kong_host_domain_hint">IP + 域名 / 域名</string>
+    <string name="wu_kong_host_domain_desc">通过域名地址屏蔽</string>
+    <string name="wu_kong_whitelist_host_domain_desc">域名/*.x.y.z(支持前缀 *. 通配符)</string>
+    <string name="wu_kong_host_source_fail">下载 hosts 源失败…</string>
+    <string name="wu_kong_host_source_success" formatted="false">成功添加 %d 条数据…</string>
+    <string name="wu_kong_host_source_refresh" formatted="false">成功更新 %d 条数据…</string>
+
+    <string name="app_info_title">应用</string>
+    <string name="static_app_name">应用名称</string>
+    <string name="static_dns_name">拦截域名</string>
+    <string name="wu_kong_expr">悟空实验室</string>
+    <string name="ba_jie_expr_title">八戒实验室(下拉可刷新规则)</string>
+    <string name="ba_jie_list">八戒规则</string>
+    <string name="ba_jie_add_app">添加应用</string>
+    <string name="app_package_not_same" formatted="false">%s 和 %s 不一致</string>
+
+    <string name="wu_kong_list">悟空规则</string>
+    <string name="url_list">Url 拦截规则</string>
+    <string name="replace_list">替换规则</string>
+    <string name="user_reg_success">注册成功…</string>
+    <string name="user_reg_exist_email" formatted="false">该邮箱 %s 已经注册…</string>
+    <string name="user_reg_info_miss">注册信息填写不全或长度不够…</string>
+    <string name="user_reg_fail">注册失败…</string>
+    <string name="user_update_success">更新成功…</string>
+    <string name="user_update_fail">更新失败…</string>
+    <string name="user_login_success">登陆成功…</string>
+    <string name="user_login_fail">登陆失败…</string>
+    <string name="user_active_fail">激活失败请重试…</string>
+    <string name="user_active_success">激活成功了…</string>
+    <string name="user_work_mode_tips">修改之后重新打开 App 生效…</string>
+    <string name="user_work_mode_select_tips">至少需要选择一个模块…</string>
+    <string name="app_check_latest_version">检查最新版本(v%s)</string>
+    <string name="app_check_latest_version_log_enable">检查最新版(日志开启)</string>
+    <string name="app_check_latest_version_log_disable">检查最新版(日志关闭)</string>
+
+
+    <string name="x_advert_view_packet">自动拆红包</string>
+    <string name="x_act_finish">页面返回(返回键)</string>
+    <string name="x_advert_undefined">未设置</string>
+    <string name="task_action_undefined">未设置(点击编辑)</string>
+    <string name="x_advert_view_id_undefined">无 ViewId</string>
+    <string name="x_advert_view_text">点击文字</string>
+    <string name="x_advert_view_id">点击ViewId</string>
+    <string name="x_advert_view_point">点击坐标</string>
+    <string name="x_advert_view_widget">点击 View 控件</string>
+    <string name="x_advert_view_auto">自动跳过</string>
+    <string name="x_advert_clipboard_replace">替换剪贴板</string>
+    <string name="x_advert_finish">关闭 活动页面</string>
+    <string name="x_advert_hide">禁用 活动页面(写轮眼)</string>
+    <string name="x_advert_skip">跳过 活动页面(到首页)</string>
+    <string name="x_advert_skip_lifecycle">替换 活动页面为首页(移花接木)</string>
+    <string name="x_advert_disable_dialog">禁止弹框(目标页面 + .Dialog)</string>
+    <string name="x_advert_custom_hook">自定义(目标页面 + .Hook)</string>
+    <string name="x_advert_skip_or_replace">跳过/替换活动页面(为首页)</string>
+    <string name="x_advert_replace_hook">文件替换(包名 + .Replace)</string>
+    <string name="x_advert_widget_view_hide">屏蔽 View(目标页面 + .View)</string>
+    <string name="x_advert_intent_firewall">应用组件拦截(Blocker/防火墙)</string>
+    <string name="x_advert_auto_skip">一指禅智能跳过</string>
+    <string name="advert_finish">关闭目标页面</string>
+    <string name="advert_hide">隐藏目标页面</string>
+    <string name="advert_skip">跳转到首页</string>
+
+    <string name="x_hook_click_view_id">点击 View</string>
+    <string name="x_hook_method_before">方法执行前(before hooked method)</string>
+    <string name="x_hook_replace_value">替换返回值(replacement return value)</string>
+    <string name="x_hook_replace_method">替换方法(method replacement)</string>
+    <string name="x_hook_rule_data_invalid">规则数据不全~</string>
+
+    <string name="ad_rules_is_latest">规则已经是最新版本</string>
+    <string name="ad_rules_update_success">规则更新成功</string>
+    <string name="ad_rules_update_response_null">服务器返回数据为空，请稍后重试</string>
+    <string name="ad_rules_local_host_apply_success">替换 hosts 成功</string>
+    <string name="ad_rules_local_host_recovery_success">还原 hosts 成功</string>
+    <string name="ad_rules_local_host_is_empty">hosts 内容为空…</string>
+    <string name="ad_rules_local_host_reboot_tile">重启手机？</string>
+    <string name="ad_rules_local_host_reboot_desc">可以先尝试开关飞行模式来生效，如果飞行模式还不生效就需要重启了。</string>
+    <string name="ad_rules_system_less_reboot_tile">重启</string>
+    <string name="ad_rules_system_less_reboot_desc">需要重启手机才能生效，确认重启？</string>
+    <string name="ad_rules_local_host_save_fail" formatted="false">保存 hosts 为文件失败: %s</string>
+    <string name="ad_rules_local_host_systemless_fail" formatted="false">替换 hosts 文件失败: 不支持 systemless</string>
+    <string name="ad_rules_local_host_replace_fail" formatted="false">替换 hosts 文件失败: %s</string>
+    <string name="ad_access_root_fail" formatted="false">获取 ROOT 权限失败…</string>
+    <string name="ad_access_root_fail_code" formatted="false">获取 ROOT 权限失败，错误信息 -> %s</string>
+
+    <string name="user_access_auth_fail" formatted="false">会话过期，需要重新登陆…</string>
+    <string name="user_need_auth" formatted="false">避免恶意提交，需要登陆才能发布规则…</string>
+    <string name="backup_user_need_auth" formatted="false">云端备份需要登陆…</string>
+    <string name="user_need_auth_or_active" formatted="false">云端规则需要激活使用…</string>
+    <string name="user_disable_sync_tips" formatted="false">设置为不同步云端规则，刷新本地数据…</string>
+
+
+    <string name="genesis_user" formatted="false">5Yib5LiW6ICF</string>
+    <string name="genesis_user_vip_and_level" formatted="false">%s(%03d)-%s%s%s%d</string>
+    <string name="user_vip_and_level" formatted="false">%s%s%s%d</string>
+    <string name="v" formatted="false">V</string>
+    <string name="i" formatted="false">I</string>
+    <string name="p" formatted="false">P</string>
+
+
+    <string name="user_buy_code_title" formatted="false">获取激活码</string>
+    <string name="user_buy_code_desc" formatted="false">
+        <![CDATA[
+        \u30001.选择浏览器打开<br />
+        \u30002.注册/登陆（大圣净化的登陆帐号）<br />
+        \u30003.点击 App 数目<br />
+        \u30004.验证邮箱（用于找回密码等）<br />
+        \u30005.购买<br />
+        ]]>
+    </string>
+
+
+
+    <string name="app_type_user">我的应用</string>
+    <string name="app_type_system">系统应用</string>
+    <string name="app_cmp_act">应用活动页</string>
+    <string name="app_cmp_srv">后台的服务</string>
+    <string name="app_cmp_rcv">广播接收器</string>
+    <string name="app_cmp_cp">内容提供器</string>
+    <string name="app_cmp_all">已拦截组件</string>
+    <string name="app_cmp_block">拦截组件</string>
+    <string name="item_refresh">刷新</string>
+    <string name="hosts_sources_refresh_tips">添加的 hosts 源才能刷新，大圣的源在列表页刷新</string>
+    <string name="just_copy">复制</string>
+    <string name="hosts_sources_copy">复制源</string>
+    <string name="read_app_pkg">全局页面</string>
+    <string name="read_app_launch">启动页面</string>
+    <string name="read_app_launch_success">读取应用启动页成功</string>
+    <string name="app_launch_not_block">应用启动页不能禁止/Block/拦截~</string>
+    <string name="read_app_launch_fail">没有读取到启动页，可以开启悬浮窗获取…</string>
+    <string name="read_app_home">读首页</string>
+    <string name="read_app_home_success">读取应用首页是猜测的，不一定正确…</string>
+    <string name="read_app_home_fail">没有读取到应用首页，可以开启悬浮窗获取…</string>
+    <string name="wu_kong_hide_view">屏蔽 View 设置：</string>
+    <string name="wu_kong_hide_view_list_title">屏蔽 View 列表</string>
+    <string name="wu_kong_dialog_hook_list_title">取消弹框列表</string>
+    <string name="wu_kong_dialog_hook_title">取消弹框</string>
+    <string name="wu_kong_hide_view_title">屏蔽 View</string>
+    <string name="app_active_code_16" translatable="false">54K55Ye7</string>
+    <string name="wu_kong_hide_view_name">基准 View 名称(前缀即可)</string>
+    <string name="wu_kong_hide_view_id_title">基准 View 对应的 ViewId(可选)</string>
+    <string name="wu_kong_hide_view_txt_title">基准 View 对应的 View 中的文字(可选)</string>
+    <string name="wu_kong_hide_view_parent">上级 View 名称(前缀即可, 可选)</string>
+    <string name="wu_kong_hide_view_parent_level">上级 View 的深度(上几级, 可选)</string>
+    <string name="wu_kong_hide_view_child">下级 View 名称(前缀即可, 可选)</string>
+    <string name="wu_kong_hide_view_child_level">下级 View 的深度(下几级, 可选)</string>
+    <string name="x_hook_hidden_parent_view">屏蔽上级 View</string>
+    <string name="x_hook_hidden_child_view">屏蔽下级 View</string>
+    <string name="x_hook_hidden_child_view_seq">只屏蔽指定子 View(0;1;2;3, 可选)</string>
+    <string name="wu_kong_hide_view_paste">粘贴 View</string>
+    <string name="wu_kong_custom_rule">编辑</string>
+    <string name="wu_kong_hide_view_is_exist">View 已经存在~</string>
+    <string name="wu_kong_hide_view_paste_success">添加屏蔽 View 成功~</string>
+    <string name="wu_kong_custom_hook_title">自定义 hook</string>
+    <string name="wu_kong_custom_hook_cn">类名(class name)</string>
+    <string name="wu_kong_custom_hook_mn">方法名(method name)</string>
+    <string name="wu_kong_custom_hook_fields">修改成员变量值(a=1&amp;b=2)</string>
+    <string name="wu_kong_custom_hook_args">参数列表([\"java.lang.String\",\"xxx\"])</string>
+    <string name="wu_kong_custom_hook_view_name">View 名称(可选, 没有ID时+文字定位)</string>
+    <string name="wu_kong_custom_hook_view_ids">ViewId (viewId1;viewId2)</string>
+    <string name="wu_kong_custom_hook_view_txt">View 包含的文字(可选)</string>
+    <string name="wu_kong_custom_hook_view_ids_invalid">参数列表格式不对: [\"viewId\"] 或者 [\"viewId;viewId\"])</string>
+    <string name="wu_kong_custom_hook_rt_t">返回值类型(boolean/byte/short/int/long/float/double/list)</string>
+    <string name="wu_kong_custom_hook_rt">返回值(true/false/null/primitive type)</string>
+
+    <string name="app_active_code_6" translatable="false">5rS7</string>
+
+    <string name="wu_kong_dialog_hook_disable_show">禁止弹出对话框</string>
+    <string name="wu_kong_dialog_hook_auto_dismiss">自动取消对话框</string>
+    <string name="wu_kong_dialog_hook_auto_click">自动点击对话框</string>
+    <string name="wu_kong_dialog_hook_view_name">对话框的 class 名称(可选)</string>
+    <string name="wu_kong_dialog_hook_view_txt">对话框中包含的文字(可选)</string>
+    <string name="wu_kong_dialog_hook_view_id">对话框中的 ViewId(可选)</string>
+    <string name="wu_kong_dialog_hook_click_view_txt">自动点击文字 (按钮上的文字) </string>
+    <string name="wu_kong_dialog_hook_click_view_id">自动点击 ViewId (按钮的 ViewId) </string>
+    <string name="wu_kong_dialog_hook_skip_delay">延迟取消或点击(毫秒)</string>
+
+
+    <string name="wu_kong_hidden_view_tips"><![CDATA[
+        <strong>补充说明：</strong><br />
+        1.如果 View 名称是唯一的，那这个名称就可以屏蔽;<br />
+        2.如果 View 有 ViewId，那 View + ViewId 就可以屏蔽;<br />
+        3.如果需要屏蔽上级的 View，那填写上级 View + 第几级;<br />
+        4.如果需要屏蔽下级的 View，那填写下级 View + 第几级<br />
+        5.ViewId 支持英文 ; 分隔;<br />
+        ]]></string>
+
+    <string name="wu_kong_dialog_hook_tips"><![CDATA[
+        <strong>补充说明：</strong><br />
+        0.默认: 禁止所有弹框;<br />
+        1.禁止弹框: 对话框不会弹出;<br />
+        2.取消弹框: 对话框弹出，自动取消(更友好);<br />
+        3.通过 ViewId 或文字来确定弹出的对话框;<br />
+        4.按需点击: 通过 ViewId 来点击对话框的按钮<br />
+        ]]></string>
+
+    <string name="acc_services_top_tips">两个辅助服务：\n1. 支持坐标的辅助服务\n2. 不支持坐标的辅助服务\n3. 只需要选择一个服务\n4. 未选择的另一个服务会被禁用看不见\n5. 修改之后重启手机才生效</string>
+    <string name="acc_services_mode_tips">
+        <![CDATA[
+        <strong>补充说明：</strong><br />
+        \u3000\u30001.Android 7.0 及以上才支持点击屏幕坐标<br />
+        \u3000\u30002.有些手机开启点击屏幕坐标，因部分系统兼容性原因引起明显系统UI卡顿掉帧，请选择"无坐标点击"服务<br />
+        ]]>
+    </string>
+
+    <string name="xp_launch_mode_vxp" formatted="false">太极阴/VXP</string>
+    <string name="xp_launch_mode_vxp_root" formatted="false">太极阳</string>
+    <string name="xp_launch_mode" formatted="false">通用 Xposed</string>
+    <string name="vxp_launch_mode_top_tips">
+        <![CDATA[
+        <strong>规则同步到 Xposed: </strong><br />
+        \u30001.通用 Xposed，需授予 root 权限<br />
+        \u30002.太极阳，需授予 root 权限<br />
+        \u30003.太极阴(Virtual Xposed等)，需授予存储空间权限<br />
+        ]]>
+    </string>
+    <string name="vxp_launch_mode_tips">
+        <![CDATA[
+        <strong>补充说明: </strong><br />
+        \u30001.EdXp 与太极不兼容，不要同时安装<br />
+        ]]>
+    </string>
+
+    <string name="vxp_launch_rules_dir" formatted="false">规则存储目录 %s</string>
+    <string name="app_upgrade" formatted="false">新版本 v%s(%sM)</string>
+
+    <string name="app_active_code_7" translatable="false">54q2</string>
+</resources>

@@ -1,0 +1,896 @@
+<resources>
+    <string name="app_name">大圣净化</string>
+    <string name="app_label_name">大圣净化</string>
+    <string name="app_proxy_name">网络代理服务</string>
+    <string name="app_notify_channel_name_old">前台服务(默认)</string>
+    <string name="app_notify_channel_name_new">前台服务</string>
+    <string name="app_ba_jie">八戒</string>
+    <string name="app_ba_jie_cloud">八戒云端</string>
+    <string name="app_proxy_cloud">沙僧云端</string>
+    <string name="app_sha_proxy">沙僧</string>
+    <string name="app_wu_kong">悟空</string>
+    <string name="app_wu_kong_cloud">悟空云端规则</string>
+    <string name="app_wu_kong_replace_cloud">文件替换规则</string>
+    <string name="app_wu_kong_url_cloud">Url 拦截云端</string>
+    <string name="app_ba_jie_and_sha">八戒和沙僧</string>
+    <string name="app_ba_jie_and_wu_kong">八戒、沙僧和悟空</string>
+    <string name="app_refresh_manual">手动</string>
+    <string name="app_refresh_day">每天</string>
+    <string name="app_refresh_week">每周</string>
+    <string name="app_refresh_never">永不</string>
+    <string name="app_community">教程</string>
+    <string name="app_my">我的</string>
+    <string name="app_my_web_site">查看及购买激活码(Web版)</string>
+    <string name="app_desc">大圣净化\n大战广告</string>
+    <string name="app_as_title">#大圣净化服务(无坐标点击)</string>
+    <string name="app_gestures_as_title">#大圣净化服务(支持坐标点击)</string>
+    <string name="app_as_desc">借助无障碍服务，来模拟点击\n此服务不支持点击坐标\n\n提示：\n因部分系统兼容性原因引起系统UI卡顿掉帧，此辅助服务无坐标点击功能</string>
+    <string name="app_gestures_as_desc">借助无障碍服务，来模拟点击\n此服务支持点击坐标\n\n提示：\nAndroid 7.0以上才支持点击屏幕坐标，因部分系统兼容性原因如果引起明显系统UI卡顿掉帧，请选择"无坐标点击"服务</string>
+    <string name="check_permission_title">开启权限</string>
+    <string name="check_permission_tips">八戒需要辅助服务保留在后台，去开启一些必须的权限，以保证后台的稳定运行。\n</string>
+    <string name="background_start_permission_tips">MIUI 限制了后台弹出界面权限，悬浮窗无法返回 App，记得授权「后台弹出界面」权限。</string>
+    <string name="app_grant" formatted="false">"找到[%s]，然后开启无障碍服务"</string>
+    <string name="app_grant_mi_ui" formatted="false">"更多已下载到服务，找到[%s]，然后开启无障碍服务"</string>
+    <string name="app_guide_next" formatted="false">下一页</string>
+    <string name="app_guide_close" formatted="false">开始使用</string>
+
+    <string name="app_foreground_title">前台运行</string>
+    <string name="app_foreground_summary">辅助服务运行(点击消失)</string>
+    <string name="app_foreground_show">辅助服务前台运行</string>
+    <string name="app_permission_summary">开启无障碍服务</string>
+
+    <string name="nav_item_home">首页</string>
+    <string name="nav_item_statistic">统计</string>
+    <string name="nav_item_about">关于</string>
+    <string name="nav_item_setting">设置</string>
+    <string name="nav_item_general_setting">通用设置</string>
+    <string name="nav_item_bbs_search">搜索</string>
+    <string name="nav_item_help">帮助</string>
+    <string name="app_xad_assistant">https://www.coolapk.com/apk/160892</string>
+    <string name="app_rules_import">导入解码</string>
+    <string name="app_rules_export">导出解码</string>
+    <string name="app_hosts_import">导入 hosts 文件</string>
+    <string name="app_hosts_export">导出 hosts 文件</string>
+
+    <string name="app_proxy_title">代理拦截规则</string>
+    <string name="app_hosts_file_invalid">hosts 文件格式不对…</string>
+    <string name="app_proxy_cert_not_install">还没有安装 https 证书</string>
+    <string name="app_proxy_cert_install_user">已安装到用户证书存储区\n可过滤部分应用内的 https 请求</string>
+    <string name="app_proxy_cert_install_user_support">已安装到用户证书存储区\n可过滤众多应用内的 https 请求</string>
+    <string name="app_proxy_cert_install_system">已安装到系统证书存储区\n可过滤众多应用内的 https 请求</string>
+
+    <string name="acc_services_change">辅助服务切换</string>
+    <string name="acc_services_change_desc">切换辅助服务，需要重启手机才生效。\n\n辅助服务设置里面只有「#八戒服务(无坐标点击)」</string>
+    <string name="acc_services_change_desc_gestures">切换辅助服务，需要重启手机才生效。\n\n辅助服务设置里面只有「#八戒服务(支持坐标点击)」</string>
+    <string name="ad_skip_by_coordinates">Android 7.0以上且开启支持坐标辅助服务，才支持点击屏幕坐标</string>
+    <string name="app_obtain_coordinates">点击屏幕，读取点击处的坐标，然后返回自动保存</string>
+    <string name="app_switch_full_display">双击屏幕切换全面屏显示模式</string>
+    <string name="app_display_metrics" formatted="false">手机分辨率: %d x %d</string>
+    <string name="app_click_coordinates" formatted="false">点击的坐标: %d x %d</string>
+    <string name="app_save">保存应用</string>
+    <string name="rule_save">保存规则</string>
+    <string name="rule_save_wu_kong">转为悟空</string>
+    <string name="rule_publish">发布云端</string>
+    <string name="app_publish_hint">规则说明或反馈规则问题…</string>
+    <string name="ad_rules">规则列表</string>
+    <string name="ad_rules_add">添加</string>
+
+    <string name="app_selection">选择应用</string>
+    <string name="app_export">分享规则</string>
+    <string name="app_import_paste">粘贴解码</string>
+    <string name="app_copy">复制解码</string>
+    <string name="app_share_rule_tips">直接全部复制，App 右上角菜单栏「粘贴解码」即可</string>
+    <string name="app_data_clear">清空数据</string>
+    <string name="statistics_data_clear">可以节省点点空间，确定要清空统计数据吗？</string>
+    <string name="check_app_is_input" formatted="false">输入法不支持智能跳过，很容易引起误点击~</string>
+
+    <string name="app_package_name">应用包名：</string>
+    <string name="app_home_name">应用首页</string>
+    <string name="app_version_hook" formatted="false">修改版本</string>
+    <string name="app_param_hook" formatted="false">修改参数</string>
+    <string name="app_version_code" formatted="false">版本号: 当前(%d)</string>
+    <string name="app_version_name" formatted="false">版本名: 当前(%s)</string>
+    <string name="app_param_mf" formatted="false">手机厂商: 当前(%s)</string>
+    <string name="app_param_ml" formatted="false">手机型号: 当前(%s)</string>
+    <string name="app_param_bd" formatted="false">手机品牌: 当前(%s)</string>
+    <string name="app_param_sl" formatted="false">手机序列号: 字母数字/d4b8b4e8</string>
+    <string name="app_param_ss" formatted="false">手机IMEI: *#06#可查/15位数字</string>
+    <string name="app_param_mac" formatted="false">手机Mac: 02:00:00:00:00:00</string>
+    <string name="app_param_lang" formatted="false">应用默认语言</string>
+    <string name="app_param_lang_invalid" formatted="false">设置默认语言只支持: en/zh/zh_hant/zh_HK/zh_TW/zh_MO/zh_SG</string>
+    <string name="app_advert_name">目标页面：(多个用英文";"分隔)</string>
+    <string name="app_go_to_act">要跳转到的页面(默认是首页)</string>
+    <string name="app_replace_to_act">要替换成的页面(默认是首页)</string>
+    <string name="app_skip_dialog_custom">取消弹框自定义(可选)</string>
+    <string name="advert_coordinates">获取坐标</string>
+    <string name="point_x">x轴坐标</string>
+    <string name="point_y">y轴坐标</string>
+    <string name="app_wk_advert_skip_times">点击次数(可选)</string>
+    <string name="app_advert_skip_delay">延迟点击(毫秒)：有些页面延迟才出现跳过</string>
+    <string name="app_advert_press_back_delay">延迟点击(毫秒)：有些页面不加延迟会直接退出应用</string>
+    <string name="app_advert_skip_key">出现「文字/View类型(android.widget.ListView)」不点击坐标</string>
+    <string name="wk_advert_skip_delay">延迟 Finish (毫秒)：可以避免崩溃</string>
+    <string name="app_advert_skip_key_ext">暂无使用</string>
+    <string name="app_red_packet_skip_key">不拆红包的关键字;分隔</string>
+    <string name="app_advert_skip_times">有些需要多次点击</string>
+    <string name="app_rule_local_remark">规则本地备注</string>
+    <string name="app_rule_open">是否开启</string>
+    <string name="app_rule_persist_open">开启持续点击</string>
+    <string name="app_rule_auto_click_open">开启一指禅智能跳过</string>
+    <string name="app_rule_ch_attr_open">(高危)不可修改「需安装 Busybox 模块」</string>
+    <string name="h_bao_open_delay">拆红包延迟(如果小于100ms自动切换1000ms随机延迟)</string>
+    <string name="format_int2str">%d</string>
+    <!-- todo -->
+    <string name="wu_kong_expr_cnt">1</string>
+
+    <string name="format_coordinates" formatted="false">(%d, %d)</string>
+    <string name="statistic_count" formatted="false">%d 次</string>
+    <string name="ba_jie_statistic_all" formatted="false">八戒跳过的总次数:  </string>
+    <string name="sha_proxy_statistic_all" formatted="false">域名拦截的总次数:  </string>
+    <string name="dialog_acc_title">辅助服务运行中</string>
+    <string name="close_acc">是需要关闭辅助服务吗？</string>
+    <string name="import_all_rules">确定导入 %d 条应用解码数据?</string>
+    <string name="rule_refresh_for_replace">覆盖刷新(VIP)</string>
+    <string name="rule_refresh_for_replace_desc" formatted="false">将使用云端规则完全覆盖「%s」的现有规则，确定要覆盖吗？</string>
+    <string name="rule_refresh_for_replace_all_desc" formatted="false">将使用云端规则完全覆盖本地的现有规则(锁定的除外)，确定要覆盖吗？</string>
+
+    <string name="choose_browser">请选择浏览器</string>
+    <string name="search_info">输入应用名/包名搜索</string>
+    <string name="dns_search_info">域名</string>
+    <string name="search_host_whitelist">域名</string>
+    <string name="search_host_info">搜索所有 hosts </string>
+    <string name="search_block_host_info">搜索所有拦截域名 </string>
+    <string name="hosts_search_info">名称搜索，最多 500 条数据</string>
+    <string name="kill_ad_tips">广告已跳过</string>
+
+    <string name="floating_windows_tile">悬浮窗</string>
+
+    <string name="ba_jie_skip_tile">八戒跳过</string>
+    <string name="sha_proxy_tile">沙僧代理</string>
+    <string name="app_pick_picture">选截图</string>
+    <string name="floating_windows_open">开启悬浮窗(自助 解码)</string>
+    <string name="floating_windows_wu_kong_open">开启悬浮窗(显示当前活动页)</string>
+    <string name="floating_windows_proxy_open">开启悬浮窗(显示 url)</string>
+    <string name="floating_accessibility_permission">需要先开启辅助服务</string>
+    <string name="floating_accessibility_permission_tips">授权并开启悬浮窗或者显示在其他应用的上层权限，然后通过点击/快照来生成解码。\n提示: 测试的时候关闭悬浮窗，避免受影响。
+    </string>
+    <string name="storage_permission_permission">没有存储空间权限</string>
+    <string name="floating_window_permission">没有悬浮窗权限或者显示在其他应用的上层的权限</string>
+    <string name="floating_window_is_spy_view" formatted="false">识别View</string>
+    <string name="floating_window_is_spy_url" formatted="false">显示Url</string>
+    <string name="floating_window_is_spy_rule" formatted="false">自解码</string>
+    <string name="floating_window_open_app" formatted="false">返回App</string>
+    <string name="floating_window_close" formatted="false">关闭</string>
+    <string name="floating_window_clear" formatted="false">清除</string>
+    <string name="floating_window_min" formatted="false">缩小</string>
+
+    <string name="about_app">
+        <![CDATA[
+        <strong>寻找组织：</strong><br />
+        <a href="https://t.me/adwars">Telegram(打开404的话 你懂的 -_-#)</a> <br />
+        <a href="https://jq.qq.com/?_wv=1027&k=5Tqg4Ou">QQ群：917526931</a> <br />
+        微信公众号：Android应用链 <br />
+        <br />
+
+        <strong>鸣谢：</strong><br />
+        <a href="https://coolapk.com/">酷安网</a> <br />
+        <a href="https://github.com/hyb1996/NoRootScriptDroid">Auto.js项目</a> <br />
+        <a href="https://coolapk.com/apk/com.oasisfeng.greenify">@oasisfeng</a> <br />
+        <a href="https://github.com/AdAway/AdAway">AdAway</a> <br />
+        <a href="https://github.com/Tornaco/X-APM">X-APM</a> <br />
+        <a href="https://github.com/AdBlocker-Reborn/AdBlocker_Reborn">AdBlocker_Reborn</a> <br />
+        <a href="https://github.com/w568w/fuckView">净眼</a> <br />
+        <a href="https://github.com/android-hacker/VirtualXposed">VirtualXposed</a> <br />
+        <br />
+        <strong>感谢用户：</strong><br />
+        老四看世界
+        <br /><br />
+        <strong>团队：</strong><br />
+        lingyu0，<a href="https://www.zhaoj.in">glzjin</a><br />
+        <br />
+        <strong>第三方库：</strong><br />
+        <a href="https://github.com/captain-miao/UniqueAdapter">UniqueAdapter</a>：The UniqueAdapter With DataBinding
+        <br />
+        <a href="https://github.com/shwenzhang/AndResGuard">AndResGuard</a>：proguard resource for Android</blockquote>
+        <br />
+        <a href="https://github.com/l465659833/Bigbang">Bigbang</a>：The source code of Bigbang App
+        <br />
+        <a href="https://github.com/czy1121/settingscompat">settingscompat</a>：特殊权限(Special Permissions)兼容库
+        <br />
+        <a href="https://github.com/google/gson">gson</a>：convert Java Objects into JSON and back
+        <br />
+        <a href="https://github.com/square/leakcanary">LeakCanary</a>：A memory leak detection
+        ]]>
+    </string>
+    <string name="about_me">E-mail：extStar@88.com</string>
+    <string name="app_version_about" formatted="false">关于 (v%s)</string>
+    <string name="app_recommend_apps" formatted="false">Android 应用友链</string>
+
+    <string name="use_it__now">开始使用</string>
+    <string name="update_now">立即升级</string>
+    <string name="download_apk">APK 下载中(%sM)…</string>
+    <string name="btn_create">创建</string>
+    <string name="btn_xp_mode">去设置</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_active">一键重新激活</string>
+    <string name="btn_close">关闭</string>
+    <string name="btn_replace">覆盖</string>
+    <string name="btn_open_ok">仍然开启</string>
+    <string name="btn_hide">确定隐藏</string>
+    <string name="btn_disable">禁用</string>
+    <string name="btn_known">我知道了</string>
+    <string name="btn_cancel_admin">取消授权</string>
+    <string name="btn_grant">去开启</string>
+    <string name="btn_more">查看更多</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_del">删除</string>
+    <string name="btn_complete">完成</string>
+    <string name="btn_after">稍后</string>
+    <string name="btn_browser">浏览器下载</string>
+    <string name="btn_ignore_ver">忽略本版本</string>
+    <string name="app_is_latest">已经是最新版本了…</string>
+    <string name="apk_download_fail">下载失败，请尝试检查最新版本…</string>
+    <string name="btn_buy">在线购买</string>
+    <string name="feedback">反馈</string>
+    <string name="support_email">mailto:extStar@88.com</string>
+    <string name="support_email_version">mailto:extStar%2BVERSIONNAME@88.com</string>
+    <string name="publish_success">发布成功</string>
+    <string name="success">成功</string>
+    <string name="failure">失败</string>
+    <string name="setting_success">设置成功</string>
+    <string name="setting_failure">设置失败，尝试重新设置</string>
+    <string name="open_x_posed_failure">打开 Xposed Install 失败，需手动去启动模块～</string>
+    <string name="open_vx_failure">打开失败，没有安装太极/VXP？</string>
+    <string name="open_vxp_not_install">操作失败，没有安装太极/VXP？</string>
+    <string name="open_vxp_not_support">Android 11及以上还不支持～</string>
+    <string name="app_rsp_failure">操作失败, 错误码 -> %d</string>
+    <string name="app_rsp_failure_and_code">%s, 错误码 -> %d</string>
+    <string name="app_rsp_common_fail">操作失败</string>
+    <string name="open_app_failure">打开应用失败…</string>
+    <string name="open_app_act_failure">无法找到活动页(Activity)…</string>
+    <string name="app_not_install">应用没有安装?</string>
+
+    <!-- 操作 -->
+    <string name="item_delete">删除</string>
+    <string name="ad_app_exist" formatted="false">%s 已经添加</string>
+    <string name="ad_app_all" formatted="false">全选</string>
+    <string name="ad_app_none" formatted="false">全不选</string>
+    <string name="ad_app_coordinate" formatted="false">不会覆盖坐标</string>
+    <string name="ad_app_selected" formatted="false">选择/总数: (%d/%d)</string>
+    <string name="ad_app_has_added" formatted="false">已经添加过了~</string>
+    <string name="all_data_total" formatted="false">应用名/包名搜索, 共 %d 条</string>
+
+    <string name="app_appearance">外观</string>
+    <string name="pref_summary_title_theme">选择你喜欢的主题</string>
+    <string name="pref_title_theme">主题</string>
+    <string-array name="display_theme">
+        <item>暗色主题</item>
+        <item>亮色主题</item>
+        <item>跟随系统(暗色)</item>
+        <item>纯黑主题</item>
+        <item>跟随系统(纯黑)</item>
+    </string-array>
+
+    <string-array name="display_theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string name="app_rule">规则</string>
+    <string name="pref_summary_title_priority">云端规则</string>
+    <string name="pref_title_priority">设置需要同步的规则</string>
+    <string-array name="display_priority">
+        <item>八戒</item>
+        <item>八戒和沙僧</item>
+        <item>悟空</item>
+        <item>八戒、沙僧和悟空</item>
+    </string-array>
+
+    <string-array name="display_priority_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="pref_summary_title_refresh_rate">云端规则同步频率</string>
+    <string name="pref_title_refresh_rate">设置同步频率</string>
+    <string-array name="display_refresh_rate">
+        <item>手动:列表页下拉刷新</item>
+        <item>每天</item>
+        <item>每周</item>
+        <item>不同步:从云端列表保存</item>
+    </string-array>
+
+    <string-array name="display_refresh_rate_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="app_feature">功能</string>
+    <string name="app_toast_title">提示</string>
+
+    <string name="pref_title_foreground">保持前台运行(不易被系统清理)</string>
+    <string name="pref_summary_foreground">如果开启，在通知栏会显示一条运行状态</string>
+    <string name="pref_title_foreground_type">使用默认的通知栏</string>
+    <string name="pref_summary_foreground_type">在手机顶部状态栏能显示应用通知的小图标</string>
+    <string name="pref_title_recent">显示应用后台(不勾选为隐藏后台)</string>
+    <string name="pref_summary_value">%s 在后台列表中显示</string>
+    <string name="pref_summary_value_not_in" formatted="false">一直按返回键到桌面后，%s 在后台列表中隐藏</string>
+    <string name="pref_title_landscape">横屏是否跳过广告</string>
+    <string name="pref_summary_landscape">避免玩游戏时受影响，PAD 建议开启</string>
+
+    <string name="show_system_app">显示系统应用</string>
+    <string name="show_disable_app">隐藏不启用应用</string>
+    <string name="show_tai_ji_disable_app">太极已开启全局</string>
+    <string name="show_ba_jie_app_help">八戒使用说明</string>
+    <string name="show_wu_kong_app_help">悟空使用说明</string>
+    <string name="show_sha_send_app_help">沙僧使用说明</string>
+    <string name="rules_all_apps_enable">全部启用</string>
+    <string name="rules_all_apps_disable">全部禁用</string>
+    <string name="rules_all_auto_skip">全开智能跳过(一指禅)</string>
+    <string name="rules_all_close_auto_skip">全关智能跳过(一指禅)</string>
+    <string name="import_local_apps">批量添加本地应用</string>
+    <string name="pref_title_system_app">查询系统应用规则</string>
+    <string name="pref_summary_system_app">减少查询，可以提高效率</string>
+    <string name="pref_title_android_icon">系统桌面上显示应用图标</string>
+    <string name="pref_summary_android_icon">显示/隐藏桌面图标</string>
+
+    <string name="pref_title_monitor_app">自动启动辅助服务</string>
+    <string name="pref_summary_monitor_app">每小时检测一次，不会增加耗电</string>
+
+    <string name="pref_title_ad_open">跳过提示</string>
+    <string name="pref_summary_ad_open" >悟空需要等待规则同步到 Xposed 完成</string>
+    <string name="pref_title_toast_type">使用默认 Toast</string>
+    <string name="pref_summary_toast_type" >使用 Android 系统的 Toast 提示</string>
+    <string name="pref_title_kill_ad">跳过提示语</string>
+    <string name="pref_summary_kill_ad">@string/kill_ad_tips</string>
+
+    <string name="app_feature_root">Root 功能</string>
+    <string name="app_we_chat_mp_grow">关注作者公众号 -> Android应用链</string>
+    <string name="app_mp_name">Android应用链</string>
+    <string name="app_mp_name_copy">已复制\nAndroid应用链</string>
+
+    <!-- 解码 -->
+    <string name="generate_rule">解码 ==></string>
+    <string name="as_view_is_success">点击的View解码成功…</string>
+    <string name="auto_parser_rule_is_success">自动解码成功…</string>
+    <string name="save_rule_float_is_success">保存解码在悬浮窗成功…</string>
+    <string name="save_block_view_is_success">保存 View 在悬浮窗成功…</string>
+
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <string name="ad_app_delete">确定要删除吗？</string>
+    <string name="app_del_manual">手动\n删除</string>
+    <string name="app_del_files_title">小心删除</string>
+    <string name="del_files_by_shell">不可恢复的操作，确定要删除该文件或目录吗？\n%s</string>
+    <string name="del_files_success">删除成功…</string>
+    <string name="del_files_fail">删除失败 -> %s</string>
+    <string name="ad_app_rule_lock">锁定应用，禁止更新云端规则吗？\n(也可以选择删除…)</string>
+    <string name="ad_app_rule_unlock">解锁应用，从云端更新规则吗？\n(也可以选择删除…)</string>
+    <string name="android_not_root">好像没有root？</string>
+    <string name="android_is_root">已经root</string>
+    <string name="android_hide_icon">温馨提醒</string>
+    <string name="android_hide_icon_desc">如果隐藏桌面图标，桌面上将无法看见应用，只能从 Xposed 模块管理中打开应用。\n\n如果不理解上面说的是什么，建议不要隐藏。\n\n\n确定、一定、以及肯定要隐藏吗？</string>
+
+    <string name="replace_ch_attr_title">风险提醒</string>
+    <string name="replace_ch_attr_desc">「不可修属性」开启之后，任何人都无法修改文件，甚至使用「RE管理器」也无法删除。\n\n别忘记通过「恢复文件」操作来恢复文件属性。</string>
+    <string name="replace_ch_attr_fail_title">不支持提醒</string>
+    <string name="replace_ch_attr_fail_desc">「不可修属性」依赖扩展指令，可以安装「BusyBox」来支持。</string>
+    <!-- 提示信息 -->
+    <string name="ad_app_info_is_empty">应用数据为空…</string>
+    <string name="app_name_is_empty">应用名称是空的…</string>
+    <string name="package_is_empty">包名是空的…</string>
+    <string name="click_view_id_is_empty">ViewId/View名称+文字/坐标，不能都是空的…</string>
+    <string name="ad_act_is_empty">目标页是空的…</string>
+    <string name="ad_skip_is_empty">文字、ViewId、坐标，不能都是空的…</string>
+    <string name="ad_skip_view_name_is_empty">View 控件名称不能为空的…</string>
+    <string name="ad_view_hide_is_empty">屏蔽 View 不能都是空的…</string>
+    <string name="read_local_apps_is_empty">读取本地应用列表为空…</string>
+    <string name="clipboard_is_empty">剪贴板数据空的…</string>
+    <string name="import_success">导入解码成功…</string>
+    <string name="copy_success">复制成功…</string>
+    <string name="copy_fail">复制失败 -> %s</string>
+    <string name="copy_rule_success">复制解码成功…</string>
+    <string name="copy_view_id_success">复制 ViewId 成功…</string>
+    <string name="copy_view_name_success">复制 View 名称成功…</string>
+    <string name="copy_content_msg" formatted="false">已复制\n%s</string>
+    <string name="copy_rule_fail">复制解码失败…</string>
+    <string name="paste_success">粘贴解码成功…</string>
+    <string name="paste_rules_is_empty">规则内容为空…</string>
+    <string name="paste_fail">粘贴解码失败…</string>
+    <string name="load_install_app_fail">读取本地应用失败或数据为空…</string>
+    <string name="load_install_app_empty">未添加的应用为空(不包括已添加的应用)…</string>
+    <string name="load_gallery_fail">读取相册图片失败…</string>
+    <string name="generate_rules_fail">生成解码文件失败…</string>
+    <string name="ad_import_is_empty">请选择要导入的数据…</string>
+    <string name="app_import_is_empty">请选择要添加的应用…</string>
+
+    <string name="recommend_app_info" formatted="false">%s %sMB</string>
+    <string name="task_action_info" formatted="false">文字: %s, ViewId: %s</string>
+    <string name="task_action_point_info" formatted="false">坐标: (%d %d)</string>
+
+    <string name="app_active_code_4" translatable="false">5Yiw</string>
+    <string name="notification_reconnecting">重新连接中</string>
+    <string name="notification_running">正在运行</string>
+    <string name="notification_starting">正在启动</string>
+    <string name="notification_stopped">已停止</string>
+    <string name="notification_stopping">正在停止</string>
+    <string name="notification_waiting_for_net">等待网络</string>
+    <string name="notification_reconnecting_error">重新连接错误</string>
+
+    <string name="ba_jie_use_guide"><![CDATA[
+        <strong>特点:</strong><br />
+        借助无障碍辅助服务，模拟人手点击屏幕，实现跳过广告，及执行多种点击行为的功能。<br />
+        <strong>说明:</strong><br />
+        无障碍服务权限比较特殊，要手动开启，软件需常驻内存，否则很大可能会被自动关闭。<br />
+        因此需要使用八戒功能的，手机必须勾选启动运行，常驻后台，而且避免被清理，软件在后台被杀掉进程。<br />
+        确保『大圣净化』的八戒在后台运行，不被清理及杀掉进程。<br />
+        <font color="red"> 如果开启无障碍辅助服务之后，没有生效，那么这时候需要重启手机 -_-# </font><br />
+        为了『八戒』功能正常，建议做如下操作：<br />
+        <strong>『第三方应用白名单』</strong><br />
+        \u3000\u30001.不要被「黑阈/小黑屋」之类的禁止<br />
+        \u3000\u30002.不要被「清理大师」之类的清理<br />
+        \u3000\u30003.不要被「阻止运行」之类的禁止<br />
+        <strong>『设备管理器』</strong><br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.打开「安全」<br />
+        \u3000\u30003.打开「设备管理器」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态<br />
+        <strong>『如何卸载 - 设备管理器』</strong><br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.打开「安全」<br />
+        \u3000\u30003.打开「设备管理器」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「关闭」状态<br />
+        \u3000\u30005.撤销设备管理器权限，然后才能卸载<br />
+        ]]>
+    </string>
+
+    <string name="wu_kong_use_guide"><![CDATA[
+    <strong>特点:</strong><br />
+    通过系统 root 和 Xposed 框架，在不改变原生安装包的前提，用多种拦截手段消灭启动广告及应用内广告<br />
+    <strong>说明:</strong><br />
+    获取 root 权限，安装 Xposed 框架(方法此处省略一万字)<br />
+    <strong>多种姿势：</strong><br />
+    \u3000\u30001.关闭目标页面<br />
+    \u3000\u30002.隐藏目标页面<br />
+    \u3000\u30003.跳转到首页<br />
+    \u3000\u30004.自定义 Hook<br />
+    \u3000\u30005.禁止广告弹框<br />
+    \u3000\u30006.广告 Url 拦截<br />
+    \u3000\u30007.广告文件替换(只需root)<br />
+    \u3000\u30008.系统 hosts 文件替换(只需root)<br />
+
+    <font color="#f11b12">
+    如果无法激活，尝试不启用模块、软重启、再启用模块；<br />
+    如果还无法激活，尝试重启手机；<br />
+    如果仍然无法激活，那么可能 Xposed 不兼容。</font>
+    <br />
+    <br />
+    ]]>
+    </string>
+    <string name="app_use_bbs"><![CDATA[
+    <strong>我们的社区：</strong><br />
+    感谢使用及对大圣净化的支持，更多的帮助及教程请移步到社区。
+    <br />
+    <br />
+    ]]>
+    </string>
+    <string name="chat_use_guide"><![CDATA[
+    <strong>我们的组织：</strong><br />
+    <a href="https://t.me/adwars">Telegram(打开404的话 你懂的 -_-#)</a> <br />
+    <a href="https://jq.qq.com/?_wv=1027&k=5Tqg4Ou">QQ群：917526931</a> <br />
+    <br />
+    <br />
+    ]]>
+    </string>
+
+    <string name="use_guide"><![CDATA[
+        『八戒』是借助无障碍辅助服务来模拟点击，需要保持辅助服务的开启和保持后台运行。<br />
+        <strong>选择开启一个辅助服务: </strong><br />
+        \u3000\u30001.八戒助手服务(支持坐标点击), Android 7.0及以上 开启(如果引起系统卡顿选择第二个服务)<br />
+        \u3000\u30002.八戒助手服务(无坐标点击), 如果系统明显变卡顿，使用这个服务<br />
+        无障碍辅助服务权限比较特殊，只能用户手动开启。<br />
+        <font color="red"> 如果开启无障碍辅助服务之后，没有生效，那么这时候需要重启手机 -_-# </font>
+        <br /><br />
+        『八戒』的使用视频教程，@陈亦是新 <a href="https://m.bilibili.com/video/av15501775.html">是时候解决App启动广告了</a>
+        <br /><br />
+        <strong>解码数据：</strong><br />
+        <a href="http://www.coolapk.com/apk/160892">唐僧藏经 - 共享解码数据</a>
+        <br /><br />
+        <strong>寻找组织：</strong><br />
+        <a href="https://t.me/adwars">Telegram(打开404的话 你懂的 -_-#)</a> <br />
+        <a href="https://jq.qq.com/?_wv=1027&k=5Tqg4Ou">QQ群：917526931</a> <br />
+        微信公众号：Android应用链 <br />
+        <br />
+
+        为了『八戒』功能正常，建议做如下操作：<br />
+        <strong>『第三方应用白名单』</strong><br />
+        \u3000\u30001.不要被「黑阈黑域」之类的清理<br />
+        \u3000\u30002.不要被「清理大师」之类的清理<br />
+        \u3000\u30003.不要被「阻止运行」之类的清理<br />
+        <strong>『设备管理器』</strong><br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.打开「安全」<br />
+        \u3000\u30003.打开「设备管理器」<br />
+        \u3000\u30004.找到「八戒助手」，设置为「开启」状态<br />
+        <strong>『如何卸载 - 设备管理器』</strong><br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.打开「安全」<br />
+        \u3000\u30003.打开「设备管理器」<br />
+        \u3000\u30004.找到「八戒助手」，设置为「关闭」状态<br />
+        \u3000\u30005.撤销设备管理器权限，然后才能卸载<br />
+        ]]>
+    </string>
+
+    <string name="app_active_code_2" translatable="false">5qOA</string>
+    <string name="use_guide_4_single"><![CDATA[
+        适用于「太极」的版本，实现了在非 root 环境下运行 Xposed 模块。<br />
+        <a href="https://github.com/taichi-framework/taichi-framework.github.io/blob/master/README_CN.md">「太极」是什么？</a> <br />
+        <br />
+        <strong>使用方法：</strong><br />
+        \u3000\u30001.下载安装太极最新版本 <a href="https://taichi.cool/download/download_cn.html">[浏览器打开]</a><br />
+        \u3000\u30002.太极中安装「大圣净化」<br />
+        \u3000\u30003.太极中激活「大圣净化」模块<br />
+        \u3000\u30004.太极内部重启<br />
+        \u3000\u30005.太极中安装要去广告的应用<br />
+        \u3000\u30006.大圣净化中同步规则<br />
+        \u3000\u30007.八戒也可以使用，需要安装在「太极」外面，但可以作用于「太极」里面的应用<br />
+        <br />
+        <strong>大圣净化 for 太极：</strong><br />
+        \u3000\u30001.最新版本 <a href="https://files.extstars.com/adwars4vxp">[浏览器打开]</a><br />
+        \u3000\u30002.「太极」还没有辅助服务，所以没有八戒的功能<br />
+        \u3000\u30003.和「大圣净化」使用相同的激活码 <br />
+        <br />
+        <br />
+        <font color="red">注意：默认所有的工作（安装 Xposed 模块，安装APP）必须在太极中进行，否则 Xposed 模块不会有任何作用！不过也可以开启全局模式，更多去参考太极的帮助。</font><br />
+        <br />
+        <br />
+        <strong>我们的社区：</strong><br />
+        感谢使用及对大圣净化的支持，更多的帮助及教程请移步到社区。
+        <br />
+        <br />
+        <strong>我们的组织：</strong><br />
+        <a href="https://t.me/adwars">Telegram(打开404的话 你懂的 -_-#)</a> <br />
+        <a href="https://jq.qq.com/?_wv=1027&k=5Tqg4Ou">QQ群：917526931</a> <br />
+        <br />
+        <br />
+        ]]>
+    </string>
+    <string name="mi_ui_rom">
+        <![CDATA[<strong>MIUI：</strong><br />
+        『电量优化白名单』<br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.选择「电量和性能」<br />
+        \u3000\u30003.选择「神隐模式」<br />
+        \u3000\u30004.选择「应用配置」<br />
+        \u3000\u30005.找到「大圣净化」，设置为「无限制」<br />
+        『后台锁定』<br />
+        \u3000\u30001.按菜单键下拉应用，加锁，这样不会被一键清理。 <br />
+        『自启动』<br />
+        \u3000\u30001.打开「安全中心」<br />
+        \u3000\u30002.选择「授权管理」<br />
+        \u3000\u30003.选择「自启动管理」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态 <br />
+        『显示在其他应用上层』<br />
+        \u3000\u30001.打开「MIUI 设置」<br />
+        \u3000\u30002.选择「更多设置」<br />
+        \u3000\u30003.选择「系统安全」<br />
+        \u3000\u30004.选择「特殊应用权限」<br />
+        \u3000\u30005.找到「大圣净化」，设置为「开启」状态 <br />
+        ]]>
+    </string>
+    <string name="smartisan_rom">
+        <![CDATA[<strong>Smartisan：</strong><br />
+        『后台常驻 - 如果有』<br />
+        \u3000\u30001.打开「安全中心」<br />
+        \u3000\u30002.打开「内存清理」<br />
+        \u3000\u30003.找到「大圣净化」，选择「后台常驻」<br />
+        『锁定后台』<br />
+        \u3000\u30001.单击 Home 键<br />
+        \u3000\u30002.找到「大圣净化」<br />
+        \u3000\u30003.长按「大圣净化」直至底部的 X 变为"钉子"符号<br />
+        『自启动』<br />
+        \u3000\u30001.打开「安全中心」<br />
+        \u3000\u30002.打开「权限管理」<br />
+        \u3000\u30003.找到「自启动权限管理」<br />
+        \u3000\u30004.找到「大圣净化」，开启「允许被系统启动」和「允许被第三方应用启动」<br />
+        ]]>
+    </string>
+    <string name="emui_rom">
+        <![CDATA[<strong>EMUI：</strong><br />
+        『自启动』<br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.选择「权限管理」<br />
+        \u3000\u30003.选择「自启动管理」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态 <br />
+        『受保护应用』<br />
+        \u3000\u30001.打开「设置」- 选择「高级设置」<br />
+        \u3000\u30002.选择「电池管理」<br />
+        \u3000\u30003.选择「受保护应用」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态<br />
+        ]]>
+    </string>
+    <string name="flyme_rom">
+        <![CDATA[<strong>Flyme：</strong><br />
+        『自启动』<br />
+        \u3000\u30001.打开「手机管家」<br />
+        \u3000\u30002.选择「权限管理」<br />
+        \u3000\u30003.选择「自启动管理」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态<br />
+        『加速白名单』<br />
+        \u3000\u30001.打开「手机管家」<br />
+        \u3000\u30002.选择「手机加速」<br />
+        \u3000\u30003.选择右上角「设置」图标 <br />
+        \u3000\u30004.选择「手机加速白名单」<br />
+        \u3000\u30005.添加「大圣净化」<br />
+        『省电自启动』<br />
+        \u3000\u30001.打开「手机管家」<br />
+        \u3000\u30002.选择「省电模式」<br />
+        \u3000\u30003.选择「待机耗电应用」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态<br />
+        ]]>
+    </string>
+    <string name="oppo_rom">
+        <![CDATA[<strong>OPPO：</strong><br />
+        『锁定后台』<br />
+        \u3000\u30001.点按菜单键，显示最近应用<br />
+        \u3000\u30002.下拉应用<br />
+        \u3000\u30003.出现一个锁(说明锁定了)<br />
+        『应用休眠白名单』<br />
+        \u3000\u30001.打开「设置」<br />
+        \u3000\u30002.选择「电池」<br />
+        \u3000\u30003.选择「耗电保护」<br />
+        \u3000\u30004.找到要设置「应用」<br />
+        \u3000\u30005.后台冻结，设置为「关闭」<br />
+        \u3000\u30006.检测到异常时自动优化，设置为「关闭」<br />
+        \u3000\u30007.深度睡眠，设置为「关闭」<br />
+        『自启动』<br />
+        \u3000\u30001.打开「手机管家/安全中心」<br />
+        \u3000\u30002.选择「权限隐私」<br />
+        \u3000\u30003.找到「大圣净化」，设置为「开启」状态<br />
+        ]]>
+    </string>
+    <string name="vivo_rom">
+        <![CDATA[<strong>vivo：</strong><br />
+        『加速白名单』<br />
+        \u3000\u30001.打开「i管家」，点击「手机清理」<br />
+        \u3000\u30002.选择右上角「设置」按钮 <br />
+        \u3000\u30003.选择「加速白名单」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态 <br />
+        『自启动』<br />
+        \u3000\u30001.打开「i管家」<br />
+        \u3000\u30002.选择「软件管理」<br />
+        \u3000\u30003.选择「自启动管理」<br />
+        \u3000\u30004.找到「大圣净化」，设置为「开启」状态 <br />
+        『省电白名单』<br />
+        \u3000\u30001.打开「i管家」<br />
+        \u3000\u30002.选择「省电管理」<br />
+        \u3000\u30003.找到「大圣净化」，设置为「开启」状态 <br />
+        ]]>
+    </string>
+    <string name="other_rom">
+        <![CDATA[<strong>一些ROM：</strong><br />
+        『后台白名单』<br />
+        \u3000\u30001.在手机的安全软件中找到「内存加速白名单」<br />
+        \u3000\u30002.添加「大圣净化」到白名单<br />
+        『电池优化白名单』<br />
+        \u3000\u30001.在手机找到电池和性能<br />
+        \u3000\u30002.添加「大圣净化」到不优化列表<br />
+        『自动运行』<br />
+        \u3000\u30001.打开「设置<br />
+        \u3000\u30002.找到「授权管理」「自启动管理」<br />
+        \u3000\u30003.找到后台自启动管理」<br />\u3000\u30004.开启「大圣净化」<br />
+        ]]>
+    </string>
+
+    <bool name="isEn">false</bool>
+
+
+    <!--  App Shortcuts -->
+    <string name="shortcut_short_acc_disabled_message">禁用了</string>
+    <string name="shortcut_short_acc_short_label">开启辅助服务</string>
+    <string name="shortcut_short_acc_long_label">开启辅助服务</string>
+    <string name="shortcut_short_acc_is_open">辅助服务运行中…</string>
+
+    <string name="shortcut_short_proxy_disabled_message">禁用了</string>
+    <string name="shortcut_short_proxy_short_label">开启代理服务</string>
+    <string name="shortcut_short_proxy_long_label">开启代理服务</string>
+    <string name="shortcut_short_proxy_is_open">代理服务运行中…</string>
+
+    <string name="shortcut_refresh_disabled_message">禁用了</string>
+    <string name="shortcut_sync_rules_short_label">同步到 Xposed</string>
+    <string name="shortcut_sync_rules_long_label">同步到 Xposed</string>
+
+    <string name="email_can_not_null">邮箱不能为空</string>
+    <string name="email_is_not_right">邮箱格式不合法</string>
+    <string name="psw_can_not_null">密码不能为空</string>
+    <string name="nick_can_not_null">昵称不能为空</string>
+    <string name="nick_and_psw_is_the_same">祝你好运, 昵称和密码相同…</string>
+    <string name="used_psw_can_not_null">原密码不能为空</string>
+    <string name="new_psw_can_not_null">新密码不能为空</string>
+    <string name="psw_length_is_not_right">密码长度需6位及以上</string>
+    <string name="used_new_psw_can_not_same">原密码与新密码不能相同</string>
+    <string name="nickname_change_success">昵称修改成功</string>
+    <string name="please_input_email">请填写邮箱</string>
+    <string name="please_input_psw">请填写密码</string>
+    <string name="login">登录</string>
+    <string name="forget_psw_with_question_mark">忘记密码？</string>
+    <string name="psw_find">找回密码</string>
+    <string name="psw_change">修改密码</string>
+    <string name="active_devices">激活设备</string>
+    <string name="acc_tab_sequence_config">自定义底部 Tab</string>
+    <string name="acc_services_config">辅助服务模式</string>
+    <string name="acc_services_config_open">选择开启的辅助服务</string>
+    <string name="acc_services_config_close">禁用辅助服务</string>
+    <string name="acc_services_close_with_gestures">禁用坐标辅助服务</string>
+    <string name="acc_services_close_without_gestures">禁用无坐标辅助服务</string>
+    <string name="register">注册</string>
+    <string name="please_input_register_email">请填写注册时邮箱</string>
+    <string name="please_input_used_psw">请填写原密码</string>
+    <string name="please_input_new_psw">请填写新密码</string>
+    <string name="sure">确定</string>
+    <string name="please_to_mailbox">我们已经向您的邮箱发送了验证码，请前往邮箱进行验证</string>
+    <string name="edit_psw">修改密码</string>
+    <string name="user_info">个人信息</string>
+    <string name="logout">退出登录</string>
+    <string name="save">保存</string>
+    <string name="all_save">全部保存</string>
+    <string name="user_anonymous">匿名发布</string>
+    <string name="user_rule_encrypt">(自己可见)规则加密</string>
+    <string name="by_user_nick">\n制作: %s</string>
+    <string name="replace_portrait">更换头像</string>
+    <string name="nickname_with_colon">昵称：</string>
+    <string name="please_input_nickname">请输入昵称</string>
+    <string name="gender_with_colon">性别：</string>
+    <string name="gender_man">男</string>
+    <string name="gender_woman">女</string>
+    <string name="portrait">头像</string>
+    <string name="nickname">昵称</string>
+    <string name="gender">性别</string>
+    <string name="is_not_login">未登录(点击登录)</string>
+    <string name="please_input_activation_code">请输入激活码</string>
+
+    <string name="h_bao_rule_tips">本地没有规则，请下拉刷新…</string>
+    <string name="content_is_empty">空空如也…</string>
+    <string name="app_rules_backup" formatted="false">规则数据备份(云端)</string>
+    <string name="app_data_backup" formatted="false">规则数据备份</string>
+    <string name="app_rules_backup_time" formatted="false">规则云端备份 %s</string>
+
+    <string name="rules_local_record_title" formatted="false">本地记录: </string>
+    <string name="rules_local_record_0" formatted="false">%d条规则</string>
+    <string name="btn_rules_backup" formatted="false">备份</string>
+    <string name="rules_backup_record_title" formatted="false">备份记录: </string>
+    <string name="rules_backup_record_0" formatted="false">云端备份时间: %s</string>
+    <string name="btn_rules_disable" formatted="false">禁用</string>
+    <string name="btn_rules_recovery" formatted="false">恢复</string>
+    <string name="active_device_label" formatted="false">激活设备记录</string>
+    <string name="active_device_label_inactive" formatted="false">激活设备记录(反激活)</string>
+    <string name="btn_rules_recovery_desc" formatted="false"><![CDATA[有问题请点击恢复 —>]]></string>
+
+
+    <string name="check_permission_known" formatted="false">可判断授权权限</string>
+    <string name="check_permission_unknown" formatted="false">不可判断授权权限, 自行核对:-)</string>
+    <string name="check_permission_accessibility" formatted="false">无障碍辅助服务状态</string>
+    <string name="check_permission_accessibility_desc" formatted="false">该权限比较特殊，只能用户手动开启</string>
+    <string name="check_permission_ignore_battery_optimization" formatted="false">不进行电池优化</string>
+    <string name="check_permission_ignore_battery_optimization_desc" formatted="false">避免被系统杀掉, 有助于辅助服务保留在后台</string>
+    <string name="check_permission_device_admin" formatted="false">设备管理应用</string>
+    <string name="check_permission_device_admin_desc" formatted="false">极大提高服务保持后台的稳定性</string>
+    <string name="check_permission_device_admin_content" formatted="false">
+        <![CDATA[
+        \u30001.设置搜索(设备管理)<br />
+        \u30002.点击设备管理应用<br />
+        \u30003.在应用列表中，开启大圣净化<br />
+        \u30004.正常直接跳转过去，否则按上述操作<br />
+        \u30005.卸载时需要取消设备管理<br />
+        ]]>
+    </string>
+
+    <string name="acc_services_config_close_content" formatted="false">
+        <![CDATA[
+        只需要一个辅助服务，禁用另一个不使用的服务:<br />
+        \u30001.不会被系统启动<br />
+        \u30002.不会显示在辅助服务列表(重启生效)<br />
+        \u30003.避免两个服务同时开启<br />
+        \u30004.如果需要恢复，禁用另一个即可<br />
+        ]]>
+    </string>
+
+    <string name="check_permission_float_windows" formatted="false">悬浮窗权限</string>
+    <string name="check_permission_float_windows_desc" formatted="false">悬浮窗用于：解码，显示活动页、URL 等</string>
+
+    <string name="check_permission_background_start" formatted="false">后台弹出界面权限</string>
+    <string name="check_permission_background_start_desc" formatted="false">MIUI 特有，用于悬浮窗打开和返回应用</string>
+
+    <string name="check_permission_background_lock" formatted="false">后台锁定</string>
+    <string name="check_permission_background_lock_desc" formatted="false">避免被系统清理, 让辅助服务保留在后台</string>
+    <string name="check_permission_background_lock_content" formatted="false">
+        <![CDATA[
+        \u30001.切换最近任务界面(点按菜单键)<br />
+        \u30002.下拉应用 或 长按应用<br />
+        \u30003.点击锁来锁定<br />
+        \u30004.如果显示出一个锁(说明锁定了)<br />
+        ]]>
+    </string>
+    <string name="check_permission_auto_start" formatted="false">自启动权限</string>
+    <string name="check_permission_auto_start_desc" formatted="false">允许被系统启动, 有助于辅助服务保留在后台</string>
+    <string name="check_permission_use_battery" formatted="false">不进行电量优化</string>
+    <string name="check_permission_use_battery_desc" formatted="false">避免被系统杀掉, 有助于辅助服务保留在后台</string>
+
+
+    <string name="share">分享</string>
+    <string name="floating_window_open_with_browser" formatted="false">在浏览器打开</string>
+    <string name="share_app">分享应用给好友</string>
+    <string name="share_app_title">跳过广告神器 For Android</string>
+    <string name="share_app_content">「大圣净化」多种方式去广告、云端规则自动同步，和烦人的广告说再见，下载: https://www.lanzous.com/adWars </string>
+    <string name="app_permission_check">检查权限</string>
+    <string name="app_vxp_launch_mode">运行模式</string>
+    <string name="app_permission_check_desc">开启相关权限，保持辅助服务稳定运行</string>
+    <string name="app_vxp_launch_mode_title">Xposed 模式</string>
+    <string name="app_active_code_1" translatable="false">5pyq</string>
+
+    <string name="app_active_code">%s%s%s%s%s%s%s%s，%s%s%s%s%s%s%s%s</string>
+
+
+    <string name="text_already_copy_to_clip" formatted="false">复制 %s 成功</string>
+    <string name="text_attribute">属性</string>
+    <string name="text_value">值</string>
+
+    <string name="h_bao_we_chat_remark">说明:\n1. 自动拆红包有封号的风险，酌情使用\n2. 拆红包随机 1 秒延迟拆\n3. 支持消息通知和聊天页面的红包</string>
+    <string name="h_bao_we_chat_remark_4_gestures">说明:\n0. 依赖坐标点击\n1. 自动拆红包有封号的风险，酌情使用\n2. 拆红包随机 1 秒延迟拆\n3. 支持消息通知和聊天页面的红包</string>
+
+    <string name="ba_jie_guide">八戒</string>
+    <string name="ba_jie_new_guide">
+        <![CDATA[ <strong>原理: </strong>无需 root，借助"无障碍服务"接口，来模拟人手点击屏幕。
+        ]]>
+    </string>
+    <string name="ba_jie_use_guide_desc">
+        <![CDATA[ <strong>实现: </strong>点击开屏的"跳过"，完成签到任务，拆红包等需要人手点击的行为。
+        ]]>
+    </string>
+
+    <string name="sa_seng_guide">沙僧</string>
+    <string name="sa_seng_use_guide">
+        <![CDATA[ <strong>原理: </strong>无需 root，通过在本手机自建一个虚拟专用网络，拦截广告的网络请求。
+        ]]>
+    </string>
+    <string name="sa_seng_use_guide_desc">
+        <![CDATA[ <strong>实现: </strong>过滤应用内广告，及烦人的视频广告。
+        ]]>
+    </string>
+
+    <string name="wu_kong_guide">悟空</string>
+    <string name="wu_kong_new_guide">
+        <![CDATA[ <strong>原理: </strong>Xposed 模块，屏蔽及阻止应用的广告活动行为。
+        ]]>
+    </string>
+    <string name="wu_kong_use_guide_desc">
+        <![CDATA[ <strong>实现: </strong>无需后台运行，且拦截效更好，安装框架相对复杂一些。
+        ]]>
+    </string>
+
+    <string name="app_clear_notification">Android 8.0 及以上的系统，如果开启悬浮窗(允许显示在其他应用之上)，通知栏一直会提示："正在其他应用的上层显示内容"，可以通过关闭该通知的方式屏蔽。
+    \n关闭步骤：
+    \n1. 展开通知栏
+    \n2. 左滑该通知，会出现设置图标
+    \n3. 点击设置，点击「所有类别」
+    \n4. 针对该通知，关闭
+    \n5. 可以尝试直接去关闭，手机 ROM 不同，不一定跳转正确
+    \n\n然后整个世界都清静了～</string>
+
+    <string name="floating_notification_title">关闭悬浮窗提示</string>
+    <string name="app_notification_setting">直接去关闭</string>
+    <string name="app_notification_close">关闭悬浮窗的通知栏提示</string>
+    <string name="app_notification_close_desc">关闭"正在其他应用的上层显示内容"</string>
+
+    <string name="app_active_code_3" translatable="false">5rWL</string>
+</resources>

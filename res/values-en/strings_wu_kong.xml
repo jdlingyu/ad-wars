@@ -1,0 +1,136 @@
+<resources>
+    <string name="x_posed_desc">Get rid of ads</string>
+    <string name="x_posed_activate">Xposed module is active</string>
+
+    <string name="x_posed_enable_title">Module isn't active</string>
+    <string name="x_posed_enable_desc">1. Go to Xposed Manager and enable the module\n 2 If you updated the app, toggle the checkbox twice\n 3. Reboot your phone</string>
+    <string name="x_posed_is_enable">Xposed is active</string>
+
+    <string name="we_chat_h_bao_enable_title">Lucky money acceptance isn't supported</string>
+    <string name="we_chat_h_bao_enable_desc">Android7+ relies on coordinate tapping, your device hasn't enabled accessibility service with coordinate tapping support (but you can enable it). Do you want to enable it anyway?</string>
+    <string name="forest_energy_enable_desc">Android7+ (with coordinate tapping support) is required. Your device doesn't support coordinate tapping at the moment.</string>
+
+    <string name="app_active_code_8" translatable="false">5oCB</string>
+    <string name="item_menu_paste_smali" >Paste smali code blocks</string>
+    <string name="nav_item_sync_diff" >Rule incremental sync to Xposed</string>
+    <string name="nav_item_sync_all" >Rule full sync to Xposed</string>
+    <string name="nav_item_files" >Sync rule to Xposed</string>
+    <string name="nav_item_replace">Batch replace ad files</string>
+    <string name="nav_item_recovery">Batch undo ad files</string>
+    <string name="nav_item_sync_ba_jia" >Update Bajie cloud rules</string>
+    <string name="nav_item_sync_wu_kong">Update Wukong cloud rules</string>
+    <string name="nav_item_acc_restart" >Restart accessibility service</string>
+    <string name="app_replace">Save and replace</string>
+    <string name="app_save_rules_success">Saved</string>
+    <string name="app_sync_rules_success">Synced</string>
+    <string name="app_refresh_rules_success">Refreshed</string>
+    <string name="app_refresh_rules_success_count">Updated %d lines of rules~</string>
+    <string name="app_sync_rules_xp_fail">Sync failed, root privilege must be granted~</string>
+    <string name="app_sync_rules_vxp_fail">Sync failed, storage permission must be granted~</string>
+    <string name="app_sync_rules_fail">Sync failed, check if root privilege is granted~</string>
+    <string name="app_replace_rules_success">Replaced</string>
+    <string name="app_replace_rules_fail">Replace failed, manually delete files and replace again~</string>
+    <string name="app_replace_dir_rules_fail">Replace failed, grant storage permission and replace again~</string>
+    <string name="app_recovery_rules_success">Undone</string>
+    <string name="app_recovery_act_success">Undo successful, rules are removed~</string>
+    <string name="app_disable_act_success">Disabled~</string>
+    <string name="app_recovery_rules_fail">Undo failed, if this persists, undo each app manually~</string>
+    <string name="app_action_rules_success">Success</string>
+    <string name="app_action_rules_fail">Failed. If this persists, please email me~</string>
+    <string name="app_replace_rules_tips">Replace is disabled, you may enable it in Replace Rules page…</string>
+    <string name="app_replace_file_tips">File replace instructions</string>
+    <string name="app_replace_disable_tips"><![CDATA[
+        1.Files are modified, unknown issues may occur (keep a fresh backup);<br />
+        2.Files can be locked from editing;<br />
+        3.After executing top right menu -> replace, it'll come into effect;<br />
+        4.Use with care, no guarantee it always works;<br />
+        5.If replace failed, you may delete the file manually, and try again;<br />
+        ]]></string>
+    <string name="app_ba_jie_dir_tips"><![CDATA[
+        1.Files are modified, unknown issues may occur;<br />
+        2.Only directories can be replaced;<br />
+        3.Batch execution is supported via top right menu;<br />
+        4.If files are recovered by apps, you may enable auto detection;<br />
+        ]]></string>
+    <string name="app_replace_rules_enable">Enable</string>
+    <string name="app_replace_rules_disable">Disable</string>
+    <string name="app_replace_rules_clear">Clear rules</string>
+    <string name="app_replace_rules_clear_desc">If you have undone files, it's advisable to clear rules.</string>
+    <string name="app_replace_rules_enable_tips">Are you sure you want to enable and replace ad files?</string>
+    <string name="app_replace_rules_disable_tips">Are you sure you want to disable and undo ad files?</string>
+    <string name="app_replace_rules_delete">Batch delete</string>
+    <string name="app_replace_rules_replace">Batch replace</string>
+    <string name="app_replace_rules_recovery">Undo</string>
+    <string name="app_rules_clear_warning">Are you sure you want to clear the rules?</string>
+    <string name="app_rules_clear_hosts_warning">Are you sure you want to clear local hosts? It'll not affect system hosts</string>
+
+    <string name="import_ad_rules">Add %d lines of rules?</string>
+    <string name="app_dir_pick">Choose directory</string>
+    <string name="app_dir_hint">Files/directories to be replaced</string>
+    <string name="app_urls_hint">Url/keywords (a line of each)</string>
+
+    <string name="app_active_code_11" translatable="false">5L2/</string>
+
+    <string name="app_dir_to_file">Replace directories with files</string>
+    <string name="app_file_to_dir">Replace files with directories</string>
+    <string name="app_chmod_to_dir">Set permission to 000</string>
+    <string name="app_dir_to_file2">Replace directories with files (only for empty directories at:1)</string>
+    <string name="app_file_to_dir2">Replace files with directories (at:2)</string>
+    <string name="app_chmod_to_dir2">Set permission to 000(at:3)</string>
+    <string name="rule_block_with_url">Full Url blocking</string>
+    <string name="rule_block_with_key">Url keyword blocking</string>
+    <string name="rule_block_with_host">host domain blocking</string>
+    <string name="rule_block_with_host_dns">dns domain blocking</string>
+
+    <string name="ad_app_zhi_hu">Zhihu doesn't support Xposed by default, you may create an empty file (/sdcard/zhihu/.allowXposed) to allow it, storage permission is required, do you want to create it?</string>
+    <string name="read_device_id_tips">Grant storage permission, save device ID to file, so you don't have to be licensed again once you uninstall Ad wars.</string>
+    <string name="read_miui_ad_tips">Grant storage permission, set ad directories as files (internal storage /miad directories).</string>
+    <!-- Info -->
+    <string name="ad_home_act_is_empty">Jump or replace need an app main activity, it's currently unset…</string>
+    <string name="ad_action_custom_is_empty">Custom hook is empty…</string>
+    <string name="ad_action_hide_view_is_empty">View to block is empty…</string>
+    <string name="ad_action_custom_json_error">Custom hook format is incorrect…\n [{"args":["view_id"],"ht":97,"d":0}]</string>
+    <string name="rule_is_empty">Rule is empty…</string>
+    <string name="replace_dir_is_empty">Directories to be replaced are empty…</string>
+    <string name="replace_dir_is_root">It's a root directory, you can't replace it…</string>
+    <string name="copy_content_success">Copied…</string>
+    <string name="zhi_hu_success">"Zhihu" Xposed enabled…</string>
+    <string name="save_rules_success">Rules saved: %s</string>
+    <string name="ad_content_is_empty">The input is  empty…</string>
+    <string name="ad_url_action_is_empty">Choose a blocking method…</string>
+    <string name="btn_copy_file">Copy(manually)</string>
+    <string name="btn_cancel_tips">Don't show again</string>
+    <string name="app_rules_recovery">Undo file</string>
+    <string name="app_rules_replace">Replace file</string>
+    <string name="app_rules_replace_closed_tips">Replace file is disabled now, rules are hidden</string>
+    <string name="btn_read_device_id">Read</string>
+    <string name="btn_add_2_vxp">Add to vxp</string>
+    <string name="app_is_in_vxp">Added to vxp</string>
+    <string name="app_active_code_12" translatable="false">55So</string>
+    <string name="app_is_in_vxp_global">vxp global mode</string>
+    <string name="app_is_not_in_vxp">Not added to vxp</string>
+    <string name="user_device_desc">Activation code doesn't limit number of devices:\n You may activate with it again once old activation is revoked.</string>
+    <string name="user_device_summary">Current activations: %d</string>
+    <string name="app_skip_help">Manual</string>
+    <string name="app_wu_kong_click_title">Wukong tapping</string>
+    <string name="app_wu_kong_click">There is no ViewId or coordinate, Wukong only support tapping ViewId or coordinate.\n ViewId has better compatibility, coordinate only works on this device.</string>
+    <string name="app_auto_skip_desc">1. Monitor auto skips in 9 seconds\n 2. If "跳过/Skip" is encountered, it'll be tapped on automatically\n 3. The ad activities added in rules won't be processed</string>
+    <string name="app_skip_persist">By default, tapping will be done in 9 seconds after an app is opened.\n For ads that appear during using the app (such as ads appearing in the end of video), continuous monitoring is required. It'll be done according to tapping times, set this value according to your need.</string>
+    <string name="app_rule_dir_ch_attr_open">Enable auto detection and replace</string>
+    <string name="app_rule_dir_ch_attr">If ad files are found to be modified by app, it'll be replaced automatically. This is based on accessibility.</string>
+    <string name="app_skip_view_deep_level"><![CDATA[By default, location of last search will be remembered, if rule stops working, a reset to 0 might be needed;\n 
+        Read data of this specific depth can enhance efficiency and lower memory footprint\n 
+        To read custom depth:\n Snapshot -> tap on a button -> check layout -> first depth is root node (-1) -> next depth is like 0/1/2… .]]></string>
+
+    <string-array name="allLanguages">
+        <item>Choose language</item>
+        <item>en</item>
+        <item>zh</item>
+        <item>zh_hant</item>
+        <item>zh_HK</item>
+        <item>zh_TW</item>
+        <item>zh_MO</item>
+        <item>zh_SG</item>
+    </string-array>
+    <string name="app_active_code_15" translatable="false">56CB</string>
+</resources>

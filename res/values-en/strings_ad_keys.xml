@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="ad_skip_view_text_rb">Text</string>
+    <string name="ad_skip_view_id_rb">ViewId</string>
+    <string name="ad_skip_view_point_rb">Coordinate</string>
+    <string name="ad_skip_auto_back">Back button</string>
+    <string name="ad_skip_view_info_rb">View control</string>
+    <string name="ad_skip_view_auto_rb">Auto skip</string>
+
+    <string name="ad_skip_view_text">Tap on text: (separate multiple items with ;)</string>
+    <string name="ad_skip_view_id">Tap by ViewId: (separate multiple items with ;)</string>
+    <string name="ad_skip_view_point">Tap by coordinate: pixel (x, y)</string>
+    <string name="ad_skip_view_widget">View name</string>
+    <string name="ad_skip_view_widget_deep">Depth of View</string>
+    <string name="ad_skip_view_widget_clickable">延迟可点击</string>
+    <string name="h_bao_we_chat_view_point">Tap by Lucky Money coordinate: pixel (x, y)</string>
+    <string name="h_bao_we_chat_view_id">Tap on Lucky Money ViewId: (separate multiple items with ;)</string>
+    <string name="ad_auto_login_text">Tap login (separate multiple items with ;)</string>
+    <string name="ad_auto_login_sync">Tap message auto sync (separate multiple items with ;)</string>
+
+    <string name="app_active_code_5" translatable="false">5r+A</string>
+</resources>

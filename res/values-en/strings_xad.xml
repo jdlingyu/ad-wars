@@ -1,3 +1,20 @@
 <resources>
+    <string name="forest_energy_enable_hint" formatted="false">You have to enter Ant Forest manually first, then energy harvest will start automatically</string>
+    <string name="forest_energy_filter_hint" formatted="false">Keywords to exclude from energy harvest(user1;user2; .. separate with ;)</string>
+    <string name="forest_energy_filter" formatted="false">Energy harveset disabled for -> %s</string>
+    <string name="forest_energy_enable" formatted="false">Auto harvest energy</string>
 
+    <string name="app_loading_more">Load more…</string>
+    <string name="app_no_more_data">No more data…</string>
+
+    <string name="cube_ptr_pull_down">Pull down</string>
+    <string name="cube_ptr_pull_down_to_refresh">Pull down to refresh</string>
+    <string name="cube_ptr_release_to_refresh">Release to refresh</string>
+    <string name="cube_ptr_refreshing">Loading…</string>
+    <string name="cube_ptr_refresh_complete">Update completed.</string>
+
+    <string name="cube_ptr_last_update">Last update:&#160;</string>
+    <string name="cube_ptr_seconds_ago">&#160; seconds ago</string>
+    <string name="cube_ptr_minutes_ago">&#160; minutes ago</string>
+    <string name="cube_ptr_hours_ago">&#160; hours ago</string>
 </resources>
