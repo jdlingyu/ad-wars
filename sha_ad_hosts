@@ -1,14 +1,15 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下两条
-t7z.cupid.iqiyi.com
+#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√以下
 livew.l.qq.com
-#------看广告获奖相关------#
+t7z.cupid.iqiyi.com
+is.snssdk.com
 wxsnsdy.wxs.qq.com
 adsmind.gdtimg.com
 pv.sohu.com
-x.adnet.qq.com
+gw.365you.com
+mi.gdt.qq.com
 c.gdt.qq.com
 d.gdt.qq.com
 i.gdt.qq.com
@@ -17,7 +18,6 @@ t.gdt.qq.com
 v.gdt.qq.com
 q.i.gdt.qq.com
 v2.gdt.qq.com
-mi.gdt.qq.com
 ii.gdt.qq.com
 rm.gdt.qq.com
 nc.gdt.qq.com
@@ -25,6 +25,7 @@ vr.gdt.qq.com
 rpt.gdt.qq.com
 win.gdt.qq.com
 ipv4.gdt.qq.com
+x.adnet.qq.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 video.market.xiaomi.com
@@ -39,6 +40,7 @@ security.browser.miui.com
 api.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
 m.track.ad.xiaomi.com
+t.track.ad.xiaomi.com
 irs01.com
 m.irs01.com
 z.irs01.com
@@ -68,6 +70,10 @@ api.ts.feedback.71.am
 bj.imp.voiceads.cn
 o2o.api.xiaomi.com
 xiaomi.m.cn.miaozhen.com
+xiaomi-dtv.m.cn.miaozhen.com
+baiducdncmn3.inter.iqiyi.com
+nadvideo2.baidu.com
+cdn.cnbj1.fds.api.mi-img.com
 
 #pkg=iqiyi.com;【爱奇艺 .& TV】. Qiyi
 api.cupid.iqiyi.com
@@ -399,12 +405,9 @@ wxsnsdy.tc.qq.com
 wxsnsad.tc.qq.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
-canvas.gdt.qq.com
 union.gdtimg.com
+canvas.gdt.qq.com
 badjs.weixinbridge.com
-pingfore.qq.com
-minorshort.weixin.qq.com
-aegis.qq.com
 mj.weimob.net
 mon.snssdk.com
 extlog.snssdk.com
@@ -420,7 +423,6 @@ abtest-ch.snssdk.com
 ad.toutiao.com
 dm.toutiao.com
 adshare.toutiao.com
-whoami.akamai.net
 awake-stats.jpush.cn
 miniapp.qiluyidian.mobi
 static.bshare.cn
@@ -646,6 +648,7 @@ dspwin.adsame.com
 tr.adsame.com
 dspimg.adsame.com
 app-tj.adinall.com
+pic.imgdb.cn
 img.xuwnz.cn
 img.wusnz.cn
 img.srxjz.cn
@@ -782,6 +785,9 @@ tl.oneway.mobi
 in.vipliangmei.com
 sdk.open.talk.getui.net
 sdk.open.talk.gepush.com
+ddd.1sapp.com
+trk1.17admob.com
+a.tn.token-ad.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -1124,6 +1130,7 @@ sofire.baidu.com
 tcbox.baidu.com
 browserkernel.baidu.com
 hijack.baidu.com
+feed-image.baidu.com
 tcbox.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
@@ -1187,7 +1194,7 @@ mtt.eve.mdt.qq.com
 push.pgl.qq.com
 rmpad.imtt.qq.com
 isee.weishi.qq.com
-dp3.qq.comqq
+dp3.qq.com
 tangram.e.qq.com
 mig.str.mdt.qq.com
 pms.mb.qq.com
@@ -2307,3 +2314,4 @@ dig.bdurl.net
 *.ysdhe.com
 *.yunpifu.cn
 *.zxwdw.com
+*.mobads.baidu.com

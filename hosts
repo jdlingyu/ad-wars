@@ -1,14 +1,15 @@
 127.0.0.1 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下两条
-127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 livew.l.qq.com
-127.0.0.1 #------看广告获奖相关------#
+#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√以下
+127.0.0.1 livew.l.qq.com # = 腾讯视频
+127.0.0.1 t7z.cupid.iqiyi.com # = 爱奇艺
+127.0.0.1 is.snssdk.com # 以下会影响奖励形式的广告(如:小程序\小游戏等)
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 pv.sohu.com
-127.0.0.1 x.adnet.qq.com
+127.0.0.1 gw.365you.com
+127.0.0.1 mi.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 d.gdt.qq.com
 127.0.0.1 i.gdt.qq.com
@@ -17,7 +18,6 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 v2.gdt.qq.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
 127.0.0.1 nc.gdt.qq.com
@@ -25,6 +25,7 @@
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 ipv4.gdt.qq.com
+127.0.0.1 x.adnet.qq.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 127.0.0.1 video.market.xiaomi.com
@@ -39,6 +40,7 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 m.track.ad.xiaomi.com
+127.0.0.1 t.track.ad.xiaomi.com
 127.0.0.1 irs01.com
 127.0.0.1 m.irs01.com
 127.0.0.1 z.irs01.com
@@ -68,6 +70,10 @@
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 xiaomi.m.cn.miaozhen.com
+127.0.0.1 xiaomi-dtv.m.cn.miaozhen.com
+127.0.0.1 baiducdncmn3.inter.iqiyi.com
+127.0.0.1 nadvideo2.baidu.com
+127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
 
 #pkg=iqiyi.com;【爱奇艺 .& TV】. Qiyi
 127.0.0.1 api.cupid.iqiyi.com
@@ -402,9 +408,6 @@
 127.0.0.1 union.gdtimg.com
 127.0.0.1 canvas.gdt.qq.com
 127.0.0.1 badjs.weixinbridge.com
-127.0.0.1 pingfore.qq.com
-127.0.0.1 minorshort.weixin.qq.com
-127.0.0.1 aegis.qq.com
 127.0.0.1 mj.weimob.net
 127.0.0.1 mon.snssdk.com
 127.0.0.1 extlog.snssdk.com
@@ -420,7 +423,6 @@
 127.0.0.1 ad.toutiao.com
 127.0.0.1 dm.toutiao.com
 127.0.0.1 adshare.toutiao.com
-127.0.0.1 whoami.akamai.net
 127.0.0.1 awake-stats.jpush.cn
 127.0.0.1 miniapp.qiluyidian.mobi
 127.0.0.1 static.bshare.cn
@@ -646,6 +648,7 @@
 127.0.0.1 tr.adsame.com
 127.0.0.1 dspimg.adsame.com
 127.0.0.1 app-tj.adinall.com
+127.0.0.1 pic.imgdb.cn
 127.0.0.1 img.xuwnz.cn
 127.0.0.1 img.wusnz.cn
 127.0.0.1 img.srxjz.cn
@@ -782,6 +785,9 @@
 127.0.0.1 in.vipliangmei.com
 127.0.0.1 sdk.open.talk.getui.net
 127.0.0.1 sdk.open.talk.gepush.com
+127.0.0.1 ddd.1sapp.com
+127.0.0.1 trk1.17admob.com
+127.0.0.1 a.tn.token-ad.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 ads.google.com
@@ -1124,6 +1130,7 @@
 127.0.0.1 tcbox.baidu.com
 127.0.0.1 browserkernel.baidu.com
 127.0.0.1 hijack.baidu.com
+127.0.0.1 feed-image.baidu.com
 127.0.0.1 tcbox.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -1187,7 +1194,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 rmpad.imtt.qq.com
 127.0.0.1 isee.weishi.qq.com
-127.0.0.1 dp3.qq.comqq
+127.0.0.1 dp3.qq.com
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 mig.str.mdt.qq.com
 127.0.0.1 pms.mb.qq.com
