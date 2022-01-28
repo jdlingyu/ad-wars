@@ -15,19 +15,16 @@ values-en 翻译英文
 ```
 
 
-# 大圣净化 使用帮助
-
-应用下载地址(捐赠版本需激活码)
-
-> https://fir.im/adwars
+# 大圣净化
+[下载](https://estar.lanzouo.com/s/DaMagisk)
 
 集合八戒/悟空/唐僧功能，一款多种姿势去除广告的应用...
 
-#### 一指禅 [酷安下载](https://www.coolapk.com/apk/me.app.xad)
-> 借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告。
+#### 一指禅 
+[下载](https://estar.lanzouo.com/s/OneMagisk)
 
-#### 悟空 [下载(免费)](https://wiki.ad-gone.com/wukong.html)
-> 基于 Xposed 框架，在不改变原生安装包的前提下，用多种拦截手段消灭启动广告。
+借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告。
+
 
 #### 社区 [chensansui](https://www.chensansui.com/)
 > 规则讨论社区。
@@ -35,7 +32,8 @@ values-en 翻译英文
 
 #### 寻找组织
 - [Telegram(打开404的话 你懂的)](https://t.me/joinchat/BLuH808gFtJ03aqPlzXEaQ)
-- [QQ群：1019664897](https://jq.qq.com/?_wv=1027&k=kFPDuMvX)
+- [QQ频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1b14h3&from=246610&biz=ka)
+- [电报Channel](https://t.me/xad_fire)
 
 #### 目录
 - [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/00-悟空净化)
