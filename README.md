@@ -18,12 +18,12 @@ values-en 翻译英文
 # 大圣净化
 [下载](https://estar.lanzouo.com/s/DaMagisk)
 
-集合八戒/悟空/唐僧功能，一款多种姿势去除广告的应用...
+> 集合八戒/悟空/唐僧功能，一款多种姿势去除广告的应用...
 
-#### 一指禅 
+# 一指禅 
 [下载](https://estar.lanzouo.com/s/OneMagisk)
 
-借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告。
+> 借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告。
 
 
 #### 社区 [chensansui](https://www.chensansui.com/)
