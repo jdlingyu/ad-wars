@@ -1,12 +1,13 @@
 ### 大圣净化
-> 集合八戒/悟空/唐僧功能，一款多种姿势去除广告的应用...
-[下载地址](https://estar.lanzouo.com/s/DaMagisk)
+> 集合八戒/悟空/唐僧功能，一款多种姿势去除广告的应用...  
 
-
+##### [下载地址](https://estar.lanzouo.com/s/DaMagisk)
+----
 ### 一指禅 
-> 借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告。
-[下载地址](https://estar.lanzouo.com/s/OneMagisk)
+> 借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告...  
 
+##### [下载地址](https://estar.lanzouo.com/s/OneMagisk)
+----
 
 ### 社区 [chensansui](https://www.chensansui.com/)
 > 规则讨论社区。
