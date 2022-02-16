@@ -7,6 +7,7 @@ t7z.cupid.iqiyi.com
 is.snssdk.com
 wxsnsdy.wxs.qq.com
 adsmind.gdtimg.com
+qzs.gdtimg.com
 pv.sohu.com
 gw.365you.com
 mi.gdt.qq.com
@@ -258,6 +259,8 @@ ad.cctv.com
 d.cntv.cn
 adguanggao.eee114.com
 cctv.adsunion.com
+adstore-1252524079.file.myqcloud.com
+adstore-index-1252524079.file.myqcloud.com
 
 #pkg=fun.tv;【风行&酷喵TV】. FunShion
 aa0.pub.funshion.com
@@ -282,11 +285,15 @@ rest.irs01.com
 px.ucweb.com
 huichuan.sm.cn
 timeserver.cnzz.net
+val.atm.youku.com
 
-#pkg=ad.cmvideo.cn;【咪咕┆土豆┆人人┆酷6┆等……】
+#pkg=ad.cmvideo.cn;【咪咕┆土豆┆人人┆等……】
 ggx.cmvideo.cn
 adxserver.ad.cmvideo.cn
 openstorage.ad.cmvideo.cn
+ggx01.miguvideo.com
+ggx02.miguvideo.com
+ggx10.miguvideo.com
 at-img1.tdimg.com
 at-img2.tdimg.com
 at-img3.tdimg.com
@@ -305,7 +312,6 @@ pole.6rooms.com
 shrek.6.cn
 simba.6.cn
 union.6.cn
-m.openv.tv
 mcfg.sandai.net
 biz5.sandai.net
 3.iscrv.com
@@ -439,11 +445,13 @@ bjuser.jpush.cn
 admusicpic.music.126.net
 iadmusicmat.music.126.net
 clientlog3.music.163.com
+iadmusicmatvideo.music.126.net
 sdkapp.mobile.sina.cn
 wbapp.mobile.sina.cn
 vs.biz.weibo.com
 dp.im.weibo.cn
 ad.us.sinaimg.cn
+adstrategy.biz.weibo.com
 sax.sina.com.cn
 saxn.sina.com.cn
 beacon.sina.com.cn
@@ -582,7 +590,9 @@ dspwin.adsame.com
 tr.adsame.com
 dspimg.adsame.com
 app-tj.adinall.com
-pic.imgdb.cn
+g.koowo.com
+mobilead.kuwo.cn
+splashimgbssdl.yun.kugou.com
 img.xuwnz.cn
 img.srxjz.cn
 m.shilian168.cn
@@ -708,6 +718,50 @@ sdk.open.talk.gepush.com
 ddd.1sapp.com
 trk1.17admob.com
 a.tn.token-ad.com
+adashx.ut.amap.com
+x1.go.sohu.com
+aads.shuzilm.cn
+dsp.ads.umeng.com
+sdk.open.talk.getui.com
+st.appsad.cn
+adx.timewit.cn
+track.adx.adlefee.com
+stats.xwuad.com
+ad.api.youshiad.cn
+adx-bid.tianzhuobj.com
+platform.adwep.com
+cdn.pyadx.com
+js-ad.a.yximgs.com
+tx-ad.a.yximgs.com
+ana.masky.biddingx.com
+ifs.tanx.com
+ifsk2.tanx.com
+adashx.ut.ele.me
+h-adashx.ut.ele.me
+e-ad-monitor.huya.com
+adlaunch.qtfm.cn
+fumiad.dxys.pro
+talk.nz4.getui.com
+c-gi.getui.com
+gbfek.dfcfw.com
+emdcadvise.eastmoney.com
+emdcadvertise.eastmoney.com
+empic.dfcfw.com
+dfscdn.dfcfw.com
+config.jpush.cn
+adash-emas.cn-hangzhou.aliyuncs.com
+config-junion.jpush.cn
+report-stats.ad.jiguang.cn
+stat2.openinstall.io
+cdn-sdk-opt.getui.com
+t.adbxb.com
+tracking.v.tf.360.cn
+adx.doumpaq.com
+adx.kuaiyiad.com
+search.mgc-games.com
+adstats.mgc-games.com
+api.snmi.cn
+s.snmi.cn
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -942,7 +996,6 @@ crs.baidu.com
 eclick.baidu.com
 eiv.baidu.com
 entry.baidu.com
-hm.baidu.com
 idm-su.baidu.com
 idm.bce.baidu.com
 mobads-logs.baidu.com
@@ -988,11 +1041,14 @@ adavideo.baidu.com
 ada.baidu.com
 tuijian.baidu.com
 ucstat.baidu.com
-union.baidu.com
-unionimage.baidu.com
 crab.baidu.com
 api1.tuisong.baidu.com
-hpd.baidu.com
+baidu-mipdx.cn.miaozhen.com
+api3.tuisong.baidu.com
+api8.tuisong.baidu.com
+sa.tuisong.baidu.com
+api.tuisong.baidu.com
+sa8.tuisong.baidu.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -1049,6 +1105,7 @@ masdk.3g.qq.com
 ten.sngapm.qq.com
 ads.privacy.qq.com
 tdid.m.qq.com
+h.trace.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1061,6 +1118,7 @@ ilce.alicdn.com
 abtest.alibaba.com
 proxy-mob-cld.alicdn.com
 www.uyunad.com
+ali-ad.a.yximgs.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
 adashxgc.ut.taobao.com
@@ -1084,6 +1142,8 @@ audid-api.taobao.com
 adashx4yt.m.taobao.com
 h-adashx4yt.ut.taobao.com
 umdc.aliapp.org
+gaode-acs.m.taobao.com
+gaode-jmacs.m.taobao.com
 
 #pkg=xxx.ad.doubleclick.net;广告联盟
 iqiyi.irs01.com
@@ -1597,7 +1657,6 @@ hzs8.cnzz.com
 hzs9.cnzz.com
 hzvs1.cnzz.com
 pcookie.cnzz.com
-dig.bdurl.net
 
 #pkg=adx.regex.com;通配符拦截（强力但难免存在误伤）
 *.irs01.com
