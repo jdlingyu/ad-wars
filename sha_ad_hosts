@@ -1,15 +1,18 @@
 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√以下
+#pkg=white.ad.web.com;〔提示误伤〕选择性不√以下子项
+#----------------
 livew.l.qq.com
 t7z.cupid.iqiyi.com
-is.snssdk.com
 wxsnsdy.wxs.qq.com
+#----------------
+#--下列会影响奖励形式的广告(小程序\小游戏等)
+is.snssdk.com
 adsmind.gdtimg.com
-qzs.gdtimg.com
 pv.sohu.com
 gw.365you.com
+x.adnet.qq.com
 mi.gdt.qq.com
 c.gdt.qq.com
 d.gdt.qq.com
@@ -26,7 +29,6 @@ vr.gdt.qq.com
 rpt.gdt.qq.com
 win.gdt.qq.com
 ipv4.gdt.qq.com
-x.adnet.qq.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 video.market.xiaomi.com
@@ -286,6 +288,11 @@ px.ucweb.com
 huichuan.sm.cn
 timeserver.cnzz.net
 val.atm.youku.com
+ykad-data.youku.com
+yk-ssp.ad.youku.com
+adashx.ut.youku.com
+adx-open-service.youku.com
+h-adashx.ut.youku.com
 
 #pkg=ad.cmvideo.cn;【咪咕┆土豆┆人人┆等……】
 ggx.cmvideo.cn
@@ -593,6 +600,9 @@ app-tj.adinall.com
 g.koowo.com
 mobilead.kuwo.cn
 splashimgbssdl.yun.kugou.com
+m1.ad.10010.com
+glores2.taisantech.com
+sanme2.taisantech.com
 img.xuwnz.cn
 img.srxjz.cn
 m.shilian168.cn
@@ -762,6 +772,25 @@ search.mgc-games.com
 adstats.mgc-games.com
 api.snmi.cn
 s.snmi.cn
+fms.ipinyou.com
+ssp1.kfadx.tech
+vapi.tiandi.com
+s.adxvip.com
+c-gtc.getui.net
+b-gtc.gepush.com
+b-gtc.getui.net
+talk.nz4.gepush.com
+talk.nz4.getui.net
+advert.lx.netease.com
+ma-adx.ctrip.com
+gi.gepush.com
+gi.getui.net
+b-gi.gepush.com
+b-gi.getui.net
+s.trafficjam.cn
+wkrd.tingyun.com
+mon.ad.xelements.cn
+imp.ad.xelements.cn
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -1033,6 +1062,8 @@ tcbox.baidu.com
 browserkernel.baidu.com
 hijack.baidu.com
 feed-image.baidu.com
+hpd.baidu.com
+hm.baidu.com
 tcbox.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
@@ -1049,6 +1080,7 @@ api8.tuisong.baidu.com
 sa.tuisong.baidu.com
 api.tuisong.baidu.com
 sa8.tuisong.baidu.com
+cpro.baidustatic.com
 
 #pkg=qq.com;腾讯广告服务
 ad.qun.qq.com
@@ -1066,6 +1098,24 @@ adsview.qq.com
 adsview2.qq.com
 adv.app.qq.com
 adver.qq.com
+adfilter.imtt.qq.com
+adping.qq.com
+adpm.app.qq.com
+ad.qq.com
+adsense.html5.qq.com
+adsfile.qq.com
+adsgroup.qq.com
+adshmct.qq.com
+adshmmsg.qq.com
+adslvfile.qq.com
+adslvseed.qq.com
+adsolution.imtt.qq.com
+adsrich.qq.com
+adstextview.qq.com
+adsview2.qq.com
+adsview.qq.com
+adv.app.qq.com
+adver.qq.com
 d3g.qq.com
 jqmt.qq.com
 jsqmt.qq.com
@@ -1077,8 +1127,6 @@ sdk.e.qq.com
 p.l.qq.com
 dp3.qq.com
 us.l.qq.com
-commdata6.v.qq.com
-sdksp6.video.qq.com
 android.rqd.qq.com
 android.bugly.qq.com
 api.poll.aiseet.atianqi.com
@@ -1106,6 +1154,10 @@ ten.sngapm.qq.com
 ads.privacy.qq.com
 tdid.m.qq.com
 h.trace.qq.com
+mtt.str.mdt.qq.com
+tmeadcomm.y.qq.com
+qzs.gdtimg.com
+public.gdtimg.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
@@ -1193,6 +1245,8 @@ alog.umeng.com
 alog.umengcloud.com
 alog.umeng.com
 alog.umengcloud.com
+alogus.umeng.com
+alogsus.umeng.com
 ulogs.umeng.com
 ulogs.umengcloud.com
 plbslog.umeng.com
@@ -1209,6 +1263,8 @@ api.wsq.umeng.com
 ar.umeng.com
 oc.umeng.com
 errlog.umeng.com
+offmsg.umeng.com
+aaid.umeng.com
 api.so.lianmeng.360.cn
 s.lianmeng.360.cn
 s1.stat.lianmeng.360.cn
@@ -1487,7 +1543,6 @@ ad.dev.360.cn
 ad.duapps.com
 adeventtracker.spotify.com
 adfill.adview.cn
-adfilter.imtt.qq.com
 ad.flurry.com
 adfuture.cn
 ad.gamebox.360.cn
@@ -1509,13 +1564,8 @@ adm.leju.sina.com.cn
 ad.netowl.jp
 adn.insight.ucweb.com
 a.dounanhuahui.com
-adping.qq.com
-adpm.app.qq.com
 adpro.pro.cn
 adpublish.ydstatic.com
-ad.qq.com
-ad.qun.qq.com
-adrdir.qq.com
 adres.myaora.net
 ads1.msads.net
 ads1.msn.com
@@ -1526,7 +1576,6 @@ ads-a.juicyads.com
 adsco.re
 ads.creative-serving.com
 adsence.sogou.com
-adsense.html5.qq.com
 adserve2.tom.com
 adserver.adtech.de
 adserver.adtechus.com
@@ -1535,33 +1584,22 @@ adserver-us.adtech.advertising.com
 adserver.xpanama.net
 adserver.yahoo.com
 ads.eu.msn.com
-adsfile.qq.com
 ads.flurry.com
 adsfs.oppomobile.com
 ads.gionee.com
 ads.gmodules.com
-adsgroup.qq.com
-adshmct.qq.com
-adshmmsg.qq.com
-adslvfile.qq.com
-adslvseed.qq.com
 adsmogo.com
 ads.msn.com
 ads.ninemsn.com.au
 ad.sohu.com
-adsolution.imtt.qq.com
 ads.pubmatic.com
 adsp.xunlei.com
-adsrich.qq.com
 ads.servebom.com
 ads.service.kugou.com
 ads.sina.com
 ads.stickyadstv.com
 adss.yahoo.com
-adstextview.qq.com
 adsunflower.com
-adsview2.qq.com
-adsview.qq.com
 ads.waps.cn
 ads.wapx.cn
 ads.yahoo.com
@@ -1572,8 +1610,6 @@ ads.youtube.com
 adtest.adwo.com
 adtrack.ucweb.com
 adui.tg.meitu.com
-adv.app.qq.com
-adver.qq.com
 adview.cn
 ad.wang502.com
 ad.winrar.com.cn
