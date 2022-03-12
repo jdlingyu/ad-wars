@@ -2,12 +2,9 @@ localhost
 ::1 localhost
 
 #pkg=white.ad.web.com;〔提示误伤〕选择性不√以下子项
-#----------------
 livew.l.qq.com
 t7z.cupid.iqiyi.com
 wxsnsdy.wxs.qq.com
-#----------------
-#--下列会影响奖励形式的广告(小程序\小游戏等)
 is.snssdk.com
 adsmind.gdtimg.com
 pv.sohu.com
@@ -29,6 +26,7 @@ vr.gdt.qq.com
 rpt.gdt.qq.com
 win.gdt.qq.com
 ipv4.gdt.qq.com
+v6ii.gdt.qq.com
 
 #pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
 video.market.xiaomi.com
@@ -385,9 +383,6 @@ miniapp.qiluyidian.mobi
 static.bshare.cn
 launches.appsflyer.com
 cl2.webterren.com
-api-access.pangolin-sdk-toutiao.com
-api-access.pangolin-sdk-toutiao-b.com
-log-api.pangolin-sdk-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com
 test.adsp.xunlei.com
 api-mcp.adsp.xunlei.com
@@ -603,6 +598,10 @@ splashimgbssdl.yun.kugou.com
 m1.ad.10010.com
 glores2.taisantech.com
 sanme2.taisantech.com
+madeqr.com
+api-access.pangolin-sdk-toutiao.com
+api-access.pangolin-sdk-toutiao-b.com
+log-api.pangolin-sdk-toutiao.com
 img.xuwnz.cn
 img.srxjz.cn
 m.shilian168.cn
@@ -753,11 +752,8 @@ adlaunch.qtfm.cn
 fumiad.dxys.pro
 talk.nz4.getui.com
 c-gi.getui.com
-gbfek.dfcfw.com
 emdcadvise.eastmoney.com
 emdcadvertise.eastmoney.com
-empic.dfcfw.com
-dfscdn.dfcfw.com
 config.jpush.cn
 adash-emas.cn-hangzhou.aliyuncs.com
 config-junion.jpush.cn
@@ -791,6 +787,15 @@ s.trafficjam.cn
 wkrd.tingyun.com
 mon.ad.xelements.cn
 imp.ad.xelements.cn
+league1.maoyuncloud.cn
+lupic.cdn.bcebos.com
+androidads4-6.adcolony.com
+adc3-launch.adcolony.com
+wd.adcolony.com
+amap-aos-info-nogw.amap.com
+adreport.adtianmai.com
+adapi.izuiyou.com
+adstat.izuiyou.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 ads.google.com
@@ -1157,6 +1162,9 @@ mtt.str.mdt.qq.com
 tmeadcomm.y.qq.com
 qzs.gdtimg.com
 public.gdtimg.com
+cmshow.gtimg.cn
+qappcenterv6.3g.qq.com
+aeventlog.beacon.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 adash.man.aliyuncs.com
