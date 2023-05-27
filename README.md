@@ -9,10 +9,6 @@
 ##### [下载地址](https://estar.lanzouo.com/s/OneMagisk)
 ----
 
-### 社区 [chensansui](https://www.chensansui.com/)
-> 规则讨论社区。
-
-
 #### 寻找组织
 - [Telegram(打开404的话 你懂的)](https://t.me/joinchat/BLuH808gFtJ03aqPlzXEaQ)
 - [QQ频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1b14h3&from=246610&biz=ka)
